@@ -1,11 +1,12 @@
 ---
-date: 2025-04-01
+date: 2025-11-05
 published_by:
-  - Khabar News
-  - Tribun News
+  - Tempo
+  - Khabar News Media
 url:
-  - https://khabarnews.id/polda-jateng-ungkap-penipuan-akpol-oknum-polisi-pekalongan-semarang-2025
-  - https://jateng.tribunnews.com/2025/04/oknum-polisi-pekalongan-semarang-tipu-korban-rp265-miliar-janji-luluskan-akpol
+  - https://www.tempo.co/hukum/2-polisi-pekalongan-jadi-tersangka-penipuan-masuk-akpol-rp-2-6-miliar-2086847
+  - https://www.tempo.co/hukum/polda-jateng-pecat-2-polisi-penipu-rp-2-65-miliar-masuk-akpol-2087249
+  - https://khabarnewsmedia.com/tipu-korban-rp-265-milyar-empat-pelaku-penipuan-penerimaan-taruna-akpol-2025-diringkus/
 tags:
   - Polri
   - Jawa_Tengah
@@ -16,45 +17,57 @@ tags:
 
 ## Ringkasan
 
-Dua oknum anggota Polri berinisial AUK dan FR, bersama dua pelaku sipil, menipu korban dengan modus menjanjikan kelulusan penerimaan taruna Akademi Kepolisian (Akpol) tahun 2025 dengan imbalan Rp2,65 miliar. Kasus terungkap pada periode Desember 2024–April 2025 di wilayah hukum Polda Jawa Tengah.
+Dua oknum anggota Polri berinisial Bripka AUK dan Aipda F dari Polres Pekalongan, bersama dua pelaku sipil (SAP dan JW), menipu korban dengan modus menjanjikan kelulusan penerimaan taruna Akademi Kepolisian (Akpol) tahun 2025 dengan imbalan Rp2,65 miliar. Kasus terungkap pada 5–6 November 2025. Kedua oknum polisi telah dipecat (PTDH) melalui sidang Kode Etik Polri dan proses pidana berjalan di pengadilan umum.
 
 ---
 
 ## Detail Kasus
 
-- **Periode**: Desember 2024 – April 2025
+- **Periode Kejadian**: April–Oktober 2025
+- **Tanggal Terungkap**: 5–6 November 2025
 - **Lokasi**: Pekalongan dan Semarang, Jawa Tengah
 - **Nilai Kerugian**: Rp2,65 miliar
 - **Pelaku**:
-  - AUK (oknum anggota Polri)
-  - FR (oknum anggota Polri)
-  - 2 pelaku sipil (identitas tidak dirilis publik)
+  - Bripka AUK (anggota Polres Pekalongan)
+  - Aipda F (anggota Polres Pekalongan)
+  - SAP (sipil)
+  - JW (sipil)
 - **Modus**: Menjanjikan kelulusan sebagai taruna Akademi Kepolisian (Akpol) angkatan 2025
 
 ### Kronologi
 
-Para pelaku mendekati calon korban yang memiliki anggota keluarga ingin masuk Akpol. Dengan memanfaatkan status sebagai anggota Polri, AUK dan FR meyakinkan korban bahwa mereka memiliki akses dan kemampuan untuk memastikan kelulusan masuk Akpol. Korban menyerahkan uang total Rp2,65 miliar sebagai "biaya" untuk jaminan kelulusan tersebut.
+Para pelaku mendekati calon korban yang memiliki anggota keluarga ingin masuk Akpol. Dengan memanfaatkan status sebagai anggota Polri, Bripka AUK dan Aipda F meyakinkan korban bahwa mereka memiliki akses dan kemampuan untuk memastikan kelulusan masuk Akpol.
 
-Kelulusan yang dijanjikan tidak pernah terwujud. Korban kemudian melaporkan kasus ini ke Polda Jawa Tengah setelah menyadari tertipu.
+Korban menyerahkan uang total Rp2,65 miliar sebagai "biaya" untuk jaminan kelulusan tersebut. Kelulusan yang dijanjikan tidak pernah terwujud. Korban kemudian melaporkan kasus ini ke Polda Jawa Tengah setelah menyadari tertipu.
+
+Polda Jateng mengungkap kasus ini pada 5 November 2025 dan menetapkan keempat pelaku sebagai tersangka.
 
 ### Pasal yang Diterapkan
 
-- Pasal 378 KUHP (penipuan)
-- Pasal 372 KUHP (penggelapan)
+- Pasal 378 KUHP (penipuan) — ancaman maksimal 4 tahun penjara
+- Pasal 372 KUHP (penggelapan) — ancaman maksimal 5 tahun penjara
+- Perkap No. 7 Tahun 2022 (Kode Etik Polri)
 
 ---
 
 ## Perkembangan Hukum
 
-- Kasus ditangani oleh Polda Jawa Tengah
-- Keempat pelaku dijerat dengan Pasal 378 dan 372 KUHP
-- Proses penyidikan dan penuntutan berjalan melalui jalur pidana umum
-- Proses etik terhadap dua oknum anggota Polri juga dijalankan secara paralel
+- **6 November 2025**: Polda Jateng gelar konferensi pers, tetapkan 4 tersangka
+- **Sidang KKEP (Komisi Kode Etik Polri)**: Bripka AUK dan Aipda F dijatuhi sanksi PTDH (Pemberhentian Tidak Dengan Hormat)
+- **Proses Pidana**: Berjalan di pengadilan umum; belum ada vonis final per awal 2026
+- **Status**: Keempat tersangka dalam tahanan Polda Jateng
 
 ---
 
 ## Respons Institusi
 
-- **Polda Jawa Tengah**: Menegaskan tidak ada jalur suap dalam penerimaan Akpol; memproses pelaku secara hukum
+- **Polda Jawa Tengah**: Menegaskan tidak ada jalur suap dalam penerimaan Akpol; memproses pelaku secara hukum hingga tuntas
+- **KKEP Polri**: Menjatuhi sanksi PTDH kepada kedua oknum polisi; menegaskan Polri tidak mentolerir penyalahgunaan jabatan
 - **Kapolrestabes Semarang**: Memastikan proses pidana berjalan terhadap seluruh tersangka
-- Kasus ini menjadi peringatan bagi masyarakat untuk waspada terhadap modus penipuan rekrutmen kepolisian yang memanfaatkan oknum anggota Polri
+- **Divisi Propam Polri**: Kasus ini menjadi salah satu dari 3.001 pelanggaran kode etik Polri sepanjang 2025
+
+---
+
+## Analisis Konteks
+
+Kasus ini menunjukkan pola serupa dengan kasus pemerasan AKBP Bintoro: oknum polisi memanfaatkan jabatan untuk kejahatan finansial. Namun berbeda dengan kasus Bintoro yang hanya berakhir dengan sanksi etik, kasus ini berlanjut ke proses pidana. Ini menunjukkan inkonsistensi dalam penanganan kasus pelanggaran etik Polri: kasus yang melibatkan oknum tingkat rendah (Bripka, Aipda) diproses pidana, sementara perwira menengah (AKBP) hanya dikenai sanksi etik.

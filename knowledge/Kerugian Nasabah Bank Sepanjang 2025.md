@@ -25,10 +25,10 @@ Berdasarkan hasil penelitian dan verifikasi sumber berita selama periode Januari
 <table>
 <thead>
 <tr>
-  <th>Bank</th>
-  <th>Tanggal Kasus</th>
-  <th>Jumlah Kerugian</th>
-  <th>Referensi</th>
+  <th width="28%">Bank</th>
+  <th width="20%">Tanggal Kasus</th>
+  <th width="22%">Jumlah Kerugian</th>
+  <th width="30%">Referensi</th>
 </tr>
 </thead>
 <tbody>
@@ -146,15 +146,15 @@ Berdasarkan hasil penelitian dan verifikasi sumber berita selama periode Januari
 ## Tabel Total Kerugian Berdasarkan Bank (2025)
 
 | Peringkat | Bank                             | Total Kerugian           | Jumlah Kasus | Keterangan                                                                              |
-| --------- | -------------------------------- | ------------------------ | ------------ | --------------------------------------------------------------------------------------- |
-| 1         | **Bank Jatim (BPD Jawa Timur)**  | Rp 569.400.000.000       | 1 kasus      | Kredit fiktif 65 piutang + 4 kontraktor, agunan SPK & invoice palsu                     |
-| 2         | **Bank Jakarta (Bank DKI)**      | Rp 228.100.000.000       | 1 kasus      | Peretasan via BI-FAST, sindikat pembobol bank daerah                                    |
-| 3         | **BNI**                          | Rp 204.575.000.000       | 2 kasus      | Pembobolan rekening dorman Rp 204 M + social engineering Rp 575 juta                    |
-| 4         | **BCA**                          | Rp 70.000.000.000        | 1 kasus      | Eksploitasi API host-to-host bank-sekuritas (RDN Panca Global)                          |
-| 5         | **CIMB Niaga**                   | Rp 2.610.000.000         | 2 kasus      | Hacking BizChannel Batam: PT XSS Rp 1,86 M (23 Des) + PT Laras dkk Rp 750 juta (30 Des) |
-| 6         | **Bank Mandiri**                 | Rp 450.000.000           | 1 kasus      | Deposito nasabah raib, diduga oknum internal Cabang Bima                                |
-| 7         | **BRI**                          | Rp 200.000.000           | 1 kasus      | Kasus Kabanjahe, sudah diganti bank                                                     |
-| 8         | **BSI (Bank Syariah Indonesia)** | Rp 92.200.000            | 1 kasus      | 3 transaksi mencurigakan < 1 menit, Cabang Kutacane                                     |
+|:---------:| -------------------------------- |:------------------------ |:------------:|:--------------------------------------------------------------------------------------- |
+|     1     | **Bank Jatim (BPD Jawa Timur)**  | Rp 569.400.000.000       |   1 kasus    | Kredit fiktif 65 piutang + 4 kontraktor, agunan SPK & invoice palsu                     |
+|     2     | **Bank Jakarta (Bank DKI)**      | Rp 228.100.000.000       |   1 kasus    | Peretasan via BI-FAST, sindikat pembobol bank daerah                                    |
+|     3     | **BNI**                          | Rp 204.575.000.000       |   2 kasus    | Pembobolan rekening dorman Rp 204 M + social engineering Rp 575 juta                    |
+|     4     | **BCA**                          | Rp 70.000.000.000        |   1 kasus    | Eksploitasi API host-to-host bank-sekuritas (RDN Panca Global)                          |
+|     5     | **CIMB Niaga**                   | Rp 2.610.000.000         |   2 kasus    | Hacking BizChannel Batam: PT XSS Rp 1,86 M (23 Des) + PT Laras dkk Rp 750 juta (30 Des) |
+|     6     | **Bank Mandiri**                 | Rp 450.000.000           |   1 kasus    | Deposito nasabah raib, diduga oknum internal Cabang Bima                                |
+|     7     | **BRI**                          | Rp 200.000.000           |   1 kasus    | Kasus Kabanjahe, sudah diganti bank                                                     |
+|     8     | **BSI (Bank Syariah Indonesia)** | Rp 92.200.000            |   1 kasus    | 3 transaksi mencurigakan < 1 menit, Cabang Kutacane                                     |
 | **TOTAL** | **8 bank**                       | **Rp 1.075.427.200.000** | **10 kasus** |                                                                                         |
 
 ## Analisis dan Insight
