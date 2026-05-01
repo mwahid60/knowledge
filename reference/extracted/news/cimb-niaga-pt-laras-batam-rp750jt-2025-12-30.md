@@ -9,7 +9,7 @@ tags:
   - Kepulauan_Riau
   - Hacking
   - BizChannel
-  - Internet_Banking_Korporat
+  - Corporate_Internet_Banking
 ---
 # CIMB Niaga Batam: PT Laras Era Perdana dkk Dibobol Rp750 Juta via BizChannel (Desember 2025)
 

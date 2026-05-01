@@ -11,9 +11,9 @@ url:
 tags:
   - Polri
   - Nusa_Tenggara_Barat
-  - Pembunuhan
-  - Penganiayaan_Sesama_Aparat
-  - Penyalahgunaan_Wewenang
+  - Murder
+  - Assault_on_Colleague
+  - Abuse_of_Authority
 ---
 ## Ringkasan
 

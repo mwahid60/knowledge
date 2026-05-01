@@ -14,7 +14,7 @@ tags:
   - BCA
   - Nasional
   - Hacking
-  - Sekuritas
+  - Securities
   - Cyber_Security
 ---
 # BCA / Panca Global Sekuritas: Pembobolan RDN Rp70 Miliar (September 2025)

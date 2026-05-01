@@ -11,9 +11,9 @@ url:
 tags:
   - BSI
   - Aceh
-  - Oknum_Internal
-  - Rekening_Tabungan
-  - Investigasi_Berjalan
+  - Internal_Perpetrator
+  - Savings_Account
+  - Ongoing_Investigation
 ---
 # BSI Kutacane: Tabungan Nasabah Rp92,2 Juta Raib (Januari 2025)
 

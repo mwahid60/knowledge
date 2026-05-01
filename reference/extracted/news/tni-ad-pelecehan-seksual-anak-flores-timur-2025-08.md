@@ -11,9 +11,9 @@ url:
 tags:
   - TNI_AD
   - Nusa_Tenggara_Timur
-  - Pelecehan_Seksual
-  - Kekerasan_Seksual
-  - Perlindungan_Anak
+  - Sexual_Harassment
+  - Sexual_Violence
+  - Child_Protection
 ---
 
 ## Ringkasan

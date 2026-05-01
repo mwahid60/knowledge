@@ -14,9 +14,9 @@ url:
 tags:
   - TNI_AL
   - Kalimantan_Selatan
-  - Pembunuhan
-  - Pelecehan_Seksual
-  - Kekerasan_Terhadap_Perempuan
+  - Murder
+  - Sexual_Harassment
+  - Violence_Against_Women
 ---
 
 ## Ringkasan

@@ -15,9 +15,9 @@ url:
 tags:
   - BNI
   - Nasional
-  - Pembobolan_Rekening
-  - Rekening_Dorman
-  - Oknum_Internal
+  - Account_Hacking
+  - Dormant_Account
+  - Internal_Perpetrator
 ---
 # BNI: Pembobolan Rekening Dorman Rp204 Miliar (Juni 2025)
 

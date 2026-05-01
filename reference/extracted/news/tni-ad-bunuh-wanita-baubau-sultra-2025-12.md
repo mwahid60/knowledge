@@ -14,8 +14,8 @@ url:
 tags:
   - TNI_AD
   - Sulawesi_Tenggara
-  - Pembunuhan
-  - Kekerasan_Terhadap_Perempuan
+  - Murder
+  - Violence_Against_Women
   - Femicide
 ---
 

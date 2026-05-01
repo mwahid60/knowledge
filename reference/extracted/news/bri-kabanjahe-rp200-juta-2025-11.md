@@ -13,9 +13,9 @@ url:
 tags:
   - BRI
   - Sumatera_Utara
-  - Pembobolan_Rekening
-  - Dana_Diganti
-  - Viral_Media_Sosial
+  - Account_Hacking
+  - Funds_Reimbursed
+  - Viral_Social_Media
 ---
 # BRI Kabanjahe: Dana Nasabah Rp200 Juta Raib, Langsung Diganti (November 2025)
 

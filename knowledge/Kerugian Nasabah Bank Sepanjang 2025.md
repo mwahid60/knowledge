@@ -1,9 +1,11 @@
 ---
 created_at: 2026-04-19
 tags:
-  - Berita
-  - Kerugian_Finansial
-  - Bank
+  - News_Research
+  - Banking
+  - Financial_Loss
+  - Fraud
+  - Hacking
 reference:
   - "[[cimb-niaga-pt-laras-batam-rp750jt-2025-12-30]]"
   - "[[cimb-niaga-pt-xss-batam-rp186m-2025-12-23]]"

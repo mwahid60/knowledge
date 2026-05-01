@@ -10,9 +10,9 @@ url:
 tags:
   - Polri
   - Jawa_Tengah
-  - Penipuan
-  - Penyalahgunaan_Jabatan
-  - Penipuan_Rekrutmen
+  - Fraud
+  - Abuse_of_Position
+  - Recruitment_Fraud
 ---
 
 ## Ringkasan

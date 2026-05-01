@@ -3,16 +3,16 @@
 ## Academic
 folder : `/extracted/academic`
 
-| file_name | description |
-|-----------|-------------|
+| file_name                                                                                                                   | description                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [[A Desire for a Loud Car with a Modified Muffler is Predicted by Being a Man and Higher Scores on Psychopathy and Sadism]] | Studi psikologi tentang hubungan antara keinginan mobil bising dengan knalpot modifikasi dan skor psikopati serta sadisme pada pria |
-| [[Agentic Context Engineering Evolving Contexts for Self-Improving Language Models]] | Penelitian tentang teknik engineering konteks agen untuk model bahasa yang dapat meningkatkan diri sendiri |
-| [[Comparative Studies on Biogas Production using Six Different Animal Dungs]] | Studi perbandingan produksi biogas menggunakan enam jenis kotoran hewan berbeda |
-| [[Hierarchical Reasoning Model]] | Model penalaran hierarkis untuk tugas-tugas penalaran kompleks menggunakan rekursi |
-| [[Impact of Solar Panels on Global Climate]] | Analisis dampak panel surya terhadap iklim global dan perubahan suhu |
-| [[Less is More Recursive Reasoning with Tiny Networks]] | Model penalaran rekursif sederhana dengan jaringan kecil untuk generalisasi yang kuat |
-| [[Pengaruh Pencukuran Bulu Terhadap Bobot Komponen Karkas Domba]] | Studi tentang pengaruh pencukuran bulu terhadap bobot komponen karkas domba |
-| [[The Aging Epigenome]] | Penelitian tentang epigenom dan proses penuaan pada organisme |
+| [[Agentic Context Engineering Evolving Contexts for Self-Improving Language Models]]                                        | Penelitian tentang teknik engineering konteks agen untuk model bahasa yang dapat meningkatkan diri sendiri                          |
+| [[Comparative Studies on Biogas Production using Six Different Animal Dungs]]                                               | Studi perbandingan produksi biogas menggunakan enam jenis kotoran hewan berbeda                                                     |
+| [[Hierarchical Reasoning Model]]                                                                                            | Model penalaran hierarkis untuk tugas-tugas penalaran kompleks menggunakan rekursi                                                  |
+| [[Impact of Solar Panels on Global Climate]]                                                                                | Analisis dampak panel surya terhadap iklim global dan perubahan suhu                                                                |
+| [[Less is More Recursive Reasoning with Tiny Networks]]                                                                     | Model penalaran rekursif sederhana dengan jaringan kecil untuk generalisasi yang kuat                                               |
+| [[Pengaruh Pencukuran Bulu Terhadap Bobot Komponen Karkas Domba]]                                                           | Studi tentang pengaruh pencukuran bulu terhadap bobot komponen karkas domba                                                         |
+| [[The Aging Epigenome]]                                                                                                     | Penelitian tentang epigenom dan proses penuaan pada organisme                                                                       |
 
 ## Information
 folder : `/extracted/information`
@@ -27,6 +27,20 @@ folder : `/extracted/news`
 | file_name | description |
 |-----------|-------------|
 | [[bank-dki-peretasan-bi-fast-2025-03]] | Kasus peretasan sistem BI-FAST yang menyerang Bank DKI dan 7 bank daerah lainnya |
+| [[phk-sritex-pailit-sukoharjo-2025-03]] | Kasus PHK massal PT Sritex yang dinyatakan pailit dengan 10.000+ karyawan terdampak |
+| [[phk-victory-chingluh-nike-tangerang-2025-10]] | Kasus PHK massal PT Victory Chingluh Indonesia (pemasok Nike) sebanyak 2.804 karyawan |
+| [[phk-michelin-cikarang-2025-11]] | Kasus PHK massal pabrik ban Michelin di Cikarang sebanyak 280 pekerja |
+| [[phk-gudang-garam-kediri-2025-09]] | Kasus PHK di PT Gudang Garam Tbk dengan 309 karyawan |
+| [[phk-media-massa-nasional-2025]] | Gelombang PHK di industri media massa Indonesia sepanjang 2025 |
+| [[phk-efishery-startup-2025-01]] | Kasus PHK massal startup eFishery yang memecat 98% karyawannya |
+| [[phk-kspn-tekstil-massal-2025]] | Data PHK massal di sektor tekstil menurut KSPN dengan 126.160 pekerja terdampak |
+| [[phk-kemnaker-statistik-2025]] | Statistik PHK nasional menurut Kemnaker dengan total 88.519 orang |
+| [[phk-asia-pacific-fibers-karawang-2025]] | Kasus PHK PT Asia Pacific Fibers (POLY) sebanyak 3.000 karyawan akibat penutupan pabrik |
+| [[phk-bitratex-semarang-2025-01]] | Kasus PHK PT Bitratex Semarang sebanyak 1.065 karyawan |
+| [[phk-primayudha-boyolali-2025-03]] | Kasus PHK PT Primayudha Mandirijaya Boyolali sebanyak 956 karyawan |
+| [[phk-cnn-indonesia-tv-2025-01]] | Kasus PHK CNN Indonesia TV sebanyak 200 karyawan |
+| [[phk-kompas-tv-2025-01]] | Kasus PHK Kompas TV sebanyak 150 karyawan |
+| [[phk-tv-one-2025-01]] | Kasus PHK TV One sebanyak 75 karyawan |
 | [[bank-jatim-kredit-fiktif-2025-02]] | Dugaan kredit fiktif senilai Rp 569 miliar di Bank Jatim yang melibatkan kepala cabang |
 | [[bank-mandiri-bima-deposito-raib-2025-07]] | Kasus deposito nasabah Bank Mandiri Cabang Bima yang raib mencapai ratusan juta rupiah |
 | [[bca-panca-global-rdn-rp70-miliar-2025-09]] | Pembobolan rekening dana nasabah (RDN) BCA senilai Rp 70 miliar melalui aplikasi Panca Global |

@@ -1,10 +1,11 @@
 ---
 created_at: 2026-04-21
 tags:
-  - Berita
+  - News_Research
+  - Human_Rights
   - TNI
   - Polri
-  - Pelanggaran_Hukum
+  - Law_Enforcement
 reference:
   - "[[tni-al-tembak-bos-rental-banten-2025-01]]"
   - "[[tni-ad-tembak-polisi-sabung-ayam-lampung-2025-03]]"

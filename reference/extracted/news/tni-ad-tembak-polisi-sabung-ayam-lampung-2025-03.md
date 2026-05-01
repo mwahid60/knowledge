@@ -13,9 +13,9 @@ url:
 tags:
   - TNI_AD
   - Lampung
-  - Pembunuhan
-  - Penembakan_Ilegal
-  - Konflik_TNI_Polri
+  - Murder
+  - Illegal_Shooting
+  - TNI_Polri_Conflict
 ---
 
 ## Ringkasan

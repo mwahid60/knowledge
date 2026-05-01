@@ -103,8 +103,33 @@ tags:
 **Tag Rules:**
 - Exactly 5 tags for reference files
 - Use Title_Case with underscores for multi-word tags
-- Order: Institution → Location → Category → Descriptive tags
+- Order tags for news: Subject → Location → Category → Descriptive tags → Descriptive tags
+- Example tags for news:
+	- Bank_DKI
+	- Jakarta
+	- Hacking
+	- BI-FAST
+	- Hacker_Syndicate
 - Location = province name (not city), or "Nasional" for national cases
+- Order tags for Academic : Main Category → Sub Category → Descriptive tags → Descriptive tags → Descriptive tags
+- Example for Academic:
+	- Psychology
+	- Social_Behavior
+	- Personality
+	- Dark_Personality
+	- Antisocial_Behavior
+- **CRITICAL: ALL tags MUST be written in English EXCEPT location and subject**
+  - Location tags: Use Indonesian province names or "Nasional"
+  - Subject tags: Use Indonesian company/institution names
+  - All other tags (Category, Descriptive): MUST be in English
+  - Examples of CORRECT tags:
+    - Subject: Sritex, Bank_DKI, eFishery
+    - Location: Jawa_Tengah, Jakarta, Nasional
+    - Category: Textile, Banking, Startup, Manufacturing
+    - Descriptive: Layoffs, Bankruptcy, Fraud, Hacking
+  - Examples of INCORRECT tags:
+    - ❌ Tekstil, PHK, Pailit, Keuangan (must be: Textile, Layoffs, Bankruptcy, Finance)
+    - ❌ Berita, Hukum (must be: News, Law)
 
 ## Content Guidelines
 
@@ -158,15 +183,36 @@ Use standard markdown tables for simple summaries:
 - **Dates**: Use DD Month YYYY format in content
 - **Numbers**: Use thousand separators (e.g., Rp 2,65 miliar)
 
-## Analysis Sections
+## Analysis Guidelines
+
+### Root Cause Analysis (RCA)
+Setiap analisis kasus HARUS menjelaskan **sebab dan akibat** secara komprehensif:
+
+1. **Identifikasi Root Cause**: Jangan hanya menyebut faktor (misal: "perang dagang"), tapi jelaskan **mekanisme** kenapa faktor tersebut menyebabkan masalah
+   - ❌ Buruk: "Perang dagang AS-China menyebabkan PHK"
+   - ✅ Baik: "Tarif impor 145% oleh AS terhadap produk China (Mei 2025) memaksa eksportir China mencari pasar alternatif. China melakukan dumping produk tekstil ke Indonesia dengan harga 30-40% di bawah harga pasar. Produk impor ini membanjiri pasar domestik, menyebabkan penurunan permintaan lokal 25%. Perusahaan tekstil lokal kehilangan pendapatan, tidak mampu membayar utang, dan akhirnya bangkrut → PHK massal"
+
+2. **Chain of Effects**: Jelaskan rantai dampak secara berurutan:
+   - **Trigger** (pemicu) → **Direct Effect** (dampak langsung) → **Indirect Effect** (dampak tidak langsung) → **Final Impact** (dampak akhir)
+   - Contoh: Kenaikan suku bunga The Fed 5,5% → arus modal keluar dari emerging markets → pelemahan rupiah 12% → biaya impor bahan baku naik → biaya produksi naik 18% → harga jual tidak kompetitif → penurunan order 30% → PHK
+
+3. **Multiple Perspectives**: Analisis harus mencakup:
+   - **Faktor Eksternal**: Geopolitik, ekonomi global, kebijakan negara lain
+   - **Faktor Internal**: Manajemen, kebijakan perusahaan, teknologi
+   - **Faktor Struktural**: Regulasi, infrastruktur, rantai pasok
+
+4. **Quantitative Impact**: Sertakan angka dan persentase jika tersedia untuk mengukur dampak
+
+### Standard Analysis Sections
 
 Include these standard analyses when relevant:
-1. **Pola Temporal** - Temporal patterns
-2. **Modus Dominan** - Dominant modus operandi
-3. **Pola Impunitas** - Impunity patterns
-4. **Kesesuaian Hukuman** - Analysis of punishment vs law
-5. **Data Konteks** - Context from NGOs/Human rights orgs
-6. **Rekomendasi** - Recommendations
+1. **Pola Temporal** - Temporal patterns with quarterly breakdown
+2. **Modus Dominan** - Dominant modus operandi with specific examples
+3. **Root Cause & Effect Chain** - Sebab-akibat komprehensif (WAJIB)
+4. **Pola Impunitas** - Impunity patterns
+5. **Kesesuaian Hukuman** - Analysis of punishment vs law
+6. **Data Konteks** - Context from NGOs/Human rights orgs
+7. **Rekomendasi** - Specific, actionable recommendations
 
 ## Git Workflow
 

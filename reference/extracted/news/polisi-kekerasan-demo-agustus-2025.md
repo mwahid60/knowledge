@@ -17,9 +17,9 @@ url:
 tags:
   - Polri
   - Nasional
-  - Pembunuhan
-  - Kekerasan_Demonstrasi
-  - Penggunaan_Kekuatan_Berlebihan
+  - Murder
+  - Demonstration_Violence
+  - Excessive_Force
 ---
 
 ## Ringkasan

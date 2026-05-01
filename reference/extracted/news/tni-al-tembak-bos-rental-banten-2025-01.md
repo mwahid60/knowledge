@@ -13,9 +13,9 @@ url:
 tags:
   - TNI_AL
   - Banten
-  - Pembunuhan
-  - Penembakan_Ilegal
-  - Penyalahgunaan_Senjata_Api
+  - Murder
+  - Illegal_Shooting
+  - Firearm_Abuse
 ---
 
 ## Ringkasan

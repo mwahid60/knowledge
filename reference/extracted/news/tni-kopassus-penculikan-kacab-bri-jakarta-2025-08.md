@@ -13,8 +13,8 @@ url:
 tags:
   - TNI_AD
   - DKI_Jakarta
-  - Pembunuhan
-  - Penculikan
+  - Murder
+  - Kidnapping
   - Kopassus
 ---
 

@@ -14,9 +14,9 @@ url:
 tags:
   - Bank_Jatim
   - Jakarta
-  - Kredit_Fiktif
-  - Korupsi_Internal
-  - Kerugian_Negara
+  - Fictitious_Loan
+  - Internal_Corruption
+  - State_Loss
 ---
 # Bank Jatim: Kredit Fiktif Rp569,4 Miliar (Februari 2025)
 

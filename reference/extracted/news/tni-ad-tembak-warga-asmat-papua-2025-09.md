@@ -14,9 +14,9 @@ url:
 tags:
   - TNI_AD
   - Papua_Selatan
-  - Pembunuhan
-  - Penembakan
-  - Pelanggaran_HAM
+  - Murder
+  - Shooting
+  - Human_Rights_Violation
 ---
 
 ## Ringkasan

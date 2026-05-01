@@ -13,7 +13,7 @@ tags:
   - Kepulauan_Riau
   - Hacking
   - BizChannel
-  - Internet_Banking_Korporat
+  - Corporate_Internet_Banking
 ---
 # CIMB Niaga Batam: PT XSS Dibobol Rp1,86 Miliar via BizChannel (Desember 2025)
 

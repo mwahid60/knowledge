@@ -13,9 +13,9 @@ url:
 tags:
   - TNI_AD
   - Kalimantan_Barat
-  - Kekerasan
-  - Kekerasan_Terhadap_Warga_Sipil
-  - Penganiayaan
+  - Violence
+  - Violence_Against_Civilians
+  - Assault
 ---
 
 ## Ringkasan

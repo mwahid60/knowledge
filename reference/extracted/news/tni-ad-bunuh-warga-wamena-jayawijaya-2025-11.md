@@ -13,9 +13,9 @@ url:
 tags:
   - TNI_AD
   - Papua_Pegunungan
-  - Pembunuhan
-  - Penganiayaan
-  - Pelanggaran_HAM
+  - Murder
+  - Assault
+  - Human_Rights_Violation
 ---
 
 ## Ringkasan

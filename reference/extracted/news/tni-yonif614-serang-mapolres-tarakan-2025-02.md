@@ -12,9 +12,9 @@ url:
 tags:
   - TNI_AD
   - Kalimantan_Utara
-  - Kekerasan
-  - Konflik_TNI_Polri
-  - Penyerangan_Fasilitas_Negara
+  - Violence
+  - TNI_Polri_Conflict
+  - Attack_on_State_Facility
 ---
 
 ## Ringkasan

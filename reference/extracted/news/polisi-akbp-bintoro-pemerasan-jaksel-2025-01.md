@@ -13,9 +13,9 @@ url:
 tags:
   - Polri
   - DKI_Jakarta
-  - Pemerasan
-  - Penyalahgunaan_Jabatan
-  - Pelanggaran_Kode_Etik
+  - Extortion
+  - Abuse_of_Position
+  - Ethics_Violation
 ---
 ## Ringkasan
 

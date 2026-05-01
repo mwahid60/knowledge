@@ -15,7 +15,7 @@ tags:
   - Kalimantan_Utara
   - Social_Engineering
   - Phishing
-  - Tidak_Diganti
+  - Not_Reimbursed
 ---
 # BNI Tarakan: Social Engineering NPWP, Nasabah Rugi Rp575 Juta (April 2025)
 

@@ -15,7 +15,7 @@ tags:
   - Jakarta
   - Hacking
   - BI-FAST
-  - Sindikat_Peretas
+  - Hacker_Syndicate
 ---
 # Bank Jakarta (Bank DKI): Peretasan via BI-FAST Rp228,1 Miliar (Maret 2025)
 

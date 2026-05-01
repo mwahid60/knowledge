@@ -9,9 +9,9 @@ url:
 tags:
   - Bank_Mandiri
   - Nusa_Tenggara_Barat
-  - Penggelapan_Dana
-  - Oknum_Internal
-  - Deposito_Nasabah
+  - Embezzlement
+  - Internal_Perpetrator
+  - Customer_Deposit
 ---
 # Bank Mandiri Bima: Deposito Nasabah Rp450 Juta Raib (Juli 2025)
 
