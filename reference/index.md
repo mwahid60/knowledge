@@ -1,4 +1,12 @@
-# Reference Index
+---
+created_at: 2026-05-01
+tags:
+  - Index
+  - Knowledge_Base
+  - Overview
+---
+# Reference Base Index
+Daftar seluruh referensi yang sudah diekstraksi dari berbagai sumber di internet dimuat dalam folder `reference.extracted`.
 
 ## Academic
 folder : `/extracted/academic`
