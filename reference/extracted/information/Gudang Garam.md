@@ -3,15 +3,18 @@ date: 2026-05-01
 published_by:
   - Wikipedia Indonesia
   - Gudang Garam Official Website
+  - Tavily Web Search
 url:
   - https://id.wikipedia.org/wiki/Gudang_Garam
   - https://www.gudanggaramtbk.com
+  - https://www.cnbcindonesia.com/market/20220621092341-17-348795/bukan-cuma-djarum-inilah-raja-pabrik-rokok-di-indonesia
 tags:
   - Gudang_Garam
   - Tobacco
   - Kediri
   - Cigarette_Industry
   - Wonowidjojo_Family
+  - Competitor_Djarum
 ---
 
 # Gudang Garam
@@ -32,6 +35,47 @@ PT Gudang Garam Tbk adalah produsen rokok kretek terbesar di Indonesia yang berk
 | Kantor pusat | Kediri, Jawa Timur, Indonesia |
 | Wilayah operasi | Indonesia |
 | Situs web | [gudanggaramtbk.com](https://www.gudanggaramtbk.com) |
+
+---
+
+## Hubungan dengan BCA dan Grup Djarum
+
+### Kompetitor Langsung Djarum
+
+Gudang Garam adalah **kompetitor langsung** Grup Djarum di industri rokok kretek Indonesia. Meskipun keduanya adalah perusahaan independen dengan pemilik berbeda, mereka bersaing ketat di pasar rokok nasional yang merupakan pasar tembakau terbesar kelima di dunia.
+
+### Perbandingan Djarum vs Gudang Garam
+
+| Aspek | Grup Djarum | Gudang Garam |
+|-------|-------------|--------------|
+| **Pendiri** | Oei Wie Gwan (1951) | Surya Wonowidjojo (1958) |
+| **Pemilik saat ini** | Keluarga Hartono | Keluarga Wonowidjojo |
+| **Pangsa pasar rokok** | ~20% (Euromonitor 2024) | ~21-33% (berbagai estimasi) |
+| **Status bursa** | Perusahaan tertutup (tidak terdaftar di BEI) | Perusahaan publik (BEI: GGRM) |
+| **Pendapatan estimasi** | ~$5,7 miliar | Rp 118,9 triliun (2023) |
+| **Diversifikasi** | BCA, Polytron, properti, e-commerce, F&B | Jalan tol, bandara, media |
+| **Kantor pusat** | Kudus, Jawa Tengah | Kediri, Jawa Timur |
+
+### Koneksi dengan BCA
+
+Meskipun **tidak ada kepemilikan silang langsung** antara Gudang Garam dan BCA, keduanya memiliki hubungan tidak langsung:
+
+1. **BCA dimiliki oleh Grup Djarum** (keluarga Hartono), sementara Gudang Garam dimiliki oleh keluarga Wonowidjojo — dua keluarga terkaya di Indonesia dari industri yang sama.
+
+2. Menurut Forbes, **Hartono bersaudara** (pemilik Djarum/BCA) adalah orang terkaya Indonesia dengan kekayaan US$ 25-35 miliar, disusul **Susilo Wonowidjojo** (pemilik Gudang Garam) dengan kekayaan sekitar Rp 133 triliun (US$ 8-10 miliar).
+
+3. Bloomberg menggunakan **Gudang Garam sebagai benchmark** untuk menilai valuasi Djarum, karena Djarum tidak terdaftar di bursa.
+
+4. Djarum dan Gudang Garam adalah dua dari sedikit produsen rokok kretek besar yang bertahan dan mendominasi pasar Indonesia selama beberapa dekade.
+
+### Filosofi Bisnis Berbeda
+
+| Grup Djarum | Gudang Garam |
+|-------------|--------------|
+| Agresif diversifikasi ke berbagai sektor | Fokus utama pada industri rokok |
+| Menggunakan kekayaan rokok untuk membeli BCA, properti, e-commerce | Mulai diversifikasi ke infrastruktur (tol, bandara) baru-baru ini |
+| Perusahaan tertutup, tidak transparan secara publik | Perusahaan publik, laporan keuangan transparan |
+| Brand: Djarum Super, Djarum Special, Djarum 76 | Brand: GG Merah, Surya, Signature, GG Mild |
 
 ---
 
@@ -278,3 +322,6 @@ Logo lama Gudang Garam digunakan dari **1958 hingga 2018**, sebelum dilakukan pe
 11. "Hoki dan Rezeki Logo Gudang Garam" — Jatimplus.id
 12. "SIASAT MENGEMAS NIKMAT: Ambiguitas Gaya Hidup dalam Iklan Rokok" — B. Riyanto (2019)
 13. "Kretek Indonesia: dari nasionalisme hingga warisan budaya" — Sri Margana
+14. **Tavily Search**: "Bukan Cuma Djarum, Inilah Raja Pabrik Rokok di Indonesia!" — CNBC Indonesia
+15. **Tavily Search**: "Orang Kaya dan Ketimpangan" — Unair News
+16. Wikipedia: "Djarum" — Wikipedia Indonesia

@@ -3,22 +3,26 @@ date: 2026-05-01
 published_by:
   - Wikipedia Indonesia
   - BCA Official Website
+  - Tavily Web Search
 url:
   - https://id.wikipedia.org/wiki/Bank_Central_Asia
   - https://www.bca.co.id/id/tentang-bca
+  - https://www.bloombergtechnoz.com/detail-news/103469/tangan-tangan-bisnis-bambang-hartono-djarum-bbca-sampai-como/2
 tags:
   - BCA
   - Banking
   - Finance
   - Djarum_Group
   - Corporate_History
+  - Hartono_Brothers
+  - Conglomerate
 ---
 
 # BCA (Bank Central Asia)
 
 ## Ringkasan
 
-PT Bank Central Asia Tbk (BCA) adalah bank swasta terbesar di Indonesia. Bank ini didirikan pada 21 Februari 1957 dan pernah menjadi bagian penting dari Grup Salim. Saat ini, BCA dimiliki oleh Grup Djarum melalui PT Dwimuria Investama Andalan.
+PT Bank Central Asia Tbk (BCA) adalah bank swasta terbesar di Indonesia. Bank ini didirikan pada 21 Februari 1957 dan pernah menjadi bagian penting dari Grup Salim. Saat ini, BCA dimiliki oleh **Grup Djarum** (keluarga Hartono) melalui PT Dwimuria Investama Andalan.
 
 | Atribut | Informasi |
 |---------|-----------|
@@ -30,6 +34,53 @@ PT Bank Central Asia Tbk (BCA) adalah bank swasta terbesar di Indonesia. Bank in
 | Wilayah operasi | Indonesia |
 | Slogan | "Senantiasa di Sisi Anda" |
 | Situs web | [bca.co.id](https://www.bca.co.id) |
+
+---
+
+## Hubungan dengan Grup Djarum & Gudang Garam
+
+### Pemilik BCA: Keluarga Hartono (Grup Djarum)
+
+BCA saat ini dimiliki oleh **Grup Djarum**, konglomerat rokok terbesar di Indonesia yang dipimpin oleh bersaudara **Robert Budi Hartono** dan **Michael Bambang Hartono**. Grup Djarum sendiri adalah produsen rokok kretek terbesar keempat di Indonesia, bersaing langsung dengan Gudang Garam di pasar rokok nasional.
+
+### Struktur Kepemilikan
+
+| Entitas | Peran | Keterangan |
+|---------|-------|------------|
+| **PT Dwimuria Investama Andalan** | Holding company pengendali | Dimiliki Robert Budi Hartono (51%) dan Michael Bambang Hartono (49%) |
+| **PT Djarum** | Produsen rokok kretek | Perusahaan inti Grup Djarum, berdiri 1951 di Kudus |
+| **BCA** | Bank swasta terbesar Indonesia | Dimiliki 54,94% oleh PT Dwimuria |
+
+### Koneksi dengan Gudang Garam
+
+Meskipun BCA dan Gudang Garam adalah perusahaan independen dengan pemilik berbeda, keduanya memiliki **hubungan tidak langsung** melalui industri rokok Indonesia:
+
+1. **Grup Djarum** (pemilik BCA) dan **Gudang Garam** adalah dua dari produsen rokok kretek terbesar di Indonesia yang bersaing ketat di pasar yang sama.
+
+2. Menurut data Euromonitor 2024, **Djarum memproduksi sekitar 20% rokok yang dijual di Indonesia**, sementara Gudang Garam memiliki pangsa pasar sekitar 21-33% (berbagai estimasi).
+
+3. Pendapatan Djarum diperkirakan sekitar **$5,7 miliar** (berdasarkan rasio pangsa pasar terhadap pesaing terdekatnya, Gudang Garam).
+
+4. Kedua keluarga — **Hartono** (Djarum/BCA) dan **Wonowidjojo** (Gudang Garam) — masuk dalam daftar orang terkaya Indonesia menurut Forbes.
+
+| Peringkat Forbes | Keluarga | Perusahaan Utama | Kekayaan Estimasi |
+|------------------|----------|------------------|-------------------|
+| #1 | Hartono bersaudara | Djarum + BCA | US$ 25-35 miliar |
+| #2-3 | Wonowidjojo | Gudang Garam | US$ 8-10 miliar |
+
+### Diversifikasi Grup Djarum
+
+Grup Djarum menggunakan kekayaan dari bisnis rokok untuk diversifikasi masif, termasuk:
+- **Perbankan** — BCA (bank swasta terbesar Indonesia)
+- **Elektronika** — Polytron
+- **Perkebunan** — HPI AGRO (50.000 hektar kelapa sawit)
+- **Properti** — Grand Indonesia, Hotel Indonesia, BCA Tower
+- **E-commerce** — Blibli.com, Tiket.com
+- **Ritel** — Ranch Market, Supra Boga Lestari
+- **F&B** — Savoria, Global Dairi Alami, Bakmi GM, 5 Days Croissant
+- **Media** — Mola (streaming), lisensi 88rising
+- **Olahraga** — PB Djarum (badminton), Como 1907 (klub sepak bola Italia)
+- **Kesehatan** — Rumah Sakit Hermina
 
 ---
 
@@ -291,3 +342,9 @@ BCA dimiliki oleh **Grup Djarum** (melalui PT Dwimuria Investama Andalan), kongl
 8. "Bagaimana BCA Berjaya di Masa Orde Baru?" — Tirto.id
 9. "Dwimuria Investama pemilik mayoritas BCA"
 10. "Kapitalisasi Pasar Saham BCA Sentuh Rp 1.001 Triliun"
+11. **Tavily Search**: "Tangan-tangan Bisnis Bambang Hartono: Djarum, BBCA sampai Como" — Bloomberg Technoz
+12. **Tavily Search**: "How Indonesia's Hartono brothers turned a family business into a $47B global empire" — VnExpress International
+13. **Tavily Search**: "Bukan Cuma Djarum, Inilah Raja Pabrik Rokok di Indonesia!" — CNBC Indonesia
+14. **Tavily Search**: "Orang Kaya dan Ketimpangan" — Unair News
+15. Wikipedia: "Michael Bambang Hartono" — English Wikipedia
+16. Wikipedia: "Djarum" — Wikipedia Indonesia
