@@ -27,7 +27,8 @@ folder : `/extracted/information`
 
 | file_name | description |
 |-----------|-------------|
-| *(Belum ada file)* | - |
+| [[BCA (Bank Central Asia)]] | Profil lengkap Bank Central Asia — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
+| [[Gudang Garam]] | Profil lengkap PT Gudang Garam Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
 
 ## News
 folder : `/extracted/news`
