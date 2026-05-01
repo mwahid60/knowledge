@@ -26,7 +26,7 @@ Pada **9 September 2025**, Rekening Dana Nasabah (RDN) milik nasabah PT Panca Gl
 ## Detail Kasus
 
 - **Tanggal kejadian**: 9 September 2025
-- **Bank**: BCA (Bank Central Asia)
+- **Bank**: [[BCA (Bank Central Asia)|BCA (Bank Central Asia)]]
 - **Perusahaan sekuritas**: PT Panca Global Sekuritas
 - **Jenis rekening**: RDN (Rekening Dana Nasabah) — rekening khusus investor pasar modal
 - **Jumlah kerugian**: Rp70.000.000.000
