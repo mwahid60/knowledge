@@ -12,13 +12,33 @@ This is an Obsidian-based knowledge repository for documenting news and research
 ├── logs/                        # Main folder to store logs
 ├── reference/
 │   ├── extracted/
-│   │   └── academic/            # Extracted information from academic research
+│   │   ├── academic/            # Extracted information from academic research
 │   │   ├── information/         # Extracted non-news information or general information
 │   │   └── news/                # Individual news case files
 │   └── raw/                     # Raw PDFs and documents
 ├── .obsidian/                   # Obsidian configuration (gitignored)
 └── .venv/                       # Python virtual environment (gitignored)
 ```
+
+## Research Workflow
+When user ask you to starting a research about specific topic, use this workflow:
+1. **Check Reference Index First** - Read `reference/index.md` to check if the topic already exists in the extracted folders (academic, information, or news). If the information is already available, use the existing reference files instead of searching the web.
+2. **Search Existing References** - If the topic exists in the index, read the relevant reference files to gather information.
+3. **Web Search (if needed)** - Only perform web search if the topic is not found in the reference index or if the existing information is insufficient.
+4. **Create New Reference Files** - After gathering new information, create appropriate reference files following the naming conventions and update `reference/index.md` with the new entries.
+
+### Academic Reference Format
+For academic papers, use **numbered list format** for the reference section:
+```markdown
+## Daftar Pustaka
+
+1. Author, A. A., & Author, B. B. (Year). Title of the article. *Journal Name*, volume(issue), pages. https://doi.org/xxxxx
+2. Author, C. C. (Year). Title of the book. Publisher.
+```
+- Use `## Daftar Pustaka` as the section heading
+- Number each reference sequentially
+- Use italic (`*text*`) for journal names and book titles
+- Include DOI or URL when available
 
 ## File Naming Conventions
 
@@ -30,7 +50,7 @@ This is an Obsidian-based knowledge repository for documenting news and research
 ### Logs Files
 - a file that writes about everything that has been done that day
 - Format: `YYYY-MM-DD.md`
-- Example: `2026-04-23.md
+- Example: `2026-04-23.md`
 
 ### Reference Files
 
@@ -40,7 +60,11 @@ This is an Obsidian-based knowledge repository for documenting news and research
 - Include date for filename in news/ and exclude date for information/
 - Example: `tni-al-tembak-bos-rental-banten-2025-01.md`
 
-#### 
+#### Academic Research
+- Format: `<Academic Title in The File>.md`
+- Use capital word
+- Information is extracted from academic paper
+- Example: `Hierarchical Reasoning Model.md`
 
 ## Front Matter Standards
 
