@@ -146,6 +146,30 @@ tags:
 - Use bullet points for key facts
 - Quote relevant passages from sources
 
+### Information Files (Company Profiles / General Information)
+Files in `reference/extracted/information/` follow a standardized company profile format. Use this structure for all new information files:
+
+**Standard Sections (in order):**
+1. **Ringkasan** — Overview paragraph + attribute table (Nama resmi, Kode emiten, Industri, Didirikan, Kantor pusat, Wilayah operasi, Situs web, dll.)
+2. **Sejarah Berdiri** — Chronological history with era subsections (e.g., Awal Mula, Era Pertumbuhan, Transformasi, Era Modern)
+3. **Kinerja Keuangan** — Table with latest financial metrics (Pendapatan, Laba bersih, Total aset, Total ekuitas, Karyawan)
+4. **Kepemilikan Saham** — Shareholder tables (Pemegang Saham Utama + Riwayat Kepemilikan)
+5. **Kepemimpinan Perusahaan** — Board of Directors / Commissioners tables (Terkini + Riwayat)
+6. **Profil Direksi/Komisaris** (optional) — Detailed career history of key leaders
+7. **Industri & Bidang Usaha** — Numbered list of business segments
+8. **Produk & Layanan** — Categorized tables of products/services
+9. **Afiliasi & Anak Usaha** — Subsidiary/affiliate tables
+10. **Fakta Menarik Tambahan** — Numbered list of unique/interesting facts (8–10 items)
+11. **Referensi** — Numbered list of sources + Tavily Search citations
+
+**Formatting Rules:**
+- Use `---` horizontal rules to separate major sections
+- Use markdown tables for simple data, HTML tables only when complex formatting needed
+- Include financial data with year label (e.g., "Kinerja Keuangan (2023)")
+- Tag Tavily-sourced references with `**Tavily Search**: "Title" — Source`
+- Language: Indonesian (Bahasa Indonesia), except English terms for official names
+- File naming: `<Company Name>.md` (no date, Title Case, e.g., `Panca Global Sekuritas.md`)
+
 ## Table Formatting
 
 ### Main Tables (HTML)
