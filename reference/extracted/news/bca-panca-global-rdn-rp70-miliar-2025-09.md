@@ -21,21 +21,21 @@ tags:
 
 ## Ringkasan
 
-Pada **9 September 2025**, Rekening Dana Nasabah (RDN) milik nasabah PT Panca Global Sekuritas yang tersimpan di BCA dibobol sebesar **Rp70 miliar**. Pelaku mengeksploitasi celah keamanan pada API host-to-host yang menghubungkan sistem bank dengan platform sekuritas. BCA dan Panca Global Sekuritas akhirnya sepakat menanggung kerugian nasabah bersama.
+Pada **9 September 2025**, Rekening Dana Nasabah (RDN) milik nasabah PT Panca Global Sekuritas yang tersimpan di [BCA](../information/BCA%20(Bank%20Central%20Asia).md) dibobol sebesar **Rp70 miliar**. Pelaku mengeksploitasi celah keamanan pada API host-to-host yang menghubungkan sistem bank dengan platform sekuritas. [BCA](../information/BCA%20(Bank%20Central%20Asia).md) dan Panca Global Sekuritas akhirnya sepakat menanggung kerugian nasabah bersama.
 
 ## Detail Kasus
 
 - **Tanggal kejadian**: 9 September 2025
-- **Bank**: [[BCA (Bank Central Asia)|BCA (Bank Central Asia)]]
+- **Bank**: [BCA (Bank Central Asia)](../information/BCA%20(Bank%20Central%20Asia).md)
 - **Perusahaan sekuritas**: PT Panca Global Sekuritas
 - **Jenis rekening**: RDN (Rekening Dana Nasabah) — rekening khusus investor pasar modal
 - **Jumlah kerugian**: Rp70.000.000.000
-- **Modus**: Eksploitasi celah keamanan di API host-to-host yang menghubungkan sistem BCA dengan sistem Panca Global Sekuritas; pelaku memanfaatkan celah untuk mengotorisasi transaksi keluar tanpa autentikasi nasabah
+- **Modus**: Eksploitasi celah keamanan di API host-to-host yang menghubungkan sistem [BCA](../information/BCA%20(Bank%20Central%20Asia).md) dengan sistem Panca Global Sekuritas; pelaku memanfaatkan celah untuk mengotorisasi transaksi keluar tanpa autentikasi nasabah
 - **OJK**: Melakukan investigasi dan menyatakan proses pengawasan berjalan
 
 ## Penyelesaian
 
-- BCA dan Panca Global Sekuritas secara bersama-sama menanggung kerugian Rp70 miliar kepada nasabah yang terdampak
+- [BCA](../information/BCA%20(Bank%20Central%20Asia).md) dan Panca Global Sekuritas secara bersama-sama menanggung kerugian Rp70 miliar kepada nasabah yang terdampak
 - Ini merupakan preseden penting di mana dua institusi berbeda (bank + sekuritas) berbagi tanggung jawab kerugian siber
 
 ## Implikasi

@@ -18,11 +18,11 @@ tags:
 
 ## Ringkasan
 
-[[../information/Gudang Garam|PT Gudang Garam Tbk]] viral di media sosial pada awal September 2025 setelah beredar video perpisahan karyawan yang diduga terkena PHK massal. Manajemen membantah isu PHK massal dan menyebutnya sebagai program pensiun dini sukarela.
+ [PT Gudang Garam Tbk](../information/Gudang%20Garam.md) viral di media sosial pada awal September 2025 setelah beredar video perpisahan karyawan yang diduga terkena PHK massal. Manajemen membantah isu PHK massal dan menyebutnya sebagai program pensiun dini sukarela.
 
 ## Detail Kasus
 
-- **Nama Perusahaan**: PT Gudang Garam Tbk
+- **Nama Perusahaan**: [PT Gudang Garam Tbk](../information/Gudang%20Garam.md)
 - **Industri**: Manufaktur Rokok
 - **Total PHK**: 309 karyawan (menurut manajemen)
 - **Tanggal PHK**: September 2025

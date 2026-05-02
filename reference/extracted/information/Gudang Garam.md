@@ -15,7 +15,6 @@ tags:
   - Tobacco
   - Public_Company
 ---
-
 # Gudang Garam
 
 ## Ringkasan

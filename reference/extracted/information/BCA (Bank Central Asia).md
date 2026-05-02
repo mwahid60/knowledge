@@ -15,7 +15,6 @@ tags:
   - Banking
   - Finances
 ---
-
 # BCA (Bank Central Asia)
 
 ## Ringkasan
