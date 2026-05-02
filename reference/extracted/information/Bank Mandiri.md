@@ -3,7 +3,8 @@ date: 2026-05-02
 published_by:
   - Bank Mandiri Official Website
   - Wikipedia Indonesia
-  - Tavily Web Search
+  - Liputan6
+  - Bisnis.com
 url:
   - https://www.bankmandiri.co.id/profil-perusahaan
   - https://id.wikipedia.org/wiki/Bank_Mandiri
@@ -12,11 +13,10 @@ url:
 tags:
   - Bank_Mandiri
   - Company_Profile
-  - State_Owned_Enterprise
+  - BUMN
   - Banking
   - Finances
 ---
-
 # Bank Mandiri
 
 ## Ringkasan

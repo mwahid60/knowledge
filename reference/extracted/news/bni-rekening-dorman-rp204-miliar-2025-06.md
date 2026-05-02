@@ -28,7 +28,7 @@ Pada **20 Juni 2025**, rekening dorman (non-aktif) milik seorang pengusaha tanah
 ## Detail Kasus
 
 - **Tanggal kejadian**: 20 Juni 2025
-- **Bank**: BNI (Bank Negara Indonesia)
+- **Bank**: [BNI (Bank Negara Indonesia)](../information/BNI%20(Bank%20Negara%20Indonesia).md)
 - **Pemilik rekening**: Pengusaha tanah (identitas dirahasiakan)
 - **Jumlah kerugian**: Rp204.000.000.000
 - **Durasi pembobolan**: 17 menit

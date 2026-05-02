@@ -3,7 +3,7 @@ date: 2026-05-01
 published_by:
   - Wikipedia Indonesia
   - BCA Official Website
-  - Tavily Web Search
+  - Bloomberg Techno Z
 url:
   - https://id.wikipedia.org/wiki/Bank_Central_Asia
   - https://www.bca.co.id/id/tentang-bca

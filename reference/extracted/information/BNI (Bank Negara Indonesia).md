@@ -1,9 +1,9 @@
 ---
 date: 2026-05-02
 published_by:
+  - Wikipedia
+  - CNBC Indonesia
   - BNI Official Website
-  - Wikipedia Indonesia
-  - Tavily Web Search
 url:
   - https://id.wikipedia.org/wiki/Bank_Negara_Indonesia
   - https://en.wikipedia.org/wiki/Bank_Negara_Indonesia
@@ -12,7 +12,7 @@ url:
 tags:
   - BNI
   - Company_Profile
-  - State_Owned_Enterprise
+  - BUMN
   - Banking
   - Finances
 ---

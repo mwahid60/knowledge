@@ -21,12 +21,12 @@ tags:
 
 ## Ringkasan
 
-Iskandar, seorang nasabah BNI di Tarakan, Kalimantan Utara, kehilangan **Rp575 juta** pada **15 April 2025** akibat penipuan social engineering. Pelaku berpura-pura sebagai petugas yang menawarkan jasa pembaruan NPWP, lalu mendapatkan akses ke rekening korban. Dana raib dalam waktu kurang dari satu jam.
+Iskandar, seorang nasabah [BNI](../information/BNI%20(Bank%20Negara%20Indonesia).md) di Tarakan, Kalimantan Utara, kehilangan **Rp575 juta** pada **15 April 2025** akibat penipuan social engineering. Pelaku berpura-pura sebagai petugas yang menawarkan jasa pembaruan NPWP, lalu mendapatkan akses ke rekening korban. Dana raib dalam waktu kurang dari satu jam.
 
 ## Detail Kasus
 
 - **Tanggal kejadian**: 15 April 2025
-- **Bank**: BNI Cabang Tarakan, Kalimantan Utara
+- **Bank**:  [BNI](../information/BNI%20(Bank%20Negara%20Indonesia).md) Cabang Tarakan, Kalimantan Utara
 - **Korban**: Iskandar (warga Tarakan)
 - **Jumlah kerugian**: Rp575.000.000
 - **Modus**: Social engineering — korban dihubungi oknum yang mengaku petugas dan menawarkan jasa upgrade/pembaruan NPWP. Korban diminta berbagi data sensitif (OTP, nomor rekening, dll.), yang kemudian digunakan pelaku untuk menguras rekening

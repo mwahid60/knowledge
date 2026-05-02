@@ -3,7 +3,7 @@ date: 2026-05-01
 published_by:
   - Wikipedia Indonesia
   - Gudang Garam Official Website
-  - Tavily Web Search
+  - CNBC Indonesia
 url:
   - https://id.wikipedia.org/wiki/Gudang_Garam
   - https://www.gudanggaramtbk.com

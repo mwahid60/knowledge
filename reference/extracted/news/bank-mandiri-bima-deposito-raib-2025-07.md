@@ -22,7 +22,7 @@ Pada **Juli 2025**, uang deposito nasabah senilai **Rp450 juta** dilaporkan raib
 ## Detail Kasus
 
 - **Tanggal kejadian**: Juli 2025 (tanggal pasti tidak diungkap)
-- **Bank**: Bank Mandiri Cabang Bima, Nusa Tenggara Barat
+- **Bank**: [Bank Mandiri](Bank%20Mandiri.md) Cabang Bima, Nusa Tenggara Barat
 - **Jumlah kerugian**: Rp450.000.000
 - **Modus**: Diduga oknum internal (karyawan Vivi) menggelapkan dana deposito nasabah; mekanisme detail tidak diungkap sepenuhnya
 - **Tindakan bank**: Vivi dipecat

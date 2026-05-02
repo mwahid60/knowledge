@@ -3,12 +3,12 @@ date: 2026-05-02
 published_by:
   - Panca Global Official Website
   - Indonesia Stock Exchange (IDX)
-  - Tavily Web Search
+  - Stock Plan
 url:
   - https://www.pancaglobal.co.id/about-us
+  - https://www.pancaglobal.co.id/pgs-board-of-director
   - https://www.idx.co.id/id/anggota-bursa-dan-partisipan/profil-anggota-bursa/PG
   - https://stockplan.id/profil-perusahaan/PEGE
-  - https://www.pancaglobal.co.id/pgs-board-of-director
 tags:
   - Panca_Global_Sekuritas
   - Company_Profile

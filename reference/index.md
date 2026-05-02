@@ -6,7 +6,7 @@ tags:
   - Overview
 ---
 # Reference Base Index
-Daftar seluruh referensi yang sudah diekstraksi dari berbagai sumber di internet dimuat dalam folder `reference.extracted`.
+Daftar seluruh referensi yang sudah diekstraksi dari berbagai sumber di internet dimuat dalam folder `reference/extracted`.
 
 ## Academic
 folder : `/extracted/academic`
@@ -25,10 +25,13 @@ folder : `/extracted/academic`
 ## Information
 folder : `/extracted/information`
 
-| file_name | description |
-|-----------|-------------|
-| [[BCA (Bank Central Asia)]] | Profil lengkap Bank Central Asia — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
-| [[Gudang Garam]] | Profil lengkap PT Gudang Garam Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
+| file_name                       | description                                                                                           |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [[BCA (Bank Central Asia)]]     | Profil lengkap Bank Central Asia — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi           |
+| [[Gudang Garam]]                | Profil lengkap PT Gudang Garam Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi         |
+| [[Panca Global Sekuritas]]      | Profil lengkap PT Panca Global Sekuritas — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi   |
+| [[Bank Mandiri]]                | Profil lengkap PT Bank Mandiri Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi         |
+| [[BNI (Bank Negara Indonesia)]] | Profil lengkap PT Bank Negara Indonesia Tbk— sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
 
 ## News
 folder : `/extracted/news`
