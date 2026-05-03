@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:index",
+      "color": {
+        "a": 1,
+        "rgb": 13080115
+      }
+    },
+    {
+      "query": "tag:#News_Research  ",
+      "color": {
+        "a": 1,
+        "rgb": 29147
+      }
+    },
+    {
+      "query": "path:reference/extracted/information  ",
+      "color": {
+        "a": 1,
+        "rgb": 5111786
+      }
+    },
+    {
+      "query": "path:reference/extracted/news  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744576
+      }
+    },
+    {
+      "query": "path:reference/extracted/academic  ",
+      "color": {
+        "a": 1,
+        "rgb": 12550399
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.49981770833333,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.1643025619054044,
+  "close": true
+}

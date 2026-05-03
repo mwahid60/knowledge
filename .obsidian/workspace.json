@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "22f266f04d035c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f000307c130748f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9f05063c9e1a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTS"
+            }
+          },
+          {
+            "id": "0e3325daf3cbc97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/Kerugian Nasabah Bank Sepanjang 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kerugian Nasabah Bank Sepanjang 2025"
+            }
+          },
+          {
+            "id": "40f977b928b7cbbd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9de92b913198bdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a340b37129d1bacb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a79a7e40366cda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "592071c4acc1c463",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90dda537b9ec2d89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c27297a58df45da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f15954f19d3a00e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f8b250a23b2d7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c91a3da9539b7297",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8454887752111277",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4a73fffc48bd442",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4acdb99bf5272505",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "40f977b928b7cbbd",
+  "lastOpenFiles": [
+    "AGENTS.md",
+    "knowledge/Kerugian Nasabah Bank Sepanjang 2025.md",
+    "reference/extracted/news/jokowi-dukung-prabowo-alasan-nasional-2023-06.md",
+    "knowledge/Kemenangan Prabowo dalam Pemilu 2024.md",
+    "knowledge/PHK Sepanjang 2025.md",
+    "reference/extracted/information/Bank Mandiri.md",
+    "reference/extracted/news/bansos-diduga-politisasi-pemilu-nasional-2024-04.md",
+    "reference/extracted/news/mk-putusan-usia-cawapres-gibran-nasional-2023-10.md",
+    "reference/extracted/news/anies-gugat-hasil-pemilu-mk-nasional-2024-04.md",
+    "reference/extracted/news/prabowo-gibran-menang-pemilu-nasional-2024-03.md",
+    "reference/extracted/news/prabowo-menang-pemilu-nasional-2024-03.md",
+    "reference/extracted/information/Kemenangan Prabowo dalam Pemilu 2024.md",
+    "reference/extracted/information/BCA (Bank Central Asia).md",
+    "reference/extracted/information/Panca Global Sekuritas.md",
+    "reference/extracted/information/BNI (Bank Negara Indonesia).md",
+    "reference/extracted/news/bca-panca-global-rdn-rp70-miliar-2025-09.md",
+    "reference/extracted/news/phk-gudang-garam-kediri-2025-09.md",
+    "knowledge/index.md",
+    "reference/extracted/information/Gudang Garam.md",
+    "BCA.md",
+    "reference/index.md",
+    "reference/extracted/news/cimb-niaga-pt-laras-batam-rp750jt-2025-12-30.md"
+  ]
+}
