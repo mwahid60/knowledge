@@ -32,6 +32,9 @@ folder : `/extracted/information`
 | [[Panca Global Sekuritas]]      | Profil lengkap PT Panca Global Sekuritas — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi   |
 | [[Bank Mandiri]]                | Profil lengkap PT Bank Mandiri Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi         |
 | [[BNI (Bank Negara Indonesia)]] | Profil lengkap PT Bank Negara Indonesia Tbk— sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
+| [[CIMB Niaga]]                  | Profil lengkap PT Bank CIMB Niaga Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi      |
+| [[BRI (Bank Rakyat Indonesia)]] | Profil lengkap PT Bank Rakyat Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi  |
+| [[BSI (Bank Syariah Indonesia)]] | Profil lengkap PT Bank Syariah Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
 
 ## News
 folder : `/extracted/news`
@@ -84,4 +87,4 @@ folder : `/extracted/news`
 
 ---
 
-*Terakhir diperbarui: 2026-05-01*
+*Terakhir diperbarui: 2026-05-03*
