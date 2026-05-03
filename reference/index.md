@@ -76,6 +76,11 @@ folder : `/extracted/news`
 | [[tni-kopassus-penculikan-kacab-bri-jakarta-2025-08]] | Kasus penculikan kepala cabang BRI oleh anggota Kopassus di Jakarta |
 | [[tni-pukul-ojol-pontianak-kalbar-2025-09]] | Kasus pemukulan driver ojek online oleh anggota TNI di Pontianak, Kalimantan Barat |
 | [[tni-yonif614-serang-mapolres-tarakan-2025-02]] | Kasus serangan Yonif 614 terhadap Mapolres Tarakan |
+| [[prabowo-gibran-menang-pemilu-nasional-2024-03]] | Hasil resmi KPU: Prabowo-Gibran menang Pemilu Presiden 2024 dengan 96,2 juta suara |
+| [[anies-gugat-hasil-pemilu-mk-nasional-2024-04]] | MK menolak gugatan Anies-Ganjar terhadap hasil Pilpres 2024, meski ada dissenting opinion |
+| [[mk-putusan-usia-cawapres-gibran-nasional-2023-10]] | Putusan MK Nomor 90/2023 tentang batas usia cawapres yang membuka jalan bagi Gibran |
+| [[bansos-diduga-politisasi-pemilu-nasional-2024-04]] | Dugaan politisasi bansos oleh pemerintah Jokowi untuk kemenangan Prabowo-Gibran |
+| [[jokowi-dukung-prabowo-alasan-nasional-2023-06]] | Alasan Jokowi mendukung Prabowo (perjanjian Batu Tulis, faktor Gibran, ketegangan dengan PDIP) |
 
 ---
 

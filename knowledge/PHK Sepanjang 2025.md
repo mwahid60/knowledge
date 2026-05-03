@@ -7,20 +7,20 @@ tags:
   - Manufaktur
   - Tekstil
 reference:
-  - "[[phk-sritex-pailit-sukoharjo-2025-03]]"
-  - "[[phk-victory-chingluh-nike-tangerang-2025-10]]"
-  - "[[phk-michelin-cikarang-2025-11]]"
-  - "[[phk-efishery-startup-2025-01]]"
-  - "[[phk-tv-one-2025-01]]"
-  - "[[phk-kompas-tv-2025-01]]"
-  - "[[phk-cnn-indonesia-tv-2025-01]]"
-  - "[[phk-primayudha-boyolali-2025-03]]"
-  - "[[phk-bitratex-semarang-2025-01]]"
-  - "[[phk-asia-pacific-fibers-karawang-2025]]"
-  - "[[phk-kemnaker-statistik-2025]]"
-  - "[[phk-kspn-tekstil-massal-2025]]"
-  - "[[phk-media-massa-nasional-2025]]"
-  - "[[phk-gudang-garam-kediri-2025-09]]"
+  - "[PHK Sritex Pailit Sukoharjo](/reference/extracted/news/phk-sritex-pailit-sukoharjo-2025-03.md)"
+  - "[PHK Victory Chingluh Nike Tangerang](/reference/extracted/news/phk-victory-chingluh-nike-tangerang-2025-10.md)"
+  - "[PHK Michelin Cikarang](/reference/extracted/news/phk-michelin-cikarang-2025-11.md)"
+  - "[PHK eFishery Startup](/reference/extracted/news/phk-efishery-startup-2025-01.md)"
+  - "[PHK TV One](/reference/extracted/news/phk-tv-one-2025-01.md)"
+  - "[PHK Kompas TV](/reference/extracted/news/phk-kompas-tv-2025-01.md)"
+  - "[PHK CNN Indonesia TV](/reference/extracted/news/phk-cnn-indonesia-tv-2025-01.md)"
+  - "[PHK Primayudha Boyolali](/reference/extracted/news/phk-primayudha-boyolali-2025-03.md)"
+  - "[PHK Bitratex Semarang](/reference/extracted/news/phk-bitratex-semarang-2025-01.md)"
+  - "[PHK Asia Pacific Fibers Karawang](/reference/extracted/news/phk-asia-pacific-fibers-karawang-2025.md)"
+  - "[PHK Kemnaker Statistik](/reference/extracted/news/phk-kemnaker-statistik-2025.md)"
+  - "[PHK KSPN Tekstil Massal](/reference/extracted/news/phk-kspn-tekstil-massal-2025.md)"
+  - "[PHK Media Massa Nasional](/reference/extracted/news/phk-media-massa-nasional-2025.md)"
+  - "[PHK Gudang Garam Kediri](/reference/extracted/news/phk-gudang-garam-kediri-2025-09.md)"
 ---
 # Kejadian PHK Sepanjang 2025
 

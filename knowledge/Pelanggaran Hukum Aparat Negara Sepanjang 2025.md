@@ -7,20 +7,20 @@ tags:
   - Polri
   - Law_Enforcement
 reference:
-  - "[[tni-al-tembak-bos-rental-banten-2025-01]]"
-  - "[[tni-ad-tembak-polisi-sabung-ayam-lampung-2025-03]]"
-  - "[[polisi-bunuh-brigadir-nurhadi-ntb-2025-04]]"
-  - "[[polisi-akbp-bintoro-pemerasan-jaksel-2025-01]]"
-  - "[[tni-yonif614-serang-mapolres-tarakan-2025-02]]"
-  - "[[polisi-penipuan-akpol-jateng-2025]]"
-  - "[[tni-pukul-ojol-pontianak-kalbar-2025-09]]"
-  - "[[tni-kopassus-penculikan-kacab-bri-jakarta-2025-08]]"
-  - "[[polisi-kekerasan-demo-agustus-2025]]"
-  - "[[tni-al-bunuh-jurnalis-juwita-banjarbaru-2025-03]]"
-  - "[[tni-ad-tembak-warga-asmat-papua-2025-09]]"
-  - "[[tni-ad-bunuh-warga-wamena-jayawijaya-2025-11]]"
-  - "[[tni-ad-bunuh-wanita-baubau-sultra-2025-12]]"
-  - "[[tni-ad-pelecehan-seksual-anak-flores-timur-2025-08]]"
+  - "[TNI AL Tembak Bos Rental Banten](/reference/extracted/news/tni-al-tembak-bos-rental-banten-2025-01.md)"
+  - "[TNI AD Tembak Polisi Sabung Ayam Lampung](/reference/extracted/news/tni-ad-tembak-polisi-sabung-ayam-lampung-2025-03.md)"
+  - "[Polisi Bunuh Brigadir Nurhadi NTB](/reference/extracted/news/polisi-bunuh-brigadir-nurhadi-ntb-2025-04.md)"
+  - "[Polisi AKBP Bintoro Pemerasan Jaksel](/reference/extracted/news/polisi-akbp-bintoro-pemerasan-jaksel-2025-01.md)"
+  - "[TNI Yonif 614 Serang Mapolres Tarakan](/reference/extracted/news/tni-yonif614-serang-mapolres-tarakan-2025-02.md)"
+  - "[Polisi Penipuan Akpol Jateng](/reference/extracted/news/polisi-penipuan-akpol-jateng-2025.md)"
+  - "[TNI Pukul Ojol Pontianak Kalbar](/reference/extracted/news/tni-pukul-ojol-pontianak-kalbar-2025-09.md)"
+  - "[TNI Kopassus Penculikan Kacab BRI Jakarta](/reference/extracted/news/tni-kopassus-penculikan-kacab-bri-jakarta-2025-08.md)"
+  - "[Polisi Kekerasan Demo Agustus](/reference/extracted/news/polisi-kekerasan-demo-agustus-2025.md)"
+  - "[TNI AL Bunuh Jurnalis Juwita Banjarbaru](/reference/extracted/news/tni-al-bunuh-jurnalis-juwita-banjarbaru-2025-03.md)"
+  - "[TNI AD Tembak Warga Asmat Papua](/reference/extracted/news/tni-ad-tembak-warga-asmat-papua-2025-09.md)"
+  - "[TNI AD Bunuh Warga Wamena Jayawijaya](/reference/extracted/news/tni-ad-bunuh-warga-wamena-jayawijaya-2025-11.md)"
+  - "[TNI AD Bunuh Wanita Baubau Sultra](/reference/extracted/news/tni-ad-bunuh-wanita-baubau-sultra-2025-12.md)"
+  - "[TNI AD Pelecehan Seksual Anak Flores Timur](/reference/extracted/news/tni-ad-pelecehan-seksual-anak-flores-timur-2025-08.md)"
 ---
 # Pelanggaran Hukum Aparat Negara (TNI & Polri) Sepanjang 2025
 

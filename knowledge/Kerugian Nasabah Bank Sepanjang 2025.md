@@ -7,16 +7,16 @@ tags:
   - Fraud
   - Hacking
 reference:
-  - "[[cimb-niaga-pt-laras-batam-rp750jt-2025-12-30]]"
-  - "[[cimb-niaga-pt-xss-batam-rp186m-2025-12-23]]"
-  - "[[bri-kabanjahe-rp200-juta-2025-11]]"
-  - "[[bca-panca-global-rdn-rp70-miliar-2025-09]]"
-  - "[[bank-mandiri-bima-deposito-raib-2025-07]]"
-  - "[[bni-rekening-dorman-rp204-miliar-2025-06]]"
-  - "[[bni-tarakan-social-engineering-npwp-2025-04]]"
-  - "[[bsi-kutacane-nasabah-raib-2025-01]]"
-  - "[[bank-dki-peretasan-bi-fast-2025-03]]"
-  - "[[bank-jatim-kredit-fiktif-2025-02]]"
+  - "[CIMB Niaga PT Laras Batam](/reference/extracted/news/cimb-niaga-pt-laras-batam-rp750jt-2025-12-30.md)"
+  - "[CIMB Niaga PT XSS Batam](/reference/extracted/news/cimb-niaga-pt-xss-batam-rp186m-2025-12-23.md)"
+  - "[BRI Kabanjahe](/reference/extracted/news/bri-kabanjahe-rp200-juta-2025-11.md)"
+  - "[BCA Panca Global RDN](/reference/extracted/news/bca-panca-global-rdn-rp70-miliar-2025-09.md)"
+  - "[Bank Mandiri Bima Deposito](/reference/extracted/news/bank-mandiri-bima-deposito-raib-2025-07.md)"
+  - "[BNI Rekening Dorman](/reference/extracted/news/bni-rekening-dorman-rp204-miliar-2025-06.md)"
+  - "[BNI Tarakan Social Engineering](/reference/extracted/news/bni-tarakan-social-engineering-npwp-2025-04.md)"
+  - "[BSI Kutacane](/reference/extracted/news/bsi-kutacane-nasabah-raib-2025-01.md)"
+  - "[Bank DKI Peretasan BI-FAST](/reference/extracted/news/bank-dki-peretasan-bi-fast-2025-03.md)"
+  - "[Bank Jatim Kredit Fiktif](/reference/extracted/news/bank-jatim-kredit-fiktif-2025-02.md)"
 ---
 # Rekapitulasi Kasus Kehilangan Uang Nasabah Bank Indonesia (Januari 2025 - Desember 2025)
 
