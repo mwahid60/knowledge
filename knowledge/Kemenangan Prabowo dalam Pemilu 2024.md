@@ -11,6 +11,16 @@ reference:
   - "[Putusan MK Batas Usia Cawapres](/reference/extracted/news/mk-putusan-usia-cawapres-gibran-nasional-2023-10.md)"
   - "[Politisasi Bansos](/reference/extracted/news/bansos-diduga-politisasi-pemilu-nasional-2024-04.md)"
   - "[Alasan Jokowi Dukung Prabowo](/reference/extracted/news/jokowi-dukung-prabowo-alasan-nasional-2023-06.md)"
+  - "[Program Prioritas Nasional 2025](/reference/extracted/news/program-prioritas-nasional-2025-realizasi-rp805-triliun-nasional-2025-01.md)"
+  - "[MBG Anggaran 2026](/reference/extracted/news/mbg-anggaran-2026-rp335-triliun-target-829-juta-nasional-2026-01.md)"
+  - "[19 Juta Lapangan Kerja](/reference/extracted/news/prabowo-19-juta-lapangan-kerja-realisasi-nasional-2026-04.md)"
+  - "[Swasembada Energi dan Danantara](/reference/extracted/news/prabowo-swasembada-energi-danantara-roa-300-persen-nasional-2026-03.md)"
+  - "[Swasembada Beras 2025](/reference/extracted/news/prabowo-swasembada-beras-2025-tidak-impor-nasional-2026-01.md)"
+  - "[Investasi Hilirisasi Q1-2026](/reference/extracted/news/investasi-hilirisasi-q1-2026-rp147-triliun-nasional-2026-04.md)"
+  - "[Koperasi Desa Merah Putih](/reference/extracted/news/koperasi-desa-merah-putih-80081-terbentuk-nasional-2025-07.md)"
+  - "[Janji Tidak Naikkan Pajak vs PPN 12%](/reference/extracted/news/prabowo-janji-tidak-naikkan-pajak-ppn-12-persen-nasional-2024-11.md)"
+  - "[77 Proyek Strategis Nasional](/reference/extracted/news/prabowo-77-proyek-strategis-nasional-psn-2025-nasional-2025-03.md)"
+  - "[Realisasi Program Prioritas Rp611T](/reference/extracted/news/realisasi-program-prioritas-nasional-rp611-triliun-nasional-2025-12.md)"
 ---
 # Kemenangan Prabowo dalam Pemilu 2024
 

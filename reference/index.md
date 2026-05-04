@@ -83,8 +83,18 @@ folder : `/extracted/news`
 | [[anies-gugat-hasil-pemilu-mk-nasional-2024-04]] | MK menolak gugatan Anies-Ganjar terhadap hasil Pilpres 2024, meski ada dissenting opinion |
 | [[mk-putusan-usia-cawapres-gibran-nasional-2023-10]] | Putusan MK Nomor 90/2023 tentang batas usia cawapres yang membuka jalan bagi Gibran |
 | [[bansos-diduga-politisasi-pemilu-nasional-2024-04]] | Dugaan politisasi bansos oleh pemerintah Jokowi untuk kemenangan Prabowo-Gibran |
-| [[jokowi-dukung-prabowo-alasan-nasional-2023-06]] | Alasan Jokowi mendukung Prabowo (perjanjian Batu Tulis, faktor Gibran, ketegangan dengan PDIP) |
+|| [[jokowi-dukung-prabowo-alasan-nasional-2023-06]] | Alasan Jokowi mendukung Prabowo (perjanjian Batu Tulis, faktor Gibran, ketegangan dengan PDIP) |
+|| [[program-prioritas-nasional-2025-realizasi-rp805-triliun-nasional-2025-01]] | Realisasi anggaran Rp805 triliun program prioritas nasional 2025 (MBG, CKG, KUR, dll) |
+|| [[mbg-anggaran-2026-rp335-triliun-target-829-juta-nasional-2026-01]] | Anggaran MBG 2026 capai Rp335 triliun dengan target 82,9 juta penerima manfaat |
+|| [[prabowo-19-juta-lapangan-kerja-realisasi-nasional-2026-04]] | Realisasi program 19 juta lapangan kerja: MBG serap 1,34 juta, KDMP potensi 1,44 juta |
+|| [[prabowo-swasembada-energi-danantara-roa-300-persen-nasional-2026-03]] | Prabowo yakin swasembada energi 4 tahun; Danantara ROA naik 300% |
+|| [[prabowo-swasembada-beras-2025-tidak-impor-nasional-2026-01]] | Indonesia swasembada beras 2025, produksi 34,71 juta ton, tidak impor |
+|| [[investasi-hilirisasi-q1-2026-rp147-triliun-nasional-2026-04]] | Investasi hilirisasi RI Q1-2026 tembus Rp147,5 triliun, nikel juaranya |
+|| [[koperasi-desa-merah-putih-80081-terbentuk-nasional-2025-07]] | Peluncuran Koperasi Desa Merah Putih: 80.081 koperasi terbentuk di seluruh Indonesia |
+|| [[prabowo-janji-tidak-naikkan-pajak-ppn-12-persen-nasional-2024-11]] | Janji kampanye Prabowo tidak naikkan pajak vs kenaikan PPN 11% ke 12% |
+|| [[prabowo-77-proyek-strategis-nasional-psn-2025-nasional-2025-03]] | Prabowo tetapkan 77 PSN 2025-2029 termasuk MBG dan 3 juta rumah |
+|| [[realisasi-program-prioritas-nasional-rp611-triliun-nasional-2025-12]] | Realisasi program prioritas nasional Rp611,7 triliun (65,8%) per Oktober 2025 |
 
 ---
 
-*Terakhir diperbarui: 2026-05-03*
+*Terakhir diperbarui: 2026-05-04*
