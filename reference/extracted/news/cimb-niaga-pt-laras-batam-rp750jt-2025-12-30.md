@@ -15,23 +15,23 @@ tags:
 
 ## Ringkasan
 
-Pada **30 Desember 2025**, sepekan setelah kasus PT XSS, sekelompok perusahaan (PT Laras Era Perdana dan beberapa entitas lain dalam satu akun korporat) mengalami pembobolan serupa di CIMB Niaga Batam melalui BizChannel, dengan total kerugian sekitar **Rp750 juta**. Polda Kepri menjadwalkan pemeriksaan CIMB Niaga pusat untuk mendalami kesamaan modus dengan kasus PT XSS.
+Pada **30 Desember 2025**, sepekan setelah kasus PT XSS, sekelompok perusahaan (PT Laras Era Perdana dan beberapa entitas lain dalam satu akun korporat) mengalami pembobolan serupa di [CIMB Niaga](../information/CIMB%20Niaga.md) Batam melalui BizChannel, dengan total kerugian sekitar **Rp750 juta**. Polda Kepri menjadwalkan pemeriksaan [CIMB Niaga](../information/CIMB%20Niaga.md) pusat untuk mendalami kesamaan modus dengan kasus PT XSS.
 
 ## Detail Kasus
 
 - **Tanggal kejadian**: 30 Desember 2025
-- **Bank**: CIMB Niaga
+- **Bank**: [CIMB Niaga](../information/CIMB%20Niaga.md)
 - **Korban**: PT Laras Era Perdana dan beberapa perusahaan terkait (dalam satu akun korporat BizChannel)
-- **Platform**: BizChannel (internet banking korporat CIMB Niaga)
+- **Platform**: BizChannel (internet banking korporat [CIMB Niaga](../information/CIMB%20Niaga.md))
 - **Jumlah kerugian**: ~Rp750.000.000
 - **Modus**: Hacking BizChannel — pola serupa dengan kasus PT XSS (23 Des 2025); diduga pelaku yang sama atau menggunakan metode yang sama
-- **Penyelidikan**: Polda Kepri menjadwalkan pemeriksaan CIMB Niaga pusat (sempat dijadwal ulang)
+- **Penyelidikan**: Polda Kepri menjadwalkan pemeriksaan [CIMB Niaga](../information/CIMB%20Niaga.md) pusat (sempat dijadwal ulang)
 
 ## Konteks
 
 Dua insiden BizChannel dalam satu minggu (23 & 30 Desember 2025) di Batam mengindikasikan kemungkinan:
 1. Kerentanan sistemik pada BizChannel yang belum ditambal
-2. Pelaku yang sama menargetkan nasabah korporat CIMB Niaga di Batam secara berurutan
+2. Pelaku yang sama menargetkan nasabah korporat [CIMB Niaga](../information/CIMB%20Niaga.md) di Batam secara berurutan
 3. Kebocoran kredensial dari sumber yang sama
 
 ## Status per Akhir 2025

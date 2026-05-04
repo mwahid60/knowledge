@@ -19,12 +19,12 @@ tags:
 
 ## Ringkasan
 
-Seorang nasabah BSI (Bank Syariah Indonesia) Cabang Kutacane, Aceh Tenggara, kehilangan uang tabungan sebesar **Rp92,2 juta** pada 7 Januari 2025. Dana raib melalui tiga transaksi mencurigakan yang terjadi dalam waktu kurang dari satu menit, tanpa sepengetahuan nasabah.
+Seorang nasabah [BSI (Bank Syariah Indonesia)](../information/BSI%20(Bank%20Syariah%20Indonesia).md) Cabang Kutacane, Aceh Tenggara, kehilangan uang tabungan sebesar **Rp92,2 juta** pada 7 Januari 2025. Dana raib melalui tiga transaksi mencurigakan yang terjadi dalam waktu kurang dari satu menit, tanpa sepengetahuan nasabah.
 
 ## Detail Kasus
 
 - **Tanggal kejadian**: 7 Januari 2025
-- **Bank**: BSI (Bank Syariah Indonesia) Cabang Kutacane, Aceh Tenggara
+- **Bank**: [BSI (Bank Syariah Indonesia)](../information/BSI%20(Bank%20Syariah%20Indonesia).md) Cabang Kutacane, Aceh Tenggara
 - **Jumlah kerugian**: Rp92.200.000
 - **Modus**: 3 transaksi debet mencurigakan dalam interval < 1 menit
 - **Status laporan**: Dilaporkan ke polisi; nasabah menempuh jalur hukum

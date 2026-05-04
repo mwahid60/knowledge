@@ -19,14 +19,14 @@ tags:
 
 ## Ringkasan
 
-Pada **23 Desember 2025**, rekening PT XSS Batam di CIMB Niaga dibobol sebesar **Rp1,86 miliar** melalui platform internet banking korporat BizChannel. Ini merupakan serangan kedua pada rekening perusahaan yang sama (kata "lagi" dalam judul berita merujuk pada insiden sebelumnya). Rp485 juta berhasil diblokir; sisanya raib. Kasus dilaporkan ke Polda Kepri.
+Pada **23 Desember 2025**, rekening PT XSS Batam di [CIMB Niaga](../information/CIMB%20Niaga.md) dibobol sebesar **Rp1,86 miliar** melalui platform internet banking korporat BizChannel. Ini merupakan serangan kedua pada rekening perusahaan yang sama (kata "lagi" dalam judul berita merujuk pada insiden sebelumnya). Rp485 juta berhasil diblokir; sisanya raib. Kasus dilaporkan ke Polda Kepri.
 
 ## Detail Kasus
 
 - **Tanggal kejadian**: 23 Desember 2025
-- **Bank**: CIMB Niaga
+- **Bank**: [CIMB Niaga](../information/CIMB%20Niaga.md)
 - **Korban**: PT XSS Batam
-- **Platform**: BizChannel (internet banking korporat CIMB Niaga)
+- **Platform**: BizChannel (internet banking korporat [CIMB Niaga](../information/CIMB%20Niaga.md))
 - **Jumlah kerugian total**: Rp1.860.000.000
 - **Dana berhasil diblokir**: Rp485.000.000
 - **Dana raib**: ~Rp1,375 miliar
@@ -35,7 +35,7 @@ Pada **23 Desember 2025**, rekening PT XSS Batam di CIMB Niaga dibobol sebesar *
 
 ## Respons CIMB Niaga
 
-CIMB Niaga berkoordinasi dengan kepolisian. Kuasa hukum PT XSS memberi CIMB Niaga tenggat 7 hari untuk memberikan pertanggungjawaban, dengan ancaman gugatan perdata jika tidak dipenuhi.
+[CIMB Niaga](../information/CIMB%20Niaga.md) berkoordinasi dengan kepolisian. Kuasa hukum PT XSS memberi [CIMB Niaga](../information/CIMB%20Niaga.md) tenggat 7 hari untuk memberikan pertanggungjawaban, dengan ancaman gugatan perdata jika tidak dipenuhi.
 
 ## Catatan
 

@@ -20,7 +20,7 @@ tags:
 
 ## Ringkasan
 
-Dua hingga tiga anggota TNI AD dari satuan Kopassus (Detasemen Markas Kopassus) terlibat dalam penculikan dan pembunuhan Kepala Cabang Pembantu (KCP) BRI Cempaka Putih, Mohamad Ilham Pradipta (37), di Jakarta pada 20 Agustus 2025. Para anggota TNI berperan sebagai perantara yang menghubungkan "dalang" sipil dengan tim penculik bayaran. Korban dibunuh dalam rangka rencana pemindahan dana ilegal dari rekening dormant.
+Dua hingga tiga anggota TNI AD dari satuan Kopassus (Detasemen Markas Kopassus) terlibat dalam penculikan dan pembunuhan Kepala Cabang Pembantu (KCP) [BRI](../information/BRI%20(Bank%20Rakyat%20Indonesia).md) Cempaka Putih, Mohamad Ilham Pradipta (37), di Jakarta pada 20 Agustus 2025. Para anggota TNI berperan sebagai perantara yang menghubungkan "dalang" sipil dengan tim penculik bayaran. Korban dibunuh dalam rangka rencana pemindahan dana ilegal dari rekening dormant.
 
 ---
 
@@ -28,7 +28,7 @@ Dua hingga tiga anggota TNI AD dari satuan Kopassus (Detasemen Markas Kopassus) 
 
 - **Tanggal Penculikan**: 20 Agustus 2025
 - **Lokasi Penculikan**: Parkiran pusat perbelanjaan di Pasar Rebo, Ciracas, Jakarta Timur
-- **Korban**: Mohamad Ilham Pradipta (37), Kepala KCP BRI Cempaka Putih
+- **Korban**: Mohamad Ilham Pradipta (37), Kepala KCP [BRI](../information/BRI%20(Bank%20Rakyat%20Indonesia).md) Cempaka Putih
 - **Anggota TNI yang Terlibat**:
   - Serka Mochamad Nasir (Denma Kopassus) — perantara utama, menerima Rp95 juta
   - Kopda Feri Herianto (Denma Kopassus) — koordinator tim penculik, menerima Rp40 juta
