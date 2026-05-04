@@ -94,6 +94,16 @@ folder : `/extracted/news`
 || [[prabowo-janji-tidak-naikkan-pajak-ppn-12-persen-nasional-2024-11]] | Janji kampanye Prabowo tidak naikkan pajak vs kenaikan PPN 11% ke 12% |
 || [[prabowo-77-proyek-strategis-nasional-psn-2025-nasional-2025-03]] | Prabowo tetapkan 77 PSN 2025-2029 termasuk MBG dan 3 juta rumah |
 || [[realisasi-program-prioritas-nasional-rp611-triliun-nasional-2025-12]] | Realisasi program prioritas nasional Rp611,7 triliun (65,8%) per Oktober 2025 |
+|| [[rupiah-tembus-rp17000-terlemah-sejarah-nasional-2026-03]] | Rupiah tembus Rp17.019 per dolar AS, terlemah sepanjang sejarah perdagangan |
+|| [[rupiah-masa-kritis-era-jokowi-2014-2024-nasional-2024-06]] | Perjalanan rupiah era Jokowi: dari Rp12.011 ke Rp16.445, melemah 36% |
+|| [[rupiah-setahun-prabowo-nyaris-rp17000-nasional-2025-10]] | Setahun Prabowo: rupiah melemah 7,21%, nyaris tembus Rp17.000 |
+|| [[modal-asing-rp125-triliun-kabur-ri-2025-nasional-2026-01]] | Modal asing Rp125,1 triliun kabur dari RI di 2025, berbanding terbalik dengan 2024 |
+|| [[penguatan-ringgit-baht-asean-2025-vs-rupiah-nasional-2025-11]] | Ringgit Malaysia +8,15% dan baht Thailand +10% vs rupiah -3,5% |
+|| [[fitch-revisi-outlook-indonesia-negative-bbb-nasional-2026-04]] | Fitch revisi outlook Indonesia ke Negative (Apr 2026), rating 'BBB' |
+|| [[utang-pemerintah-jokowi-naik-rp6000-triliun-nasional-2024-08]] | Utang pemerintah era Jokowi naik Rp5.843 T (+225%) dalam 10 tahun |
+|| [[prabowo-ppn-12-persen-kebijakan-pro-rakyat-nasional-2025-12]] | Kebijakan PPN 12% Prabowo: pro-rakyat atau beban fiskal? |
+|| [[bi-rate-turun-475-persen-2025-nasional-2025-09]] | BI Rate turun ke 4,75% (Sep 2025), total pemangkasan 150 bps |
+|| [[rupiah-rekor-terlemah-rp17190-nasional-2026-04]] | Rupiah cetak rekor terlemah sepanjang masa: Rp17.190 per dolar AS |
 
 ---
 
