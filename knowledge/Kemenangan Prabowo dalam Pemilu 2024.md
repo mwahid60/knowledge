@@ -198,17 +198,201 @@ Pemilu 2024 berlangsung dalam **satu putaran** karena Prabowo-Gibran memperoleh 
 2. **Revisi regulasi pemilu**: Memperjelas aturan tentang netralitas aparatur negara dan batasan kampanye terselubung
 3. **Pendidikan politik**: Meningkatkan literasi politik pemilih agar tidak mudah dipengaruhi oleh popularitas figur semata
 
+## Program Kampanye & Realisasi
+
+Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji program yang kemudian dirumuskan dalam **Program Hasil Terbaik Cepat (PHTC)** atau *Quick Win* untuk tahun 2025, serta program jangka panjang 2025-2029. Berikut evaluasi realisasi program-program utama hingga Mei 2026:
+
+### 1. Makan Bergizi Gratis (MBG)
+
+**Janji Kampanye**: Program unggulan yang bertujuan mengurangi angka stunting, memenuhi kebutuhan gizi masyarakat, meningkatkan partisipasi sekolah, dan mendorong perputaran ekonomi lokal. Menyasar siswa, balita, ibu hamil/menyusui, dan tenaga pendidik.
+
+**Realisasi**:
+- **Anggaran 2025**: Rp71 triliun (APBN), realisasi per 31 Desember 2025 mencapai **Rp51,5 triliun (72,5%)**
+- **Anggaran 2026**: Rp335 triliun dengan target **82,9 juta penerima manfaat** (diharapkan tercapai Mei 2026)
+- **Dapur SPPG**: 26.859 unit dapur Satuan Pelayanan Pemenuhan Gizi beroperasi per April 2026, menyerap ~1,34 juta tenaga kerja langsung
+- **Capaian**: Program telah berjalan di seluruh Indonesia dengan fokus pada kelompok rentan
+
+**Status**: ✅ **Sedang berjalan — perlu percepatan target penerima**
+
+---
+
+### 2. Cek Kesehatan Gratis (CKG)
+
+**Janji Kampanye**: Program skrining kesehatan gratis untuk mendeteksi dini kondisi kesehatan masyarakat guna mencegah penyakit berkembang ke tahap yang lebih berat.
+
+**Realisasi**:
+- **Anggaran 2025**: Rp2,1 triliun, telah melayani **70,8 juta penduduk** hingga 31 Desember 2025
+- **Anggaran 2026**: Rp2,59 triliun dengan target **130,3 juta peserta**
+- **Distribusi**: Paling banyak di Jawa (47,3 juta peserta), disusul Sumatera dan Sulawesi
+- **Revitalisasi RS**: Peningkatan RS kelas D/D Pratama menjadi kelas C untuk penanganan kanker, jantung, stroke, dan uronefrologi (KJSU)
+
+**Status**: ✅ **Berjalan baik — serapan anggaran tinggi**
+
+---
+
+### 3. Pembangunan 3 Juta Rumah per Tahun
+
+**Janji Kampanye**: Program pembangunan rumah untuk masyarakat berpenghasilan rendah (MBR) dengan pendapatan di bawah Rp8 juta per bulan, baik yang berpenghasilan tetap maupun tidak tetap.
+
+**Realisasi**:
+- Program masuk dalam **77 Proyek Strategis Nasional (PSN)** 2025-2029 melalui Perpres No. 12/2025
+- **Target**: 3 juta rumah per tahun (15 juta rumah selama 5 tahun)
+- **Realisasi 2025**: Data spesifik jumlah unit rumah terbangun masih terbatas di publik, namun program telah diluncurkan dengan skema subsidi dan KPR ringan
+- **Tantangan**: Kegagalan proyek serupa di masa lalu membayangi target ambisius ini
+
+**Status**: 🟡 **Diluncurkan — realisasi fisik masih dalam tahap awal**
+
+---
+
+### 4. Swasembada Pangan & Energi
+
+**Janji Kampanye**: Swasembada pangan sebagai prioritas utama, dengan target awal 4 tahun. Swasembada energi untuk menghentikan ketergantungan impor BBM.
+
+**Realisasi — Pangan**:
+- **Swasembada Beras**: ✅ **Tercapai** — Presiden Prabowo mengumumkan Indonesia swasembada beras pada Desember 2025. Produksi beras nasional 2025 diprediksi BPS mencapai **34,71 juta ton**, melampaui kebutuhan domestik. **Tidak ada impor beras** pada tahun 2025.
+- **Stok Pangan**: SPHP beras 2025 realisasi 182,2 ribu ton (mulai Juli). Bantuan pangan 2024: 1,9 juta ton beras + 1,4 juta ton SPHP.
+
+**Realisasi — Energi**:
+- Target swasembada energi dalam **4 tahun** (hingga 2029)
+- Pemanfaatan sawit dan singkong sebagai pengganti BBM sedang dijalankan
+- Groundbreaking 13 proyek hilirisasi nasional tahap II telah dilakukan April 2026
+
+**Status**: ✅ **Swasembada beras tercapai — swasembada energi masih dalam proses**
+
+---
+
+### 5. Hilirisasi & Investasi
+
+**Janji Kampanye**: Penguatan hilirisasi sumber daya alam untuk menambah nilai tambah domestik.
+
+**Realisasi**:
+- **Investasi hilirisasi Q1-2026**: **Rp147,5 triliun** (tumbuh 8,2% YoY), setara 29,6% dari total investasi nasional
+- **Sektor mineral**: Rp98,3 triliun (nikel Rp41,5 T, tembaga Rp20,7 T, besi baja Rp17 T)
+- **Sektor perkebunan**: Rp29,8 triliun (kelapa sawit Rp18,3 T)
+- **Target 2026**: Rp2.041,3 triliun total investasi nasional
+
+**Status**: ✅ **Berjalan sangat baik — investasi tumbuh signifikan**
+
+---
+
+### 6. Koperasi Desa Merah Putih (KDMP)
+
+**Janji Kampanye**: Pembentukan koperasi desa untuk memutus rantai kemiskinan, mempermudah akses masyarakat ke pangan pokok terjangkau, dan membangun kedaulatan ekonomi rakyat.
+
+**Realisasi**:
+- **80.081 Koperasi Desa/Kelurahan Merah Putih** telah terbentuk di seluruh Indonesia (Juli 2025)
+- Target **80.000 koperasi** dengan ~18 pekerja per koperasi = potensi **1,44 juta lapangan kerja**
+- Program terintegrasi dengan Badan Pangan Nasional untuk distribusi pangan
+
+**Status**: ✅ **Tercapai target pembentukan — dampak ekonomi sedang diukur**
+
+---
+
+### 7. Danantara Indonesia
+
+**Janji Kampanye**: Pengelolaan aset BUMN yang lebih profesional dan terintegrasi untuk menciptakan nilai tambah ekonomi.
+
+**Realisasi**:
+- **Return on Assets (ROA)**: Naik **>300%** dalam satu tahun (2025 vs tahun-tahun sebelumnya)
+- **Aset yang dikelola**: Hampir **1.000 perusahaan** (anak hingga cucu BUMN)
+- **Target**: Kembalikan **Rp800 triliun per tahun** ke negara
+- **Peran**: Mendukung KDMP, MBG, dan program strategis lainnya
+- **Investasi hilirisasi lintas sektor**: Potensi nilai investasi mencapai **US$26 miliar**
+
+**Status**: ✅ **Kinerja sangat kuat — ROA melonjak 300%**
+
+---
+
+### 8. Sekolah Rakyat Gratis
+
+**Janji Kampanye**: Pendidikan asrama gratis berkualitas bagi anak keluarga tidak mampu.
+
+**Realisasi**:
+- Program masuk dalam **17 Program Prioritas Nasional**
+- Pembangunan Sekolah Rakyat Kotabaru di Lampung Selatan melibatkan **677 pekerja**
+- Fokus pada perluasan akses pendidikan dan penyerapan tenaga kerja lokal
+
+**Status**: 🟡 **Sedang dibangun — realisasi fisik terbatas**
+
+---
+
+### 9. Penciptaan 19 Juta Lapangan Kerja
+
+**Janji Kampanye**: Target ambisius menciptakan 19 juta lapangan kerja selama masa pemerintahan.
+
+**Realisasi**:
+- **MBG**: ~1,34 juta pekerja langsung dari 26.859 dapur SPPG (per April 2026)
+- **KDMP**: Potensi 1,44 juta pekerja dari 80.000+ koperasi
+- **Hilirisasi**: Ratusan ribu pekerja dari proyek-proyek strategis
+- **Sekolah Rakyat & infrastruktur**: Penyerapan tenaga kerja di berbagai daerah
+- **Total capaian sementara**: Belum mencapai target tahunan, namun momentum tumbuh
+
+**Status**: 🟡 **Sedang berjalan — butuh percepatan untuk target 19 juta**
+
+---
+
+### 10. Pajak & Kebijakan Fiskal
+
+**Janji Kampanye**: Prabowo pernah berjanji untuk **tidak menaikkan tarif pajak** saat kampanye (29 Januari 2024).
+
+**Realisasi**:
+- **PPN naik dari 11% menjadi 12%** efektif 1 Januari 2025 sesuai UU HPP yang disahkan sebelumnya
+- Sri Mulyani menyatakan kenaikan PPN sudah ada undang-undangnya dan harus dijalankan
+- **Anggaran Program Prioritas 2025**: Total **Rp805 triliun** untuk MBG, CKG, Sekolah Rakyat, Rumah Rakyat, dan program lainnya
+- **Realisasi total program prioritas**: **Rp611,7 triliun (65,8%)** dari pagu Rp929 triliun hingga Oktober 2025
+
+**Status**: ❌ **Janji tidak naikkan pajak tidak terpenuhi (PPN 12%) — namun pendapatan digunakan untuk program sosial**
+
+---
+
+### Ringkasan Realisasi Program Utama
+
+| Program | Target | Realisasi Hingga Mei 2026 | Status |
+|---------|--------|---------------------------|--------|
+| MBG | 82,9 juta penerima | 26.859 dapur, Rp51,5T (2025) | 🟢 Berjalan |
+| CKG | 130,3 juta peserta (2026) | 70,8 juta terlayani (2025) | 🟢 Berjalan |
+| 3 Juta Rumah/Tahun | 15 juta (5 tahun) | Program diluncurkan | 🟡 Awal |
+| Swasembada Beras | 4 tahun | ✅ Tercapai 2025 | 🟢 Tercapai |
+| Swasembada Energi | 4 tahun | Groundbreaking berjalan | 🟡 Proses |
+| Hilirisasi | - | Rp147,5T (Q1-2026) | 🟢 Kuat |
+| KDMP | 80.000 koperasi | ✅ 80.081 terbentuk | 🟢 Tercapai |
+| Danantara ROA | - | Naik 300% | 🟢 Kuat |
+| 19 Juta Lapangan Kerja | 5 tahun | ~2,8 juta (MBG+KDMP) | 🟡 Proses |
+| PPN | Tidak naik | Naik 11%→12% | 🔴 Tidak terpenuhi |
+
+---
+
+### Analisis Realisasi Program
+
+**Program yang Berhasil Cepat**:
+1. **Swasembada beras** — target 4 tahun tercapai dalam 1 tahun, Indonesia tidak impor beras 2025
+2. **Danantara** — ROA naik 300%, menunjukkan potensi besar pengelolaan aset BUMN
+3. **KDMP** — 80.081 koperasi terbentuk dalam waktu singkat
+4. **CKG** — 70,8 juta penduduk terlayani dengan serapan anggaran tinggi
+
+**Program yang Memerlukan Perhatian**:
+1. **3 juta rumah per tahun** — target sangat ambisius mengingat kegagalan program serupa di masa lalu
+2. **19 juta lapangan kerja** — butuh percepatan signifikan dari sektor MBG, KDMP, dan hilirisasi
+3. **MBG** — perlu disiplin prosedur dan percepatan untuk mencapai 82,9 juta penerima
+
+**Janji yang Tidak Terealisasi**:
+1. **Tidak menaikkan pajak** — PPN tetap naik menjadi 12% meski Prabowo berjanji sebaliknya saat kampanye
+
+---
+
 ## Metodologi
 
 ### Verifikasi Data
 - Semua angka perolehan suara diverifikasi melalui sumber resmi KPU RI
 - Data provinsi dan luar negeri dikroscek melalui minimal 3 sumber media independen (Kompas, CNN Indonesia, BBC Indonesia)
 - Data demografi dan analisis faktor berasal dari lembaga survei terkemuka (Litbang Kompas, CSIS, Indikator Politik Indonesia, Katadata)
+- Data realisasi program berasal dari Kemenkeu, BGN, BPS, BKPM, Kemenkes, dan rilis resmi pemerintah
 
 ### Keterbatasan
 - Data exit poll dan survei memiliki margin of error dan mungkin tidak merepresentasikan seluruh populasi pemilih
 - Analisis faktor kemenangan bersifat interpretatif dan dapat bervariasi antar pengamat
 - Beberapa faktor (seperti pengaruh aparatur negara) sulit diukur secara kuantitatif
+- Data realisasi program terbaru (Mei 2026) mungkin belum sepenuhnya tersedia untuk semua sektor
 
 ### Sumber Utama
 1. Keputusan KPU RI Nomor 360 Tahun 2024 tentang Penetapan Hasil Pemilu 2024
@@ -217,3 +401,7 @@ Pemilu 2024 berlangsung dalam **satu putaran** karena Prabowo-Gibran memperoleh 
 4. Quick count Indikator Politik Indonesia, Charta Politika, dan LSI
 5. Analisis akademik dari CSIS Indonesia dan The Conversation
 6. Publikasi Katadata Insight Center dan Alvara Research
+7. Media Keuangan Kemenkeu — Laporan Realisasi Program Prioritas Nasional 2025
+8. CNBC Indonesia, Kompas.com, Kontan.co.id — update program MBG, CKG, Danantara
+9. BKPM — Laporan Investasi Hilirisasi Q1-2026
+10. BPS — Prediksi Produksi Beras Nasional 2025
