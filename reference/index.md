@@ -79,11 +79,12 @@ folder : `/extracted/news`
 | [[tni-kopassus-penculikan-kacab-bri-jakarta-2025-08]] | Kasus penculikan kepala cabang BRI oleh anggota Kopassus di Jakarta |
 | [[tni-pukul-ojol-pontianak-kalbar-2025-09]] | Kasus pemukulan driver ojek online oleh anggota TNI di Pontianak, Kalimantan Barat |
 | [[tni-yonif614-serang-mapolres-tarakan-2025-02]] | Kasus serangan Yonif 614 terhadap Mapolres Tarakan |
-| [[prabowo-gibran-menang-pemilu-nasional-2024-03]] | Hasil resmi KPU: Prabowo-Gibran menang Pemilu Presiden 2024 dengan 96,2 juta suara |
-| [[anies-gugat-hasil-pemilu-mk-nasional-2024-04]] | MK menolak gugatan Anies-Ganjar terhadap hasil Pilpres 2024, meski ada dissenting opinion |
-| [[mk-putusan-usia-cawapres-gibran-nasional-2023-10]] | Putusan MK Nomor 90/2023 tentang batas usia cawapres yang membuka jalan bagi Gibran |
-| [[bansos-diduga-politisasi-pemilu-nasional-2024-04]] | Dugaan politisasi bansos oleh pemerintah Jokowi untuk kemenangan Prabowo-Gibran |
+|| [[prabowo-gibran-menang-pemilu-nasional-2024-03]] | Hasil resmi KPU: Prabowo-Gibran menang Pemilu Presiden 2024 dengan 96,2 juta suara |
+|| [[anies-gugat-hasil-pemilu-mk-nasional-2024-04]] | MK menolak gugatan Anies-Ganjar terhadap hasil Pilpres 2024, meski ada dissenting opinion |
+|| [[mk-putusan-usia-cawapres-gibran-nasional-2023-10]] | Putusan MK Nomor 90/2023 tentang batas usia cawapres yang membuka jalan bagi Gibran |
+|| [[bansos-diduga-politisasi-pemilu-nasional-2024-04]] | Dugaan politisasi bansos oleh pemerintah Jokowi untuk kemenangan Prabowo-Gibran |
 || [[jokowi-dukung-prabowo-alasan-nasional-2023-06]] | Alasan Jokowi mendukung Prabowo (perjanjian Batu Tulis, faktor Gibran, ketegangan dengan PDIP) |
+|| [[tokoh-figur-pendukung-prabowo-gibran-pemilu-2024]] | Daftar komprehensif tokoh politik, pengusaha, ulama, artis, dan organisasi pendukung Prabowo-Gibran |
 || [[program-prioritas-nasional-2025-realizasi-rp805-triliun-nasional-2025-01]] | Realisasi anggaran Rp805 triliun program prioritas nasional 2025 (MBG, CKG, KUR, dll) |
 || [[mbg-anggaran-2026-rp335-triliun-target-829-juta-nasional-2026-01]] | Anggaran MBG 2026 capai Rp335 triliun dengan target 82,9 juta penerima manfaat |
 || [[prabowo-19-juta-lapangan-kerja-realisasi-nasional-2026-04]] | Realisasi program 19 juta lapangan kerja: MBG serap 1,34 juta, KDMP potensi 1,44 juta |
