@@ -21,6 +21,7 @@ reference:
   - "[Janji Tidak Naikkan Pajak vs PPN 12%](/reference/extracted/news/prabowo-janji-tidak-naikkan-pajak-ppn-12-persen-nasional-2024-11.md)"
   - "[77 Proyek Strategis Nasional](/reference/extracted/news/prabowo-77-proyek-strategis-nasional-psn-2025-nasional-2025-03.md)"
   - "[Realisasi Program Prioritas Rp611T](/reference/extracted/news/realisasi-program-prioritas-nasional-rp611-triliun-nasional-2025-12.md)"
+  - "[Tokoh dan Figur Pendukung Prabowo-Gibran Pemilu 2024](/reference/extracted/information/Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md)"
 ---
 # Kemenangan Prabowo dalam Pemilu 2024
 
