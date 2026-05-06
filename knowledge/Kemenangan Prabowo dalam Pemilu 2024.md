@@ -11,7 +11,7 @@ reference:
   - "[Putusan MK Batas Usia Cawapres](/reference/extracted/news/mk-putusan-usia-cawapres-gibran-nasional-2023-10.md)"
   - "[Politisasi Bansos](/reference/extracted/news/bansos-diduga-politisasi-pemilu-nasional-2024-04.md)"
   - "[Alasan Jokowi Dukung Prabowo](/reference/extracted/news/jokowi-dukung-prabowo-alasan-nasional-2023-06.md)"
-  - "[Tokoh dan Figur Pendukung Prabowo-Gibran](/reference/extracted/information/Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md)"
+  - "[Tokoh dan Figur Pendukung Prabowo-Gibran](Daftar%20Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md)"
   - "[Program Prioritas Nasional 2025](/reference/extracted/news/program-prioritas-nasional-2025-realizasi-rp805-triliun-nasional-2025-01.md)"
   - "[MBG Anggaran 2026](/reference/extracted/news/mbg-anggaran-2026-rp335-triliun-target-829-juta-nasional-2026-01.md)"
   - "[19 Juta Lapangan Kerja](/reference/extracted/news/prabowo-19-juta-lapangan-kerja-realisasi-nasional-2026-04.md)"
@@ -22,7 +22,7 @@ reference:
   - "[Janji Tidak Naikkan Pajak vs PPN 12%](/reference/extracted/news/prabowo-janji-tidak-naikkan-pajak-ppn-12-persen-nasional-2024-11.md)"
   - "[77 Proyek Strategis Nasional](/reference/extracted/news/prabowo-77-proyek-strategis-nasional-psn-2025-nasional-2025-03.md)"
   - "[Realisasi Program Prioritas Rp611T](/reference/extracted/news/realisasi-program-prioritas-nasional-rp611-triliun-nasional-2025-12.md)"
-  - "[Tokoh dan Figur Pendukung Prabowo-Gibran Pemilu 2024](/reference/extracted/information/Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md)"
+  - "[Daftar Tokoh dan Figur Pendukung Prabowo-Gibran Pemilu 2024](Daftar%20Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md)"
 ---
 # Kemenangan Prabowo dalam Pemilu 2024
 

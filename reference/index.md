@@ -35,7 +35,7 @@ folder : `/extracted/information`
 | [CIMB Niaga](/reference/extracted/information/CIMB%20Niaga.md)                                                                                               | Profil lengkap PT Bank CIMB Niaga Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi        |
 | [BRI (Bank Rakyat Indonesia)](/reference/extracted/information/BRI%20%28Bank%20Rakyat%20Indonesia%29.md)                                                     | Profil lengkap PT Bank Rakyat Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi  |
 | [BSI (Bank Syariah Indonesia)](/reference/extracted/information/BSI%20%28Bank%20Syariah%20Indonesia%29.md)                                                   | Profil lengkap PT Bank Syariah Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
-| [Tokoh dan Figur Pendukung Prabowo-Gibran Pemilu 2024](/reference/extracted/information/Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md) | Daftar komprehensif tokoh politik, pengusaha, ulama, artis, dan organisasi pendukung Prabowo-Gibran     |
+| [Daftar Tokoh dan Figur Pendukung Prabowo-Gibran Pemilu 2024](Daftar%20Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md) | Daftar komprehensif tokoh politik, pengusaha, ulama, artis, dan organisasi pendukung Prabowo-Gibran     |
 
 ## News
 folder : `/extracted/news`
