@@ -21,6 +21,7 @@ folder : `/extracted/academic`
 | [Less is More Recursive Reasoning with Tiny Networks](/reference/extracted/academic/Less%20is%20More%20Recursive%20Reasoning%20with%20Tiny%20Networks.md)                                                                     | Model penalaran rekursif sederhana dengan jaringan kecil untuk generalisasi yang kuat                                               |
 | [Pengaruh Pencukuran Bulu Terhadap Bobot Komponen Karkas Domba](/reference/extracted/academic/Pengaruh%20Pencukuran%20Bulu%20Terhadap%20Bobot%20Komponen%20Karkas%20Domba.md)                                                           | Studi tentang pengaruh pencukuran bulu terhadap bobot komponen karkas domba                                                         |
 | [The Aging Epigenome](/reference/extracted/academic/The%20Aging%20Epigenome.md)                                                                                                     | Penelitian tentang epigenom dan proses penuaan pada organisme                                                                       |
+| [mbg-analisis-anggaran-kerugian-negara-2026](/reference/extracted/academic/mbg-analisis-anggaran-kerugian-negara-2026.md)                               | Analisis anggaran Rp 406 triliun dan potensi kerugian negara akibat program MBG               |
 
 ## Information
 folder : `/extracted/information`
@@ -36,6 +37,7 @@ folder : `/extracted/information`
 | [BRI (Bank Rakyat Indonesia)](/reference/extracted/information/BRI%20%28Bank%20Rakyat%20Indonesia%29.md)                                                     | Profil lengkap PT Bank Rakyat Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi  |
 | [BSI (Bank Syariah Indonesia)](/reference/extracted/information/BSI%20%28Bank%20Syariah%20Indonesia%29.md)                                                   | Profil lengkap PT Bank Syariah Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
 | [Daftar Tokoh dan Figur Pendukung Prabowo-Gibran Pemilu 2024](Daftar%20Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md) | Daftar komprehensif tokoh politik, pengusaha, ulama, artis, dan organisasi pendukung Prabowo-Gibran     |
+| [mbg-latar-belakang-sejarah-program-2026](/reference/extracted/information/mbg-latar-belakang-sejarah-program-2026.md)                                  | Latar belakang, sejarah, dan motivasi politik di balik program Makan Bergizi Gratis           |
 
 ## News
 folder : `/extracted/news`
@@ -105,7 +107,9 @@ folder : `/extracted/news`
 | [prabowo-ppn-12-persen-kebijakan-pro-rakyat-nasional-2025-12](/reference/extracted/news/prabowo-ppn-12-persen-kebijakan-pro-rakyat-nasional-2025-12.md)              | Kebijakan PPN 12% Prabowo: pro-rakyat atau beban fiskal?                                       |
 | [bi-rate-turun-475-persen-2025-nasional-2025-09](/reference/extracted/news/bi-rate-turun-475-persen-2025-nasional-2025-09.md)                           | BI Rate turun ke 4,75% (Sep 2025), total pemangkasan 150 bps                                   |
 | [rupiah-rekor-terlemah-rp17190-nasional-2026-04](/reference/extracted/news/rupiah-rekor-terlemah-rp17190-nasional-2026-04.md)                           | Rupiah cetak rekor terlemah sepanjang masa: Rp17.190 per dolar AS                              |
+| [mbg-jaringan-politik-korupsi-nasional-2026-05](/reference/extracted/news/mbg-jaringan-politik-korupsi-nasional-2026-05.md)                            | Investigasi jaringan politik, militer, dan korupsi di balik program MBG                        |
+| [mbg-kasus-keracunan-massal-nasional-2025-2026](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md)                            | Daftar lengkap 89 kasus keracunan massal akibat program MBG di seluruh Indonesia               |
 
 ---
 
-*Terakhir diperbarui: 2026-05-04*
+*Terakhir diperbarui: 2026-05-06*

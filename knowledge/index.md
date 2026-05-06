@@ -18,8 +18,7 @@ Daftar seluruh file analisis dan sintesis utama (knowledge files) dalam reposito
 | [Pelanggaran Hukum Aparat Negara Sepanjang 2025](/knowledge/Pelanggaran%20Hukum%20Aparat%20Negara%20Sepanjang%202025.md) | Hukum & HAM     | Dokumentasi 14 kasus pelanggaran hukum oleh aparat negara (TNI & Polri) sepanjang 2025. Analisis pola impunitas, kesesuaian hukuman, data konteks dari LSM HAM, dan rekomendasi reformasi. | 2026-04-21 |
 | [Kemenangan Prabowo dalam Pemilu 2024](/knowledge/Kemenangan%20Prabowo%20dalam%20Pemilu%202024.md) | Politik | Analisis komprehensif kemenangan Prabowo Subianto-Gibran Rakabuming Raka dalam Pemilu Presiden 2024. Mencakup hasil suara nasional, faktor kemenangan (efek Jokowi, transformasi citra, Gibran), root cause & effect chain, kontroversi putusan MK dan bansos, serta rekomendasi. | 2026-05-03 |
 | [Pelemahan Rupiah Terhadap Dolar AS](/knowledge/Pelemahan%20Rupiah%20Terhadap%20Dolar%20AS.md) | Ekonomi | Analisis komprehensif pelemahan rupiah dari Rp12.011 (2014) hingga rekor terlemah Rp17.190 (Apr 2026). Mencakup perbandingan era Jokowi vs Prabowo, faktor domestik & global, capital outflow Rp125 T, perbandingan mata uang ASEAN, root cause & effect chain, serta rekomendasi kebijakan. | 2026-05-04 |
-
-
+| [MBG - Program Asbun Prabowo dalam Menyia-nyiakan Anggaran Negara](/knowledge/MBG%20-%20Program%20Asbun%20Prabowo%20dalam%20Menyia-nyiakan%20Anggaran%20Negara.md) | Politik & Governance | Investigasi komprehensif program Makan Bergizi Gratis: 89 kasus keracunan massal dengan 33.626+ korban, jaringan korupsi 102 yayasan terafiliasi politik/militer, anggaran Rp 406 triliun, dan potensi kerugian negara Rp 63 triliun/tahun. | 2026-05-06 |
 
 ## Struktur Knowledge Files
 
