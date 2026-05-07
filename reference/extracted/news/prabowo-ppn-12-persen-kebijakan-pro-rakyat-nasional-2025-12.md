@@ -30,7 +30,7 @@ Presiden Prabowo Subianto memberikan pernyataan tentang penyesuaian tarif Pajak 
 
 ### Dampak Ekonomi
 - Kenaikan PPN di tengah daya beli masyarakat yang melemah
-- Kontribusi terhadap pendapatan negara untuk program prioritas (MBG, CKG, dll)
+- Kontribusi terhadap pendapatan negara untuk program prioritas ([MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), CKG, dll)
 - Berbeda dengan janji kampanye Prabowo (29 Januari 2024) untuk tidak menaikkan tarif pajak
 
 ## Referensi

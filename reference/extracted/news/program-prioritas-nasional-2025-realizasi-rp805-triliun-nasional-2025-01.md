@@ -20,7 +20,7 @@ Pemerintahan Presiden Prabowo Subianto mengalokasikan total anggaran Rp805 trili
 
 ## Detail Program Prioritas dan Realisasi
 
-### 1. Makan Bergizi Gratis (MBG)
+### 1. [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)
 - **Alokasi APBN 2025**: Rp71 triliun
 - **Realisasi per 31 Desember 2025**: Rp51,5 triliun (72,5%)
 - **Sisa anggaran**: 27,5% untuk perluasan program ke depan

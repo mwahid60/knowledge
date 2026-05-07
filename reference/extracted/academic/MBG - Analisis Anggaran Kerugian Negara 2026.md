@@ -27,7 +27,7 @@ tags:
 
 ## Ringkasan
 
-Program Makan Bergizi Gratis (MBG) memiliki anggaran total **Rp 406 triliun** (2025+2026) dan telah diidentifikasi memiliki celah korupsi sistemik oleh KPK, Transparency International Indonesia (TII), dan Indonesia Corruption Watch (ICW). Potensi kerugian negara diestimasi mencapai puluhan triliun rupiah per tahun. Program ini juga mengalihkan **44,2%** anggaran pendidikan ke pos MBG.
+Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) memiliki anggaran total **Rp 406 triliun** (2025+2026) dan telah diidentifikasi memiliki celah korupsi sistemik oleh KPK, Transparency International Indonesia (TII), dan Indonesia Corruption Watch (ICW). Potensi kerugian negara diestimasi mencapai puluhan triliun rupiah per tahun. Program ini juga mengalihkan **44,2%** anggaran pendidikan ke pos [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md).
 
 ---
 
@@ -58,7 +58,7 @@ Program Makan Bergizi Gratis (MBG) memiliki anggaran total **Rp 406 triliun** (2
 ## Dugaan Korupsi dan Temuan Lembaga
 
 ### KPK (Laporan Tahunan 2025)
-KPK mengidentifikasi **8 potensi korupsi** dalam program MBG:
+KPK mengidentifikasi **8 potensi korupsi** dalam program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md):
 1. Regulasi pelaksanaan belum memadai
 2. Mekanisme bantuan pemerintah (Banper) berisiko perpanjang birokrasi & rente
 3. Tata kelola sentralistik dominasi BGN
@@ -71,7 +71,7 @@ KPK mengidentifikasi **8 potensi korupsi** dalam program MBG:
 ### Transparency International Indonesia (TII)
 - Estimasi kerugian keuangan negara: **Rp 1,8 miliar per tahun per SPPG**
 - Jika dikalikan target ~35.000 SPPG = potensi kerugian **Rp 63 triliun per tahun**
-- TII mendesak **moratorium** program MBG sejak Juni 2025
+- TII mendesak **moratorium** program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) sejak Juni 2025
 
 ### Indonesia Corruption Watch (ICW)
 - Temuan: praktik **patronase politik** dan konflik kepentingan
@@ -106,13 +106,13 @@ KPK mengidentifikasi **8 potensi korupsi** dalam program MBG:
 | Data | Detail |
 |------|--------|
 | **Total anggaran pendidikan 2026** | Rp 757,8 triliun |
-| **Dialokasikan ke MBG** | **Rp 335 triliun** (44,2% dari anggaran pendidikan) |
+| **Dialokasikan ke [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)** | **Rp 335 triliun** (44,2% dari anggaran pendidikan) |
 | **Kategori pendidikan murni** | **Rp 223,6 triliun** (29,5% dari total pendidikan) |
 | **Dampak** | Porsi anggaran pendidikan dalam APBN turun dari 20% menjadi **11,9%** |
 
 **Protes yang muncul:**
 - P2G (Perhimpunan Pendidikan dan Guru): gaji guru honorer masih Rp 200-500 ribu/bulan
-- FSGI: pengalihan dana pendidikan ke MBG meniadakan tunjangan profesi guru
+- FSGI: pengalihan dana pendidikan ke [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) meniadakan tunjangan profesi guru
 - Guru PPPK Paruh Waktu di Dompu hanya digaji **Rp 139 ribu/bulan**
 - Guru PPPK PW di Aceh Utara digaji **Rp 200 ribu/bulan**
 - **Uji materi UU APBN 2026** diajukan ke MK oleh mahasiswa, guru honorer, dan yayasan sekolah
@@ -126,13 +126,13 @@ KPK mengidentifikasi **8 potensi korupsi** dalam program MBG:
 | TII | **Rp 1,8 miliar/SPPG/tahun** → total potensi Rp 63 triliun/tahun |
 | Instagram/sosial media | **Rp 1,75 triliun per pekan** (~Rp 7 triliun/bulan) |
 | ICW (mark-up bahan pangan) | Selisih Rp 2.000-5.000/kg × volume masif |
-| Belanja non-MBG dalam pos MBG | Rp 255,5 T dari Rp 335 T hanya untuk pembelian makanan (76%), sisanya 24% untuk pos lain |
+| Belanja non-MBG dalam pos [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) | Rp 255,5 T dari Rp 335 T hanya untuk pembelian makanan (76%), sisanya 24% untuk pos lain |
 
 ---
 
 ## Kontroversi Lain
 
-- **Keracunan MBG**: Kasus keracunan massal di berbagai daerah (Ketapang, Bandung, Anambas, dll)
+- **[Keracunan MBG](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md)**: Kasus keracunan massal di berbagai daerah (Ketapang, Bandung, Anambas, dll)
 - **Pembelian motor listrik BGN**: Dianggap pemborosan (diduga harga Rp 10 juta di Alibaba)
 - **Biaya Zoom miliaran rupiah** untuk rapat virtual BGN
 - **Yayasan Kemala Bhayangkari** (istri Polri) mengelola 1.179 SPPG dengan potensi insentif **Rp 2,2 triliun/tahun**
@@ -142,9 +142,9 @@ KPK mengidentifikasi **8 potensi korupsi** dalam program MBG:
 
 ## Catatan Penting
 
-1. Belum ada penetapan tersangka korupsi MBG oleh KPK hingga saat ini. Temuan masih sebatas potensi/kerawanan.
+1. Belum ada penetapan tersangka korupsi [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) oleh KPK hingga saat ini. Temuan masih sebatas potensi/kerawanan.
 
-2. Program MBG dengan anggaran total **Rp 406 triliun** (2025+2026) memiliki celah korupsi sistemik yang telah diidentifikasi oleh KPK, TII, dan ICW.
+2. Program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) dengan anggaran total **Rp 406 triliun** (2025+2026) memiliki celah korupsi sistemik yang telah diidentifikasi oleh KPK, TII, dan ICW.
 
 3. Potensi kerugian negara diestimasi mencapai puluhan triliun rupiah per tahun.
 

@@ -308,7 +308,7 @@ Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji progra
 - **Return on Assets (ROA)**: Naik **>300%** dalam satu tahun (2025 vs tahun-tahun sebelumnya)
 - **Aset yang dikelola**: Hampir **1.000 perusahaan** (anak hingga cucu BUMN)
 - **Target**: Kembalikan **Rp800 triliun per tahun** ke negara
-- **Peran**: Mendukung KDMP, MBG, dan program strategis lainnya
+- **Peran**: Mendukung KDMP, [MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), dan program strategis lainnya
 - **Investasi hilirisasi lintas sektor**: Potensi nilai investasi mencapai **US$26 miliar**
 
 **Status**: ✅ **Kinerja sangat kuat — ROA melonjak 300%**
@@ -333,7 +333,7 @@ Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji progra
 **Janji Kampanye**: Target ambisius menciptakan 19 juta lapangan kerja selama masa pemerintahan.
 
 **Realisasi**:
-- **MBG**: ~1,34 juta pekerja langsung dari 26.859 dapur SPPG (per April 2026)
+- **[MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)**: ~1,34 juta pekerja langsung dari 26.859 dapur SPPG (per April 2026)
 - **KDMP**: Potensi 1,44 juta pekerja dari 80.000+ koperasi
 - **Hilirisasi**: Ratusan ribu pekerja dari proyek-proyek strategis
 - **Sekolah Rakyat & infrastruktur**: Penyerapan tenaga kerja di berbagai daerah
@@ -350,7 +350,7 @@ Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji progra
 **Realisasi**:
 - **PPN naik dari 11% menjadi 12%** efektif 1 Januari 2025 sesuai UU HPP yang disahkan sebelumnya
 - Sri Mulyani menyatakan kenaikan PPN sudah ada undang-undangnya dan harus dijalankan
-- **Anggaran Program Prioritas 2025**: Total **Rp805 triliun** untuk MBG, CKG, Sekolah Rakyat, Rumah Rakyat, dan program lainnya
+- **Anggaran Program Prioritas 2025**: Total **Rp805 triliun** untuk [MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), CKG, Sekolah Rakyat, Rumah Rakyat, dan program lainnya
 - **Realisasi total program prioritas**: **Rp611,7 triliun (65,8%)** dari pagu Rp929 triliun hingga Oktober 2025
 
 **Status**: ❌ **Janji tidak naikkan pajak tidak terpenuhi (PPN 12%) — namun pendapatan digunakan untuk program sosial**
@@ -361,7 +361,7 @@ Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji progra
 
 | Program | Target | Realisasi Hingga Mei 2026 | Status |
 |---------|--------|---------------------------|--------|
-| MBG | 82,9 juta penerima | 26.859 dapur, Rp51,5T (2025) | 🟢 Berjalan |
+| [MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) | 82,9 juta penerima | 26.859 dapur, Rp51,5T (2025) | 🟢 Berjalan |
 | CKG | 130,3 juta peserta (2026) | 70,8 juta terlayani (2025) | 🟢 Berjalan |
 | 3 Juta Rumah/Tahun | 15 juta (5 tahun) | Program diluncurkan | 🟡 Awal |
 | Swasembada Beras | 4 tahun | ✅ Tercapai 2025 | 🟢 Tercapai |
@@ -369,7 +369,7 @@ Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji progra
 | Hilirisasi | - | Rp147,5T (Q1-2026) | 🟢 Kuat |
 | KDMP | 80.000 koperasi | ✅ 80.081 terbentuk | 🟢 Tercapai |
 | Danantara ROA | - | Naik 300% | 🟢 Kuat |
-| 19 Juta Lapangan Kerja | 5 tahun | ~2,8 juta (MBG+KDMP) | 🟡 Proses |
+| 19 Juta Lapangan Kerja | 5 tahun | ~2,8 juta ([MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)+KDMP) | 🟡 Proses |
 | PPN | Tidak naik | Naik 11%→12% | 🔴 Tidak terpenuhi |
 
 ---
@@ -384,8 +384,8 @@ Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji progra
 
 **Program yang Memerlukan Perhatian**:
 1. **3 juta rumah per tahun** — target sangat ambisius mengingat kegagalan program serupa di masa lalu
-2. **19 juta lapangan kerja** — butuh percepatan signifikan dari sektor MBG, KDMP, dan hilirisasi
-3. **MBG** — perlu disiplin prosedur dan percepatan untuk mencapai 82,9 juta penerima
+2. **19 juta lapangan kerja** — butuh percepatan signifikan dari sektor [MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), KDMP, dan hilirisasi
+3. **[MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)** — perlu disiplin prosedur dan percepatan untuk mencapai 82,9 juta penerima
 
 **Janji yang Tidak Terealisasi**:
 1. **Tidak menaikkan pajak** — PPN tetap naik menjadi 12% meski Prabowo berjanji sebaliknya saat kampanye
@@ -414,7 +414,7 @@ Selama kampanye Pemilu 2024, Prabowo Subianto menyampaikan sejumlah janji progra
 5. Analisis akademik dari CSIS Indonesia dan The Conversation
 6. Publikasi Katadata Insight Center dan Alvara Research
 7. Media Keuangan Kemenkeu — Laporan Realisasi Program Prioritas Nasional 2025
-8. CNBC Indonesia, Kompas.com, Kontan.co.id — update program MBG, CKG, Danantara
+8. CNBC Indonesia, Kompas.com, Kontan.co.id — update program [MBG](../reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), CKG, Danantara
 9. BKPM — Laporan Investasi Hilirisasi Q1-2026
 10. BPS — Prediksi Produksi Beras Nasional 2025
 11. Tribunnews.com, Tirto.id, Tempo.co — daftar pengusaha dan tokoh pendukung Prabowo-Gibran

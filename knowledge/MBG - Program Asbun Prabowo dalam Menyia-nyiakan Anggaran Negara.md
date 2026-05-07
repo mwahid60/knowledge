@@ -9,24 +9,24 @@ tags:
 reference:
   - "[Jaringan Politik dan Korupsi di Balik MBG](/reference/extracted/news/mbg-jaringan-politik-korupsi-nasional-2026-05.md)"
   - "[Daftar Kasus Keracunan MBG 2025-2026](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md)"
-  - "[Analisis Anggaran dan Kerugian Negara MBG](/reference/extracted/academic/mbg-analisis-anggaran-kerugian-negara-2026.md)"
-  - "[Latar Belakang dan Sejarah Program MBG](/reference/extracted/information/mbg-latar-belakang-sejarah-program-2026.md)"
+  - "[Analisis Anggaran dan Kerugian Negara MBG](MBG%20-%20Analisis%20Anggaran%20Kerugian%20Negara%202026.md)"
+  - "[Latar Belakang dan Sejarah Program MBG](MBG%20Latar%20Belakang%20Sejarah%20Program.md)"
 ---
 
 # MBG - Program Asbun Prabowo dalam Menyia-nyiakan Anggaran Negara
 
 ## Overview
 
-Program Makan Bergizi Gratis (MBG) yang diluncurkan oleh Presiden Prabowo Subianto pada **6 Januari 2025** telah berubah dari janji manjur menjadi bencana nasional. Program dengan anggaran total **Rp 406 triliun** (2025-2026) ini tidak hanya gagal mengatasi stunting, malah menciptakan krisis kesehatan massal, korupsi sistemik, dan pemborosan anggaran yang luar biasa.
+Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) yang diluncurkan oleh Presiden Prabowo Subianto pada **6 Januari 2025** telah berubah dari janji manjur menjadi bencana nasional. Program dengan anggaran total **Rp 406 triliun** (2025-2026) ini tidak hanya gagal mengatasi stunting, malah menciptakan krisis kesehatan massal, korupsi sistemik, dan pemborosan anggaran yang luar biasa.
 
 **Statistik Utama:**
-- **33.626+ pelajar** menjadi korban keracunan (JPPI, per April 2026)
+- **33.626+ pelajar** menjadi korban [keracunan](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md) (JPPI, per April 2026)
 - **89 kasus keracunan massal** teridentifikasi di seluruh Indonesia
 - **Rp 335 triliun** anggaran 2026, naik 371% dari 2025
-- **44,2%** anggaran pendidikan dialihkan ke MBG
+- **44,2%** anggaran pendidikan dialihkan ke [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)
 - **5.000-6.018 dapur fiktif** terungkap
 - **102 yayasan** terafiliasi politik, militer, dan aparat
-- **1 siswa meninggal** akibat keracunan MBG
+- **1 siswa meninggal** akibat [keracunan MBG](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md)
 - **Belum ada tersangka** korupsi yang ditetapkan KPK
 
 ---
@@ -1008,14 +1008,14 @@ Program Makan Bergizi Gratis (MBG) yang diluncurkan oleh Presiden Prabowo Subian
 
 | Kategori | Nilai |
 |----------|-------|
-| Anggaran MBG 2025 | Rp 71 triliun |
-| Anggaran MBG 2026 | Rp 335 triliun |
+| Anggaran [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) 2025 | Rp 71 triliun |
+| Anggaran [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) 2026 | Rp 335 triliun |
 | Total Anggaran (2025-2026) | **Rp 406 triliun** |
 | Lonjakan 2026 vs 2025 | **+371%** |
 | Realisasi 2025 (per Des 2025) | Rp 51,5-52,9 triliun (72,5-74,6%) |
 | Realisasi 2026 (per Mar 2026) | Rp 44 triliun (13,1%) |
 | Anggaran Pendidikan 2026 | Rp 757,8 triliun |
-| Dialihkan ke MBG | **Rp 335 triliun (44,2%)** |
+| Dialihkan ke [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) | **Rp 335 triliun (44,2%)** |
 | Pendidikan Murni | Rp 223,6 triliun (29,5%) |
 | Dapur Fiktif/Rollback | **5.000-6.018 SPPG** |
 | Yayasan Terafiliasi Politik | **102 yayasan** |
@@ -1033,7 +1033,7 @@ Prabowo Subianto mengusulkan **"Makan Siang Gratis"** sebagai janji utama kampan
 ### Direct Effect: Rushed Rollout Tanpa Fondasi
 
 Program diluncurkan **6 Januari 2025** dengan target ambisius (82,9 juta penerima manfaat) namun tanpa:
-- Payung hukum kuat (tidak ada Perpres MBG)
+- Payung hukum kuat (tidak ada Perpres [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md))
 - Persiapan infrastruktur SPPG yang memadai
 - Sistem pengawasan food safety
 - Regulasi pelaksanaan yang jelas
@@ -1051,26 +1051,26 @@ Program diluncurkan **6 Januari 2025** dengan target ambisius (82,9 juta penerim
 - Legislatif (anggota DPR/DPRD)
 - Keluarga pejabat (istri Kapolri, Wakapolri, mantan Wakapolri)
 
-**Dampak**: Program MBG berubah dari program sosial menjadi **alat konsolidasi politik** — distribusi sumber daya kepada loyalis dan pendukung pemerintah. Praktik "sunat" budget (Rp 10.000/porsi dipotong jadi Rp 6.500), mark-up harga bahan pangan, dan dapur fiktif menjadi modus operandi.
+**Dampak**: Program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) berubah dari program sosial menjadi **alat konsolidasi politik** — distribusi sumber daya kepada loyalis dan pendukung pemerintah. Praktik "sunat" budget (Rp 10.000/porsi dipotong jadi Rp 6.500), mark-up harga bahan pangan, dan dapur fiktif menjadi modus operandi.
 
 ### Indirect Effect: Krisis Kesehatan Massal
 
-**Mekanisme**: SPPG yang dibangun terburu-buru tidak memenuhi standar food safety. Dari 85 SPPG di Cipongkor, **tidak satu pun** lulus sertifikasi food safety. Bahan pangan kadaluarsa, air kotor, dapur tanpa refrigerasi, dan staf tidak terlatih menjadi penyebab keracunan massal.
+**Mekanisme**: SPPG yang dibangun terburu-buru tidak memenuhi standar food safety. Dari 85 SPPG di Cipongkor, **tidak satu pun** lulus sertifikasi food safety. Bahan pangan kadaluarsa, air kotor, dapur tanpa refrigerasi, dan staf tidak terlatih menjadi penyebab [keracunan massal](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md).
 
-**Dampak**: 33.626+ pelajar keracunan dalam 89 kasus teridentifikasi. Korban termasuk balita, ibu hamil, dan guru. Setidaknya 1 siswa meninggal. Ironinya, program yang bertujuan meningkatkan gizi malah menciptakan krisis kesehatan.
+**Dampak**: 33.626+ pelajar [keracunan](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md) dalam 89 kasus teridentifikasi. Korban termasuk balita, ibu hamil, dan guru. Setidaknya 1 siswa meninggal. Ironinya, program yang bertujuan meningkatkan gizi malah menciptakan krisis kesehatan.
 
 ### Indirect Effect: Pemborosan Anggaran dan Pengalihan Dana Pendidikan
 
-**Mekanisme**: Anggaran MBG melonjak dari Rp 71 triliun (2025) menjadi Rp 335 triliun (2026), naik 371%. Dana ini diambil dari pos pendidikan — **44,2%** anggaran pendidikan dialihkan ke MBG. Porsi pendidikan dalam APBN turun dari 20% menjadi 11,9%.
+**Mekanisme**: Anggaran [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) melonjak dari Rp 71 triliun (2025) menjadi Rp 335 triliun (2026), naik 371%. Dana ini diambil dari pos pendidikan — **44,2%** anggaran pendidikan dialihkan ke [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md). Porsi pendidikan dalam APBN turun dari 20% menjadi 11,9%.
 
-**Dampak**: Guru honorer digaji Rp 139-200 ribu/bulan. Tunjangan profesi guru dihapus. Uji materi UU APBN 2026 diajukan ke MK. Sementara itu, potensi kerugian negara dari korupsi MBG diestimasi **Rp 63 triliun/tahun** (TII).
+**Dampak**: Guru honorer digaji Rp 139-200 ribu/bulan. Tunjangan profesi guru dihapus. Uji materi UU APBN 2026 diajukan ke MK. Sementara itu, potensi kerugian negara dari korupsi [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) diestimasi **Rp 63 triliun/tahun** (TII).
 
 ### Final Impact: Kerusakan Multi-Dimensi
 
-1. **Kesehatan**: 33.000+ anak keracunan, trauma psikologis, kehilangan kepercayaan pada program pemerintah
+1. **Kesehatan**: 33.000+ anak [keracunan](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md), trauma psikologis, kehilangan kepercayaan pada program pemerintah
 2. **Ekonomi**: Rp 406 triliun anggaran terancam hilang akibat korupsi, Fitch revisi outlook Indonesia ke Negative
 3. **Pendidikan**: Dana pendidikan tergerus, kualitas guru menurun, generasi penerus terancam
-4. **Politik**: MBG menjadi simbol kegagalan governance, "Makan Beracun Gratis" jadi julukan publik
+4. **Politik**: [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) menjadi simbol kegagalan governance, "Makan Beracun Gratis" jadi julukan publik
 5. **Sosial**: Kesenjangan antara janji politik dan realitas memperdalam ketidakpercayaan publik pada pemerintah
 
 ---
@@ -1078,13 +1078,13 @@ Program diluncurkan **6 Januari 2025** dengan target ambisius (82,9 juta penerim
 ## Latar Belakang Prabowo Ngotot MBG
 
 ### 1. Janji Kampanye yang Harus Dipenuhi
-MBG adalah janji utama Prabowo-Gibran. Kegagalan menjalankannya akan merusak kredibilitas politik.
+[MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) adalah janji utama Prabowo-Gibran. Kegagalan menjalankannya akan merusak kredibilitas politik.
 
 ### 2. Quick Win Politik
 Program dirancang untuk menunjukkan kehadiran negara dan kepedulian terhadap rakyat miskin dalam waktu singkat.
 
 ### 3. Investasi Jangka Panjang SDM
-Prabowo meyakini MBG adalah investasi untuk masa depan bangsa menuju Indonesia Emas 2045.
+Prabowo meyakini [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) adalah investasi untuk masa depan bangsa menuju Indonesia Emas 2045.
 
 ### 4. Pengalaman Langsung
 Prabowo bercerita melihat anak stunting saat kampanye: "anak umur 11 tahun, badannya anak 4 tahun."
@@ -1093,7 +1093,7 @@ Prabowo bercerita melihat anak stunting saat kampanye: "anak umur 11 tahun, bada
 Diklaim menciptakan 1,5 juta lapangan kerja dan menggerakkan ekonomi daerah.
 
 ### 6. Argumentasi "Daripada Dikorupsi"
-Prabowo mempertahankan MBG dengan logika: "Lebih baik rakyat saya bisa makan daripada uang dikorupsi."
+Prabowo mempertahankan [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) dengan logika: "Lebih baik rakyat saya bisa makan daripada uang dikorupsi."
 
 ### 7. Pertaruhan Kepemimpinan
 Prabowo menyatakan: "Saya haqul yakin saya berada di jalan yang benar. Uang kita ada, saya pertaruhkan kepemimpinan saya 2029 kita lihat."
@@ -1103,7 +1103,7 @@ Prabowo menyatakan: "Saya haqul yakin saya berada di jalan yang benar. Uang kita
 ## Rekomendasi
 
 ### 1. Moratorium Program MBG
-Transparency International Indonesia dan berbagai LSM mendesak moratorium MBG hingga:
+Transparency International Indonesia dan berbagai LSM mendesak moratorium [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) hingga:
 - Payung hukum (Perpres/UU) tersusun
 - Sistem pengawasan food safety teruji
 - Mitra SPPG diverifikasi independen
@@ -1117,10 +1117,10 @@ Badan Pemeriksa Keuangan (BPK) harus mengaudit:
 - Mark-up harga bahan pangan
 
 ### 3. Pemisahan Anggaran Pendidikan dan MBG
-Pengalihan 44,2% anggaran pendidikan ke MBG harus dihentikan. Pendidikan dan gizi adalah dua sektor yang harus didanai terpisah.
+Pengalihan 44,2% anggaran pendidikan ke [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) harus dihentikan. Pendidikan dan gizi adalah dua sektor yang harus didanai terpisah.
 
 ### 4. Penegakan Hukum
-KPK harus segera menetapkan tersangka korupsi MBG berdasarkan 8 potensi korupsi yang telah diidentifikasi.
+KPK harus segera menetapkan tersangka korupsi [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) berdasarkan 8 potensi korupsi yang telah diidentifikasi.
 
 ### 5. Reformasi Tata Kelola
 - BGN tidak boleh sentralistik
