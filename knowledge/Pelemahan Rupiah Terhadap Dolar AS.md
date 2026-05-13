@@ -219,7 +219,7 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 |-----------|-----------------|
 | PPN naik 11% → 12% (Jan 2025) | Meningkatkan biaya bisnis, daya beli turun, potensi inflasi |
 | Tarif resiprokal 10-32% | Ketidakpastian perdagangan, investor wait-and-see |
-| Belanja besar program prioritas (MBG, CKG, dll) | Defisit fiskal diproyeksikan 2,9% PDB (2026), di atas target 2,7% |
+| Belanja besar program prioritas ([MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), CKG, dll) | Defisit fiskal diproyeksikan 2,9% PDB (2026), di atas target 2,7% |
 | Keterlambatan laporan APBN | Kurangnya transparansi fiskal, kredibilitas terganggu |
 
 **2. Sentimen Investor dan Lembaga Pemeringkat**
@@ -227,7 +227,7 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 - **Capital outflow 2025**: Rp125,1 triliun modal asing keluar (berbanding terbalik dengan 2024: Rp212 T masuk)
 - **Fitch Ratings (Apr 2026)**: Revisi outlook Indonesia ke Negative dari Stable, rating 'BBB'
   - Weaker governance indicators (persentil ke-44 vs median BBB ke-56)
-  - Sustained spending pressures (MBG 1,3% PDB)
+  - Sustained spending pressures ([MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) 1,3% PDB)
   - Central bank's more complex mandate
 - **Kurangnya transparansi**: Keterlambatan laporan fiskal memicu kekhawatiran investor
 - **Update Mei 2026**: Rupiah di bawah tekanan meski pertumbuhan ekonomi Q1 2026 mencapai 5,61%. BI menyebut rupiah "undervalued" secara fundamental.
@@ -286,7 +286,7 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 **Perspektif Pemerintah**:
 - Pelemahan rupiah "normal" karena faktor global (The Fed, DXY)
 - BI tetap prioritaskan stabilitas dengan mempertahankan BI Rate 4,75%
-- Program prioritas (MBG, CKG) penting untuk jangka panjang meski berdampak fiskal jangka pendek
+- Program prioritas ([MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), CKG) penting untuk jangka panjang meski berdampak fiskal jangka pendek
 - PPN 12% hanya untuk barang mewah (versi pemerintah)
 
 **Perspektif Investor Asing**:

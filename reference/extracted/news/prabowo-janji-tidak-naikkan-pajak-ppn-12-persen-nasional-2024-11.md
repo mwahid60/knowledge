@@ -23,7 +23,7 @@ Presiden Prabowo Subianto pernah berjanji untuk tidak menaikkan tarif pajak saat
 - **Dasar hukum**: UU HPP yang disahkan sebelumnya
 - **Pernyataan Sri Mulyani**: "Sudah ada undang-undangnya. Kita perlu menyiapkan agar itu bisa dijalankan, tetapi dengan penjelasan yang baik kepada masyarakat"
 - **Konteks**: Kenaikan PPN dilakukan di tengah kondisi daya beli masyarakat yang melemah
-- **Pendapatan**: Digunakan untuk mendanai program prioritas seperti MBG, CKG, dan program sosial lainnya
+- **Pendapatan**: Digunakan untuk mendanai program prioritas seperti [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), CKG, dan program sosial lainnya
 
 ## Referensi
 - [Kompas.id - Mengenang Janji Kampanye Prabowo](https://www.kompas.id/artikel/mengenang-janji-kampanye-prabowo-untuk-tidak-menaikkan-tarif-pajak)

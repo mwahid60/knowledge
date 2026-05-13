@@ -20,7 +20,6 @@ tags:
   - Politics
   - Social_Policy
 ---
-
 # Latar Belakang dan Sejarah Program Makan Bergizi Gratis (MBG)
 
 ## Ringkasan

@@ -15,7 +15,7 @@ tags:
 
 ## Ringkasan
 
-Presiden Prabowo Subianto menargetkan penciptaan 19 juta lapangan kerja selama masa pemerintahannya. Program Makan Bergizi Gratis (MBG), Koperasi Desa Merah Putih (KDMP), dan proyek hilirisasi menjadi motor utama penciptaan lapangan kerja.
+Presiden Prabowo Subianto menargetkan penciptaan 19 juta lapangan kerja selama masa pemerintahannya. Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), Koperasi Desa Merah Putih (KDMP), dan proyek hilirisasi menjadi motor utama penciptaan lapangan kerja.
 
 ## Detail Capaian
 

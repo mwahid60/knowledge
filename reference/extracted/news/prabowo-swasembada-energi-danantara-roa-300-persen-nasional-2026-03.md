@@ -30,7 +30,7 @@ Presiden Prabowo Subianto menyampaikan keyakinan Indonesia akan mencapai swasemb
 - **ROA (Return on Assets)**: Naik lebih dari 300% dalam satu tahun (2025 vs tahun-tahun sebelumnya)
 - **Aset yang dikelola**: Hampir 1.000 perusahaan (anak hingga cucu BUMN)
 - **Target**: Kembalikan Rp800 triliun per tahun ke negara
-- **Peran**: Mendukung KDMP, MBG, dan program strategis lainnya
+- **Peran**: Mendukung KDMP, [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), dan program strategis lainnya
 - **Investasi hilirisasi lintas sektor**: Potensi nilai investasi mencapai US$26 miliar
 
 ## Referensi

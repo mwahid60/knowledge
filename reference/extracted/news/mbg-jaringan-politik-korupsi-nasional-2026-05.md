@@ -25,7 +25,7 @@ tags:
 
 ## Ringkasan
 
-Program Makan Bergizi Gratis (MBG) yang diluncurkan oleh Presiden Prabowo Subianto pada 6 Januari 2025 diduga sarat akan praktik politik patronase dan konflik kepentingan. Investigasi oleh Indonesia Corruption Watch (ICW) menemukan 102 yayasan pengelola Satuan Pelayanan Pemenuhan Gizi (SPPG) yang terafiliasi dengan partai politik, militer, polisi, anggota DPR, dan keluarga pejabat pemerintahan. Program ini diduga digunakan sebagai alat konsolidasi politik ketimbang memberi manfaat bagi publik.
+Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) yang diluncurkan oleh Presiden Prabowo Subianto pada 6 Januari 2025 diduga sarat akan praktik politik patronase dan konflik kepentingan. Investigasi oleh Indonesia Corruption Watch (ICW) menemukan 102 yayasan pengelola Satuan Pelayanan Pemenuhan Gizi (SPPG) yang terafiliasi dengan partai politik, militer, polisi, anggota DPR, dan keluarga pejabat pemerintahan. Program ini diduga digunakan sebagai alat konsolidasi politik ketimbang memberi manfaat bagi publik.
 
 ---
 
@@ -33,7 +33,7 @@ Program Makan Bergizi Gratis (MBG) yang diluncurkan oleh Presiden Prabowo Subian
 
 ### 1. 102 Yayasan Terafiliasi Politik dan Aparat
 
-Dari total 60.500 yayasan yang mendaftar sebagai mitra MBG, ICW meneliti 102 yayasan di 38 provinsi. Temuan menunjukkan sembilan pola hubungan patronase:
+Dari total 60.500 yayasan yang mendaftar sebagai mitra [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md), ICW meneliti 102 yayasan di 38 provinsi. Temuan menunjukkan sembilan pola hubungan patronase:
 
 - **Partai politik**: Sejumlah yayasan dikelola oleh kader partai politik, termasuk Yayasan Perjuangan untuk Kesejahteraan Rakyat yang diisi kader PDI Perjuangan
 - **Tim pemenangan Prabowo**: Yayasan yang terafiliasi dengan relawan dan pendukung Prabowo-Gibran
@@ -41,9 +41,9 @@ Dari total 60.500 yayasan yang mendaftar sebagai mitra MBG, ICW meneliti 102 yay
 - **Militer (TNI)**: Enam yayasan terafiliasi dengan militer aktif dan purnawirawan, termasuk Yayasan Pengembangan Potensi Sumber Daya Pertahanan, Yayasan Purnawirawan Pejuang Indonesia Raya, dan Yayasan Mualaf Indonesia Timur
 - **Polri**: Yayasan Kemala Bhayangkari dikelola oleh istri pejabat Polri (Martha Dwi Maryani, istri Wakapolri Komjen Dedi Prasetyo; Juliati Sapta Dwi, istri Kapolri Jenderal Listyo Sigit Prabowo; Diana Wahyuni, istri mantan Wakapolri Ahmad Dofri)
 - **Kejaksaan**: Yayasan Inklusi Pelita Bangsa didirikan oleh Reda Manthovani (Jaksa Agung Muda Bidang Intelijen) dan Denny Achmad (Kepala Kejaksaan Negeri Kabupaten Bogor)
-- **Legislatif**: Anggota DPRD dari berbagai wilayah (Jabar, NTB, Sumsel) menjadi mitra MBG
+- **Legislatif**: Anggota DPRD dari berbagai wilayah (Jabar, NTB, Sumsel) menjadi mitra [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)
 - **Kontestan pilkada**: Yayasan Lazuardi Kendari didirikan oleh Nur Alam (mantan Gubernur Sultra PAN, terjerat korupsi Rp 4,3 triliun) dan Mohammad Zayat Kaimoeddin (peserta Pilkada Kendari 2017)
-- **Keluarga elite**: Temuan Tempo menunjukkan Prabowo, anggota keluarga, dan kroninya terhubung dengan salah satu yayasan mitra MBG
+- **Keluarga elite**: Temuan Tempo menunjukkan Prabowo, anggota keluarga, dan kroninya terhubung dengan salah satu yayasan mitra [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)
 
 ### 2. Polri dan TNI Kelola Ribuan SPPG
 
@@ -77,17 +77,17 @@ Biaya pembangunan SPPG bervariasi tak jelas antara **Rp 600 juta - Rp 2,5 miliar
 
 ### 7. Konflik Kepentingan Legislator
 
-Sejumlah anggota DPR diketahui memiliki SPPG sendiri. Ketua Komisi IX DPR Dede Yusuf menyebut ada politikus yang menghubunginya via WhatsApp minta "jatah" dapur MBG. Hal ini menjadi conflict of interest karena DPR seharusnya berfungsi mengawasi program, bukan mengelolanya.
+Sejumlah anggota DPR diketahui memiliki SPPG sendiri. Ketua Komisi IX DPR Dede Yusuf menyebut ada politikus yang menghubunginya via WhatsApp minta "jatah" dapur [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md). Hal ini menjadi conflict of interest karena DPR seharusnya berfungsi mengawasi program, bukan mengelolanya.
 
 ---
 
 ## Perkembangan Hukum
 
-- **KPK** mengidentifikasi 8 potensi korupsi dalam program MBG (Laporan Tahunan 2025)
+- **KPK** mengidentifikasi 8 potensi korupsi dalam program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) (Laporan Tahunan 2025)
 - **Ombudsman RI** mengidentifikasi potensi afiliasi politik yayasan SPPG yang berisiko konflik kepentingan
-- **Transparency International Indonesia** mendesak moratorium program MBG sejak Juni 2025
-- **Mahkamah Konstitusi** sedang menguji materi UU APBN 2026 terkait pengalihan anggaran pendidikan ke MBG
-- Belum ada penetapan tersangka korupsi MBG oleh KPK hingga saat ini
+- **Transparency International Indonesia** mendesak moratorium program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) sejak Juni 2025
+- **Mahkamah Konstitusi** sedang menguji materi UU APBN 2026 terkait pengalihan anggaran pendidikan ke [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)
+- Belum ada penetapan tersangka korupsi [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) oleh KPK hingga saat ini
 
 ---
 
@@ -97,7 +97,7 @@ Sejumlah anggota DPR diketahui memiliki SPPG sendiri. Ketua Komisi IX DPR Dede Y
 - Kepala BGN Dadan Hindayana membantah dapur fiktif, menyebutnya "rollback" karena tidak aktif
 - BGN mengklaim sistem virtual account mencegah pencairan dana ke dapur tidak operasional
 - Wakil Kepala BGN Sony Sonjaya menjelaskan TNI-Polri digandeng untuk percepatan pembangunan SPPG
-- BGN mengakui dapur MBG dikelola parpol hingga TNI-Polri
+- BGN mengakui dapur [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) dikelola parpol hingga TNI-Polri
 
 ### Polri
 - Kapolri Jenderal Listyo Sigit meresmikan SPPG Polri di Pejaten, Pasar Minggu, Jakarta Selatan (Maret 2025)
@@ -106,12 +106,12 @@ Sejumlah anggota DPR diketahui memiliki SPPG sendiri. Ketua Komisi IX DPR Dede Y
 
 ### Presiden Prabowo
 - Prabowo mengklaim margin error program hanya 0,00017%
-- Menyatakan lebih baik uang negara untuk MBG daripada dikorupsi
+- Menyatakan lebih baik uang negara untuk [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) daripada dikorupsi
 - Mengakui ada kekurangan dan kasus keracunan
-- Menegaskan program MBG sangat penting untuk menjawab persoalan gizi dan kemiskinan
+- Menegaskan program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) sangat penting untuk menjawab persoalan gizi dan kemiskinan
 
 ---
 
 ## Analisis Konteks
 
-Program MBG diduga menjadi ajang "bancakan" bagi elit politik dan aparat keamanan. Keterlibatan TNI-Polri, partai politik, dan keluarga pejabat dalam pengelolaan SPPG menunjukkan program ini lebih berfungsi sebagai alat distribusi sumber daya untuk memperkuat jejaring patronase ketimbang program sosial murni. Tanpa payung hukum yang kuat (tidak ada Perpres MBG), transparansi yang memadai, dan mekanisme pengawasan independen, program ini sangat rentan terhadap eksploitasi politik dan korupsi sistemik.
+Program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) diduga menjadi ajang "bancakan" bagi elit politik dan aparat keamanan. Keterlibatan TNI-Polri, partai politik, dan keluarga pejabat dalam pengelolaan SPPG menunjukkan program ini lebih berfungsi sebagai alat distribusi sumber daya untuk memperkuat jejaring patronase ketimbang program sosial murni. Tanpa payung hukum yang kuat (tidak ada Perpres [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md)), transparansi yang memadai, dan mekanisme pengawasan independen, program ini sangat rentan terhadap eksploitasi politik dan korupsi sistemik.

@@ -1,3 +1,4 @@
 .venv/
+.obsidian/
 .trash/
 .DS_Store

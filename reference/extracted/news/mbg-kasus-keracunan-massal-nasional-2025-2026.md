@@ -29,7 +29,7 @@ tags:
 
 ## Ringkasan
 
-Program Makan Bergizi Gratis (MBG) resmi diluncurkan pada **6 Januari 2025** oleh Presiden Prabowo Subianto. Sejak peluncuran, program ini telah menyebabkan ribuan kasus keracunan massal di berbagai daerah di Indonesia. Data terakhir per Mei 2026 mencatat lebih dari 33.000 pelajar menjadi korban keracunan akibat konsumsi makanan dari program MBG.
+Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) resmi diluncurkan pada **6 Januari 2025** oleh Presiden Prabowo Subianto. Sejak peluncuran, program ini telah menyebabkan ribuan kasus keracunan massal di berbagai daerah di Indonesia. Data terakhir per Mei 2026 mencatat lebih dari 33.000 pelajar menjadi korban keracunan akibat konsumsi makanan dari [program MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md).
 
 ---
 

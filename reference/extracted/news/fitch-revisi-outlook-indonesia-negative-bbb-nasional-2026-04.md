@@ -21,7 +21,7 @@ Fitch Ratings merevisi outlook Indonesia menjadi Negative dari Stable pada 3 Apr
 ### Faktor Penurunan Outlook
 1. **Weaker Governance Indicators**: Protes massal 2025 menunjukkan ketidakpuasan publik. Indonesia berada di persentil ke-44 pada skor tata kelola komposit, di bawah median 'BBB' di persentil ke-56.
 
-2. **Sustained Spending Pressures**: Defisit fiskal diproyeksikan 2,9% PDB pada 2026 (di atas target pemerintah 2,7%). Program MBG (1,3% PDB untuk 2025-2029) mendorong belanja sosial lebih tinggi.
+2. **Sustained Spending Pressures**: Defisit fiskal diproyeksikan 2,9% PDB pada 2026 (di atas target pemerintah 2,7%). Program [MBG](/reference/extracted/information/MBG%20Latar%20Belakang%20Sejarah%20Program.md) (1,3% PDB untuk 2025-2029) mendorong belanja sosial lebih tinggi.
 
 3. **Central Bank's More Complex Mandate**: BI mempertahankan BI Rate 4,75% sejak September 2025 untuk prioritas stabilitas rupiah. Potensi ekspansi mandat BI untuk mendukung pertumbuhan dan lapangan kerja bisa mengganggu objektif inti.
 
