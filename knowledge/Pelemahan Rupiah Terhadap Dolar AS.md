@@ -17,6 +17,7 @@ reference:
   - "[Prabowo PPN 12% Kebijakan Pro-Rakyat](/reference/extracted/news/prabowo-ppn-12-persen-kebijakan-pro-rakyat-nasional-2025-12.md)"
   - "[BI Rate Turun ke 4,75% 2025](/reference/extracted/news/bi-rate-turun-475-persen-2025-nasional-2025-09.md)"
   - "[Rupiah Rekor Terlemah Rp17.190](/reference/extracted/news/rupiah-rekor-terlemah-rp17190-nasional-2026-04.md)"
+  - "[Rupiah Tembus Rp17.529 Rekor Baru Mei 2026](/reference/extracted/news/rupiah-rekor-terlemah-rp17529-mei-2026-nasional-2026-05.md)"
 ---
 
 # Pelemahan Rupiah Terhadap Dolar AS: Dari Era Jokowi ke Prabowo
@@ -30,8 +31,9 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 - Level akhir Jokowi (Okt 2024): Rp15.460/USD
 - Level setahun Prabowo (Okt 2025): Rp16.575/USD
 - Rekor terlemah sejarah (Apr 2026): Rp17.190/USD
+- **Rekor terbaru (Mei 2026): Rp17.529/USD**
 - Pelemahan era Jokowi (10 th): 28,7%
-- Pelemahan era Prabowo (1 th): 7,21%
+- Pelemahan era Prabowo (1,5 th): 13,4%
 - Capital outflow 2025: Rp125,1 triliun
 - Utang pemerintah era Jokowi: Naik Rp5.843 T (+225%)
 
@@ -115,6 +117,13 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
   <td>11,2%</td>
   <td><strong>Rekor terlemah sepanjang masa</strong></td>
 </tr>
+<tr>
+  <td>12 Mei 2026</td>
+  <td><strong>17.529</strong></td>
+  <td>Era Prabowo</td>
+  <td>13,4%</td>
+  <td><strong>Rekor baru terlemah sepanjang masa, badai sempurna faktor global dan domestik</strong></td>
+</tr>
 </tbody>
 </table>
 
@@ -127,8 +136,8 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 | Era | Periode | Level Awal | Level Akhir | Pelemahan | Faktor Dominan |
 |-----|---------|-----------|------------|-----------|---------------|
 | Jokowi | Okt 2014 - Okt 2024 | Rp12.011 | Rp15.460 | 28,7% (10 th) | Pandemi, utang, defisit fiskal |
-| Prabowo | Okt 2024 - Apr 2026 | Rp15.460 | Rp17.190 | 11,2% (1,5 th) | Tarif resiprokal, capital outflow, rating |
-| **Total** | **Okt 2014 - Apr 2026** | **Rp12.011** | **Rp17.190** | **43,1%** | **Kombinasi faktor domestik + global** |
+| Prabowo | Okt 2024 - Mei 2026 | Rp15.460 | Rp17.529 | 13,4% (1,5 th) | Tarif resiprokal, capital outflow, rating, geopolitik |
+| **Total** | **Okt 2014 - Mei 2026** | **Rp12.011** | **Rp17.529** | **46,0%** | **Kombinasi faktor domestik + global** |
 
 ### Perbandingan Mata Uang ASEAN terhadap Dolar AS (YTD 2025)
 
@@ -174,6 +183,7 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 - Defisit ditutupi dengan utang baru, menciptakan spiral utang
 - Kemampuan penerimaan ekspor membayar utang luar negeri berkurang
 - Pemerintah dipaksa cari utang baru hanya untuk bayar bunga utang lama
+- **Update**: Defisit APBN 2025 mencapai 2,92% atau Rp695,1 triliun, di atas target 2,7%
 
 **2. Tekanan Global yang Berulang**
 
@@ -188,6 +198,20 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 - Ketergantungan pada SBN dan SRBI untuk menarik modal asing
 
 #### Era Prabowo (2024-2026): Akselerasi Pelemahan
+
+**Update Mei 2026**: Rupiah mencetak rekor baru Rp17.529/USD (12 Mei 2026), melemah 4,93% year-to-date. Pelemahan ini dipicu oleh "badai sempurna" kombinasi faktor global dan domestik.
+
+**Faktor Global Baru (Mei 2026)**:
+- Konflik Timur Tengah memanas: gencatan senjata AS-Israel dengan Iran di ujung tanduk
+- Iran menolak proposal Washington, menuntut kompensasi dan pencabutan blokade
+- Iran menegaskan kendali atas Selat Hormuz (~20% pasokan minyak dunia)
+- Yield US Treasury 10 tahun naik ke 4,47%
+- Rebalancing MSCI Mei 2026: 6 saham RI dikeluarkan dari Global Standard Index
+
+**Respons Kebijakan (Mei 2026)**:
+- **BI**: Intervensi pasar spot dan NDF, cadangan devisa turun ke US$146,20 M (April 2026)
+- **Pemerintah**: Siapkan Bond Stabilization Fund (BSF) untuk intervensi pasar obligasi
+- **Prediksi**: Bank Permata memperkirakan BI Rate naik 25 bps ke 5% pada Mei/Juni 2026
 
 **1. Kebijakan Domestik yang Menambah Tekanan**
 
@@ -206,6 +230,7 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
   - Sustained spending pressures (MBG 1,3% PDB)
   - Central bank's more complex mandate
 - **Kurangnya transparansi**: Keterlambatan laporan fiskal memicu kekhawatiran investor
+- **Update Mei 2026**: Rupiah di bawah tekanan meski pertumbuhan ekonomi Q1 2026 mencapai 5,61%. BI menyebut rupiah "undervalued" secara fundamental.
 
 **3. Faktor Global yang Memperburuk**
 
@@ -216,10 +241,11 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 - **Ketidakpastian geopolitik**: Perang dagang, tarif global
 
 **Direct Effect Era Prabowo**:
-- Rupiah melemah 11,2% dalam 1,5 tahun (vs 28,7% dalam 10 tahun era Jokowi)
-- Pace pelemahan lebih cepat: ~7,5% per tahun (Prabowo) vs ~2,9% per tahun (Jokowi)
+- Rupiah melemah 13,4% dalam 1,5 tahun (vs 28,7% dalam 10 tahun era Jokowi)
+- Pace pelemahan lebih cepat: ~8,9% per tahun (Prabowo) vs ~2,9% per tahun (Jokowi)
 - Modal asing kabur massal: Rp125,1 T keluar di 2025
 - Rupiah menjadi mata uang terlemah di Asia
+- Rekor terbaru Rp17.529/USD (Mei 2026), jauh melampaui asumsi APBN Rp16.500/USD
 
 **Indirect Effect**:
 - Biaya impor naik → inflasi tekanan impor
@@ -228,10 +254,11 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 - Investor asing beralih ke Malaysia, Thailand, Singapura
 
 **Final Impact**:
-- Rupiah tembus Rp17.000/USD (Mar 2026) dan Rp17.190/USD (Apr 2026)
+- Rupiah tembus Rp17.000/USD (Mar 2026), Rp17.190/USD (Apr 2026), dan **Rp17.529/USD (Mei 2026)**
 - Rekor terlemah sepanjang sejarah, melampaui krisis 1998 dan pandemi 2020
 - Indonesia kehilangan daya saing investasi relatif terhadap tetangga ASEAN
 - Potensi spiral: pelemahan rupiah → inflasi → BI Rate naik → pertumbuhan melambat
+- Yield SBN melonjak ke 6,74% saat rupiah ambrol
 
 ---
 
@@ -286,15 +313,16 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 
 ### Bagi Pemerintahan Prabowo
 1. **Transparansi fiskal**: Segera publikasikan laporan APBN tepat waktu untuk memulihkan kepercayaan investor
-2. **Pengendalian defisit**: Jaga defisit fiskal di bawah 3% PDB sesuai UU, hindari front-loading belanja
+2. **Pengendalian defisit**: Jaga defisit fiskal di bawah 3% PDB sesuai UU, hindari front-loading belanja. **Update**: Defisit 2025 sudah 2,92%, sangat dekat batas 3%
 3. **Reformasi struktural**: Percepat implementasi UU Cipta Kerja, perbaiki iklim investasi
-4. **Stabilisasi rupiah**: BI perlu keseimbangan antara pertumbuhan dan stabilitas mata uang
+4. **Stabilisasi rupiah**: BI perlu keseimbangan antara pertumbuhan dan stabilitas mata uang. **Update**: Pertimbangkan kenaikan BI Rate ke 5% jika pelemahan berlanjut
 5. **Pengelolaan utang**: Hindari spiral utang baru untuk bayar bunga utang lama
+6. **Koordinasi BSF**: Aktifkan Bond Stabilization Fund untuk stabilisasi pasar obligasi
 
 ### Bagi Bank Indonesia
-1. **BI Rate**: Pertimbangkan kenaikan suku bunga jika pelemahan rupiah berlanjut, meski berdampak ke pertumbuhan
-2. **Intervensi pasar**: Gunakan cadangan devisa secara strategis untuk stabilisasi
-3. **Koordinasi fiskal-moneter**: Sinergi dengan Kemenkeu untuk menjaga konsistensi kebijakan
+1. **BI Rate**: Pertimbangkan kenaikan suku bunga jika pelemahan rupiah berlanjut, meski berdampak ke pertumbuhan. **Update**: Bank Permata memprediksi kenaikan 25 bps ke 5% pada Mei/Juni 2026
+2. **Intervensi pasar**: Gunakan cadangan devisa secara strategis untuk stabilisasi. **Update**: Cadangan devisa turun dari US$154,58 M (Jan) ke US$146,20 M (Apr 2026)
+3. **Koordinasi fiskal-moneter**: Sinergi dengan Kemenkeu untuk menjaga konsistensi kebijakan. **Update**: Rapat terbatas dengan Presiden Prabowo (5 Mei 2026) untuk koordinasi stabilisasi
 
 ### Bagi Investor dan Masyarakat
 1. **Diversifikasi**: Kurangi eksposur mata uang tunggal, pertimbangkan aset berdenominasi rupiah yang terlindungi inflasi
@@ -317,6 +345,7 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 - Data real-time nilai tukar berfluktuasi setiap detik, angka dalam laporan adalah snapshot
 - Faktor psikologis dan spekulasi pasar sulit diukur secara kuantitatif
 - Perbandingan antar-era kepemimpinan tidak sepenuhnya apple-to-apple karena konteks global berbeda
+- **Update**: Data terbaru per 12-13 Mei 2026, kondisi dapat berubah cepat sesuai dinamika global
 
 ### Sumber Utama
 1. Bank Indonesia - Data nilai tukar dan capital flow
@@ -326,3 +355,4 @@ Nilai tukar rupiah terhadap dolar Amerika Serikat mengalami trajektori pelemahan
 5. Bank Negara Malaysia, Bank of Thailand - Data mata uang ASEAN
 6. The Federal Reserve - Kebijakan suku bunga AS
 7. BPS - Data neraca perdagangan dan PDB
+8. **Update**: CNBC Indonesia, Kompas.id, Liputan6.com, Tempo.co, Bisnis.com - Data rupiah Mei 2026

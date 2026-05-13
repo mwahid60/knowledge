@@ -108,8 +108,9 @@ folder : `/extracted/news`
 | [bi-rate-turun-475-persen-2025-nasional-2025-09](/reference/extracted/news/bi-rate-turun-475-persen-2025-nasional-2025-09.md)                           | BI Rate turun ke 4,75% (Sep 2025), total pemangkasan 150 bps                                   |
 | [rupiah-rekor-terlemah-rp17190-nasional-2026-04](/reference/extracted/news/rupiah-rekor-terlemah-rp17190-nasional-2026-04.md)                           | Rupiah cetak rekor terlemah sepanjang masa: Rp17.190 per dolar AS                              |
 | [mbg-jaringan-politik-korupsi-nasional-2026-05](/reference/extracted/news/mbg-jaringan-politik-korupsi-nasional-2026-05.md)                            | Investigasi jaringan politik, militer, dan korupsi di balik program MBG                        |
-| [mbg-kasus-keracunan-massal-nasional-2025-2026](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md)                            | Daftar lengkap 89 kasus keracunan massal akibat program MBG di seluruh Indonesia               |
+| [mbg-kasus-keracunan-massal-nasional-2025-2026](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md) | Daftar lengkap 89 kasus keracunan massal akibat program MBG di seluruh Indonesia |
+| [rupiah-rekor-terlemah-rp17529-mei-2026-nasional-2026-05](/reference/extracted/news/rupiah-rekor-terlemah-rp17529-mei-2026-nasional-2026-05.md) | Rupiah cetak rekor terlemah baru Rp17.529 per dolar AS pada 12 Mei 2026 |
 
 ---
 
-*Terakhir diperbarui: 2026-05-06*
+*Terakhir diperbarui: 2026-05-13*
