@@ -37,7 +37,17 @@ folder : `/extracted/information`
 | [BRI (Bank Rakyat Indonesia)](/reference/extracted/information/BRI%20%28Bank%20Rakyat%20Indonesia%29.md)                                                     | Profil lengkap PT Bank Rakyat Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi  |
 | [BSI (Bank Syariah Indonesia)](/reference/extracted/information/BSI%20%28Bank%20Syariah%20Indonesia%29.md)                                                   | Profil lengkap PT Bank Syariah Indonesia Tbk — sejarah, kepemilikan, kepemimpinan, produk, dan afiliasi |
 | [Daftar Tokoh dan Figur Pendukung Prabowo-Gibran Pemilu 2024](Daftar%20Tokoh%20dan%20Figur%20Pendukung%20Prabowo-Gibran%20Pemilu%202024.md) | Daftar komprehensif tokoh politik, pengusaha, ulama, artis, dan organisasi pendukung Prabowo-Gibran     |
-| [mbg-latar-belakang-sejarah-program-2026](/reference/extracted/information/mbg-latar-belakang-sejarah-program-2026.md)                                  | Latar belakang, sejarah, dan motivasi politik di balik program Makan Bergizi Gratis           |
+|| [mbg-latar-belakang-sejarah-program-2026](/reference/extracted/information/mbg-latar-belakang-sejarah-program-2026.md)                                  | Latar belakang, sejarah, dan motivasi politik di balik program Makan Bergizi Gratis           |
+|| [Yayasan Bina Pendidikan Yatim - SPPG Nunukan Selatan](/reference/extracted/information/Yayasan%20Bina%20Pendidikan%20Yatim%20-%20SPPG%20Nunukan%20Selatan.md) | Profil yayasan pemilik SPPG Nunukan Selatan - kasus keracunan 90-145 siswa, menu ayam kecap basi |
+|| [Yayasan Saputri Langgeng Utama - SPPG Indramayu](/reference/extracted/information/Yayasan%20Saputri%20Langgeng%20Utama%20-%20SPPG%20Indramayu.md) | Profil yayasan pemilik SPPG Indramayu Sindang Kenanga - kasus keracunan 6 siswa |
+|| [Yayasan Persyarikatan Muhammadiyah Sukoharjo - SPPG Sukoharjo](/reference/extracted/information/Yayasan%20Persyarikatan%20Muhammadiyah%20Sukoharjo%20-%20SPPG%20Sukoharjo.md) | Profil yayasan pemilik SPPG Khusus Sukoharjo - kasus keracunan 40 siswa, melayani 3.533 penerima manfaat |
+|| [Yayasan Tana Manda Sumba - SPPG Sumba Timur](/reference/extracted/information/Yayasan%20Tana%20Manda%20Sumba%20-%20SPPG%20Sumba%20Timur.md) | Profil yayasan pemilik SPPG Sumba Timur - kasus keracunan 29-198 siswa, Ketua Adam Mone |
+|| [Yayasan Haji Kasmidi - SPPG Pandeglang Menes](/reference/extracted/information/Yayasan%20Haji%20Kasmidi%20-%20SPPG%20Pandeglang%20Menes.md) | Profil yayasan pemilik SPPG Pandeglang Menes - kasus keracunan 480 siswa, produksi 1.531 porsi |
+|| [Yayasan Khasanah Ibu Bahagia - SPPG Limbangansari Cianjur](/reference/extracted/information/Yayasan%20Khasanah%20Ibu%20Bahagia%20-%20SPPG%20Limbangansari%20Cianjur.md) | Profil yayasan pemilik SPPG Limbangansari - kasus keracunan 254 siswa, 10 pengelola diperiksa polisi |
+|| [Yayasan Insan Berlian Sejahtera - SPPG Karanganyar](/reference/extracted/information/Yayasan%20Insan%20Berlian%20Sejahtera%20-%20SPPG%20Karanganyar.md) | Profil yayasan pemilik SPPG Khusus Karanganyar - kasus keracunan 9 siswa, diprotes warga karena bising |
+|| [Yayasan Bijana Paksi Sitengsu - SPPG Sleman](/reference/extracted/information/Yayasan%20Bijana%20Paksi%20Sitengsu%20-%20SPPG%20Sleman.md) | Profil yayasan pemilik SPPG Sleman 1 - kasus keracunan 31 siswa, pengembang aplikasi Simetris AI |
+|| [Yayasan Pemilik SPPG Sleman Berbah Sendangtirto](/reference/extracted/information/Yayasan%20Pemilik%20SPPG%20Sleman%20Berbah%20Sendangtirto.md) | Profil pemilik SPPG Sleman Berbah Sendangtirto - kasus keracunan 30 siswa, PIC Aris |
+|| [Yayasan Cahaya Solid Berkarya - SPPG Coblong Bandung](/reference/extracted/information/Yayasan%20Cahaya%20Solid%20Berkarya%20-%20SPPG%20Coblong%20Bandung.md) | Profil yayasan pemilik SPPG Coblong - kasus keracunan 342 siswa, ditemukan bakteri Bacillus cereus |
 
 ## News
 folder : `/extracted/news`
@@ -113,4 +123,4 @@ folder : `/extracted/news`
 
 ---
 
-*Terakhir diperbarui: 2026-05-13*
+*Terakhir diperbarui: 2026-05-14*

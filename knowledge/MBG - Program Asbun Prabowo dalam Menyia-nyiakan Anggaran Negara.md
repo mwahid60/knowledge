@@ -51,45 +51,45 @@ Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Lata
   <td>13 Jan 2025</td>
   <td>Nunukan Selatan, Kaltara</td>
   <td>SPPG Nunukan Selatan</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Bina Pendidikan Yatim</td>
   <td>90 siswa</td>
-  <td>Kasus awal 2025</td>
+  <td>Kasus awal 2025. Menu ayam kecap basi. Kepala BGN sempat membantah ada keracunan.</td>
 </tr>
 <tr>
   <td>2</td>
   <td>14 Jan 2025</td>
   <td>Indramayu, Jabar</td>
   <td>SPPG Indramayu Sindang Kenanga</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Saputri Langgeng Utama</td>
   <td>6 siswa</td>
-  <td>-</td>
+  <td>Berbasis di Desa Bangkaloa Ilir, Kecamatan Widasari</td>
 </tr>
 <tr>
   <td>3</td>
   <td>16 Jan 2025</td>
   <td>Sukoharjo, Jateng</td>
   <td>SPPG Khusus Kab. Sukoharjo</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Persyarikatan Muhammadiyah Sukoharjo</td>
   <td>40 siswa</td>
-  <td>-</td>
+  <td>SDN Dukuh 03. SPPG Gedongan, Baki. Melayani 3.533 penerima manfaat.</td>
 </tr>
 <tr>
   <td>4</td>
   <td>18 Feb 2025</td>
   <td>Sumba Timur, NTT</td>
   <td>SPPG Sumba Timur</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Tana Manda Sumba</td>
   <td>29 siswa</td>
-  <td>SD Katolik Andaluri</td>
+  <td>SD Katolik Andaluri. Ketua: Adam Mone. SPPG Langga Lero.</td>
 </tr>
 <tr>
   <td>5</td>
   <td>19 Feb 2025</td>
   <td>Pandeglang, Banten</td>
   <td>SPPG Pandeglang Menes</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Haji Kasmidi</td>
   <td>480 siswa</td>
-  <td>-</td>
+  <td>Berbasis di Kecamatan Menes, Kabupaten Pandeglang</td>
 </tr>
 <tr>
   <td>6</td>
@@ -114,54 +114,54 @@ Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Lata
   <td>21 Apr 2025</td>
   <td>Cianjur, Jabar</td>
   <td>SPPG Limbangansari</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Khasanah Ibu Bahagia</td>
   <td>254 siswa</td>
-  <td>MAN 1 & SMP PGRI 1</td>
+  <td>MAN 1 & SMP PGRI 1. Ketua: Ridwan Abdullah. Memasok 7 sekolah (2.780 porsi/hari). 10 pengelola diperiksa polisi.</td>
 </tr>
 <tr>
   <td>9</td>
   <td>21 Apr 2025</td>
   <td>Karanganyar, Jateng</td>
   <td>SPPG Khusus Karanganyar</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Insan Berlian Sejahtera</td>
   <td>9 siswa</td>
-  <td>-</td>
+  <td>SPPG di Tegalarum, Cangakan. Sempat diprotes warga karena bising dan direlokasi.</td>
 </tr>
 <tr>
   <td>10</td>
   <td>23 Apr 2025</td>
   <td>Sleman, DIY</td>
   <td>SPPG Sleman 1</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Bijana Paksi Sitengsu</td>
   <td>31 siswa</td>
-  <td>-</td>
+  <td>Pengembang aplikasi Simetris berbasis AI untuk monitoring MBG. Sekretaris: Tedi Anggoro.</td>
 </tr>
 <tr>
   <td>11</td>
   <td>28 Apr 2025</td>
   <td>Sleman, DIY</td>
   <td>SPPG Sleman Berbah Sendangtirto</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan tidak disebutkan (PIC: Aris)</td>
   <td>30 siswa</td>
-  <td>-</td>
+  <td>SPPG Jogotirto, Blambangan, Berbah. Sempat hentikan operasi karena dana BGN belum cair.</td>
 </tr>
 <tr>
   <td>12</td>
   <td>29 Apr 2025</td>
   <td>Bandung, Jabar</td>
   <td>SPPG Coblong</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Cahaya Solid Berkarya</td>
   <td>320 siswa</td>
-  <td>SMPN 35 Bandung, 2 guru</td>
+  <td>SMPN 35 Bandung, 2 guru. Dapur Coblong 2, Jl. Dipatiukur. Ditemukan bakteri Bacillus cereus dan jamur Candida tropicalis. Total 3.163 porsi untuk 4 sekolah.</td>
 </tr>
 <tr>
   <td>13</td>
   <td>30 Apr 2025</td>
   <td>Bandung, Jabar</td>
   <td>SPPG Coblong</td>
-  <td>Tidak disebutkan</td>
+  <td>Yayasan Cahaya Solid Berkarya</td>
   <td>320 siswa</td>
-  <td>-</td>
+  <td>Perpanjangan kasus 29 April. Dapur Coblong 2.</td>
 </tr>
 <tr>
   <td>14</td>
