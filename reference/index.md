@@ -47,6 +47,9 @@ folder : `/extracted/information`
 || [Yayasan Insan Berlian Sejahtera - SPPG Karanganyar](/reference/extracted/information/Yayasan%20Insan%20Berlian%20Sejahtera%20-%20SPPG%20Karanganyar.md) | Profil yayasan pemilik SPPG Khusus Karanganyar - kasus keracunan 9 siswa, diprotes warga karena bising |
 || [Yayasan Bijana Paksi Sitengsu - SPPG Sleman](/reference/extracted/information/Yayasan%20Bijana%20Paksi%20Sitengsu%20-%20SPPG%20Sleman.md) | Profil yayasan pemilik SPPG Sleman 1 - kasus keracunan 31 siswa, pengembang aplikasi Simetris AI |
 || [Yayasan Pemilik SPPG Sleman Berbah Sendangtirto](/reference/extracted/information/Yayasan%20Pemilik%20SPPG%20Sleman%20Berbah%20Sendangtirto.md) | Profil pemilik SPPG Sleman Berbah Sendangtirto - kasus keracunan 30 siswa, PIC Aris |
+|| [timeline-pemicu-perang-iran-2026](/reference/extracted/information/timeline-pemicu-perang-iran-2026.md) | Timeline lengkap dan pemicu perang Iran 2026: dari negosiasi gagal hingga Operasi Epic Fury |
+|| [sekutu-lawan-perang-iran-2026](/reference/extracted/information/sekutu-lawan-perang-iran-2026.md) | Daftar sekutu dan lawan perang Iran 2026: Axis of Resistance, Western Alliance, dan pihak di balik layar |
+|| [arus-pendanaan-perang-iran-2026](/reference/extracted/information/arus-pendanaan-perang-iran-2026.md) | Arus pendanaan perang Iran 2026: anggaran militer, perusahaan yang diuntungkan, dan jaringan sanksi |
 || [Yayasan Cahaya Solid Berkarya - SPPG Coblong Bandung](/reference/extracted/information/Yayasan%20Cahaya%20Solid%20Berkarya%20-%20SPPG%20Coblong%20Bandung.md) | Profil yayasan pemilik SPPG Coblong - kasus keracunan 342 siswa, ditemukan bakteri Bacillus cereus |
 
 ## News
@@ -59,7 +62,7 @@ folder : `/extracted/news`
 | [phk-victory-chingluh-nike-tangerang-2025-10](/reference/extracted/news/phk-victory-chingluh-nike-tangerang-2025-10.md) | Kasus PHK massal PT Victory Chingluh Indonesia (pemasok Nike) sebanyak 2.804 karyawan |
 | [phk-michelin-cikarang-2025-11](/reference/extracted/news/phk-michelin-cikarang-2025-11.md) | Kasus PHK massal pabrik ban Michelin di Cikarang sebanyak 280 pekerja |
 || [phk-gudang-garam-kediri-2025-09](/reference/extracted/news/phk-gudang-garam-kediri-2025-09.md) | Kasus PHK di PT Gudang Garam Tbk dengan 309 karyawan |
-|| [iran-war-2026-sekutu-lawan-pemicu-dampak](/reference/extracted/news/iran-war-2026-sekutu-lawan-pemicu-dampak.md) | Analisis komprehensif perang Iran 2026: sekutu, lawan, pemicu, arus pendanaan, pihak diuntungkan, korban, dan dampak global |
+|| [korban-dampak-ekonomi-perang-iran-2026](/reference/extracted/news/korban-dampak-ekonomi-perang-iran-2026.md) | Data korban jiwa, kerusakan infrastruktur, dan dampak ekonomi global akibat perang Iran 2026 |
 | [phk-media-massa-nasional-2025](/reference/extracted/news/phk-media-massa-nasional-2025.md) | Gelombang PHK di industri media massa Indonesia sepanjang 2025 |
 | [phk-efishery-startup-2025-01](/reference/extracted/news/phk-efishery-startup-2025-01.md) | Kasus PHK massal startup eFishery yang memecat 98% karyawannya |
 | [phk-kspn-tekstil-massal-2025](/reference/extracted/news/phk-kspn-tekstil-massal-2025.md) | Data PHK massal di sektor tekstil menurut KSPN dengan 126.160 pekerja terdampak |

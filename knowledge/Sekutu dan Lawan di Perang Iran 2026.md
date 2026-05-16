@@ -8,7 +8,10 @@ tags:
   - Energy_Crisis
   - Global_South
 reference:
-  - "[Perang Iran 2026: Sekutu, Lawan, Pemicu, dan Dampak Global](/reference/extracted/news/iran-war-2026-sekutu-lawan-pemicu-dampak.md)"
+  - "[Timeline dan Pemicu Perang Iran 2026](/reference/extracted/information/timeline-pemicu-perang-iran-2026.md)"
+  - "[Sekutu dan Lawan Perang Iran 2026](/reference/extracted/information/sekutu-lawan-perang-iran-2026.md)"
+  - "[Arus Pendanaan Perang Iran 2026](/reference/extracted/information/arus-pendanaan-perang-iran-2026.md)"
+  - "[Korban dan Dampak Ekonomi Perang Iran 2026](/reference/extracted/news/korban-dampak-ekonomi-perang-iran-2026.md)"
 ---
 
 # Sekutu dan Lawan di Perang Iran 2026: Analisis Komprehensif
