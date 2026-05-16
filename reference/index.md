@@ -58,7 +58,8 @@ folder : `/extracted/news`
 | [phk-sritex-pailit-sukoharjo-2025-03](/reference/extracted/news/phk-sritex-pailit-sukoharjo-2025-03.md) | Kasus PHK massal PT Sritex yang dinyatakan pailit dengan 10.000+ karyawan terdampak |
 | [phk-victory-chingluh-nike-tangerang-2025-10](/reference/extracted/news/phk-victory-chingluh-nike-tangerang-2025-10.md) | Kasus PHK massal PT Victory Chingluh Indonesia (pemasok Nike) sebanyak 2.804 karyawan |
 | [phk-michelin-cikarang-2025-11](/reference/extracted/news/phk-michelin-cikarang-2025-11.md) | Kasus PHK massal pabrik ban Michelin di Cikarang sebanyak 280 pekerja |
-| [phk-gudang-garam-kediri-2025-09](/reference/extracted/news/phk-gudang-garam-kediri-2025-09.md) | Kasus PHK di PT Gudang Garam Tbk dengan 309 karyawan |
+|| [phk-gudang-garam-kediri-2025-09](/reference/extracted/news/phk-gudang-garam-kediri-2025-09.md) | Kasus PHK di PT Gudang Garam Tbk dengan 309 karyawan |
+|| [iran-war-2026-sekutu-lawan-pemicu-dampak](/reference/extracted/news/iran-war-2026-sekutu-lawan-pemicu-dampak.md) | Analisis komprehensif perang Iran 2026: sekutu, lawan, pemicu, arus pendanaan, pihak diuntungkan, korban, dan dampak global |
 | [phk-media-massa-nasional-2025](/reference/extracted/news/phk-media-massa-nasional-2025.md) | Gelombang PHK di industri media massa Indonesia sepanjang 2025 |
 | [phk-efishery-startup-2025-01](/reference/extracted/news/phk-efishery-startup-2025-01.md) | Kasus PHK massal startup eFishery yang memecat 98% karyawannya |
 | [phk-kspn-tekstil-massal-2025](/reference/extracted/news/phk-kspn-tekstil-massal-2025.md) | Data PHK massal di sektor tekstil menurut KSPN dengan 126.160 pekerja terdampak |
@@ -123,4 +124,4 @@ folder : `/extracted/news`
 
 ---
 
-*Terakhir diperbarui: 2026-05-14*
+*Terakhir diperbarui: 2026-05-16*
