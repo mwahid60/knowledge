@@ -1,4 +1,5 @@
 .venv/
+.env
 .obsidian/
 .trash/
 .DS_Store

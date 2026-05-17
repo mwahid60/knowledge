@@ -218,22 +218,7 @@ Notes:
 
 ### 4.5 Format Tabel
 **Tabel Utama (HTML)**:
-```html
-<table>
-<thead>
-<tr>
-  <th width="8%">Kolom1</th>
-  <th width="10%">Kolom2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Data</td>
-  <td>Data</td>
-</tr>
-</tbody>
-</table>
-```
+Tabel utama adalah kumpulan data referensi dari berbagai sumber yang akan menjadi data acuan utama dalam analisis di file research.
 
 Notes:
 > Gunakan tabel html jika kamu membutuhkan tabel yang kompleks, misal kamu butuh merge cell, listed value, dan sebagainya. Jika kamu tidak membutuhkan tabel yang kompleks seperti itu, maka buat dalam markdown tabel saja.

@@ -33,823 +33,97 @@ Program [Makan Bergizi Gratis (MBG)](/reference/extracted/information/MBG%20Lata
 
 ## Tabel Utama: Daftar Kasus Keracunan MBG
 
-<table>
-<thead>
-<tr>
-  <th width="5%">No</th>
-  <th width="10%">Tanggal</th>
-  <th width="18%">Lokasi</th>
-  <th width="18%">Nama SPPG</th>
-  <th width="15%">Pemilik/Yayasan</th>
-  <th width="8%">Korban</th>
-  <th width="26%">Keterangan</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>1</td>
-  <td>13 Jan 2025</td>
-  <td>Nunukan Selatan, Kaltara</td>
-  <td>SPPG Nunukan Selatan</td>
-  <td>Yayasan Bina Pendidikan Yatim</td>
-  <td>90 siswa</td>
-  <td>Kasus awal 2025. Menu ayam kecap basi. Kepala BGN sempat membantah ada keracunan.</td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>14 Jan 2025</td>
-  <td>Indramayu, Jabar</td>
-  <td>SPPG Indramayu Sindang Kenanga</td>
-  <td>Yayasan Saputri Langgeng Utama</td>
-  <td>6 siswa</td>
-  <td>Berbasis di Desa Bangkaloa Ilir, Kecamatan Widasari</td>
-</tr>
-<tr>
-  <td>3</td>
-  <td>16 Jan 2025</td>
-  <td>Sukoharjo, Jateng</td>
-  <td>SPPG Khusus Kab. Sukoharjo</td>
-  <td>Yayasan Persyarikatan Muhammadiyah Sukoharjo</td>
-  <td>40 siswa</td>
-  <td>SDN Dukuh 03. SPPG Gedongan, Baki. Melayani 3.533 penerima manfaat.</td>
-</tr>
-<tr>
-  <td>4</td>
-  <td>18 Feb 2025</td>
-  <td>Sumba Timur, NTT</td>
-  <td>SPPG Sumba Timur</td>
-  <td>Yayasan Tana Manda Sumba</td>
-  <td>29 siswa</td>
-  <td>SD Katolik Andaluri. Ketua: Adam Mone. SPPG Langga Lero.</td>
-</tr>
-<tr>
-  <td>5</td>
-  <td>19 Feb 2025</td>
-  <td>Pandeglang, Banten</td>
-  <td>SPPG Pandeglang Menes</td>
-  <td>Yayasan Haji Kasmidi</td>
-  <td>480 siswa</td>
-  <td>Berbasis di Kecamatan Menes, Kabupaten Pandeglang</td>
-</tr>
-<tr>
-  <td>6</td>
-  <td>11 Mei 2025</td>
-  <td>Bogor, Jabar</td>
-  <td>SPPG Tanah Sareal Sukadamai</td>
-  <td>Yayasan Sekolah Bosowa Bina Insani</td>
-  <td>210 siswa</td>
-  <td>TK-SMP, 22 dirawat inap</td>
-</tr>
-<tr>
-  <td>7</td>
-  <td>14 Apr 2025</td>
-  <td>Batang, Jateng</td>
-  <td>SPPG Yayasan Al Ibriz</td>
-  <td>Yayasan Al Ibriz</td>
-  <td>28 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>8</td>
-  <td>21 Apr 2025</td>
-  <td>Cianjur, Jabar</td>
-  <td>SPPG Limbangansari</td>
-  <td>Yayasan Khasanah Ibu Bahagia</td>
-  <td>254 siswa</td>
-  <td>MAN 1 & SMP PGRI 1. Ketua: Ridwan Abdullah. Memasok 7 sekolah (2.780 porsi/hari). 10 pengelola diperiksa polisi.</td>
-</tr>
-<tr>
-  <td>9</td>
-  <td>21 Apr 2025</td>
-  <td>Karanganyar, Jateng</td>
-  <td>SPPG Khusus Karanganyar</td>
-  <td>Yayasan Insan Berlian Sejahtera</td>
-  <td>9 siswa</td>
-  <td>SPPG di Tegalarum, Cangakan. Sempat diprotes warga karena bising dan direlokasi.</td>
-</tr>
-<tr>
-  <td>10</td>
-  <td>23 Apr 2025</td>
-  <td>Sleman, DIY</td>
-  <td>SPPG Sleman 1</td>
-  <td>Yayasan Bijana Paksi Sitengsu</td>
-  <td>31 siswa</td>
-  <td>Pengembang aplikasi Simetris berbasis AI untuk monitoring MBG. Sekretaris: Tedi Anggoro.</td>
-</tr>
-<tr>
-  <td>11</td>
-  <td>28 Apr 2025</td>
-  <td>Sleman, DIY</td>
-  <td>SPPG Sleman Berbah Sendangtirto</td>
-  <td>Yayasan tidak disebutkan (PIC: Aris)</td>
-  <td>30 siswa</td>
-  <td>SPPG Jogotirto, Blambangan, Berbah. Sempat hentikan operasi karena dana BGN belum cair.</td>
-</tr>
-<tr>
-  <td>12</td>
-  <td>29 Apr 2025</td>
-  <td>Bandung, Jabar</td>
-  <td>SPPG Coblong</td>
-  <td>Yayasan Cahaya Solid Berkarya</td>
-  <td>320 siswa</td>
-  <td>SMPN 35 Bandung, 2 guru. Dapur Coblong 2, Jl. Dipatiukur. Ditemukan bakteri Bacillus cereus dan jamur Candida tropicalis. Total 3.163 porsi untuk 4 sekolah.</td>
-</tr>
-<tr>
-  <td>13</td>
-  <td>30 Apr 2025</td>
-  <td>Bandung, Jabar</td>
-  <td>SPPG Coblong</td>
-  <td>Yayasan Cahaya Solid Berkarya</td>
-  <td>320 siswa</td>
-  <td>Perpanjangan kasus 29 April. Dapur Coblong 2.</td>
-</tr>
-<tr>
-  <td>14</td>
-  <td>1 Mei 2025</td>
-  <td>Tasikmalaya, Jabar</td>
-  <td>SPPG Manggungjaya</td>
-  <td>Tidak disebutkan</td>
-  <td>38 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>15</td>
-  <td>1 Mei 2025</td>
-  <td>Tasikmalaya, Jabar</td>
-  <td>Beberapa sekolah Rajapolah</td>
-  <td>Tidak disebutkan</td>
-  <td>400 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>16</td>
-  <td>6 Mei 2025</td>
-  <td>Tanah Sareal, Bogor</td>
-  <td>SPPG Tanah Sareal Sukadamai</td>
-  <td>Yayasan Sekolah Bosowa Bina Insani</td>
-  <td>223 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>17</td>
-  <td>22 Jul 2025</td>
-  <td>Kupang, NTT</td>
-  <td>SPPG Kota Kupang Kelapa Lima Oesapa Barat</td>
-  <td>Tidak disebutkan</td>
-  <td>140 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>18</td>
-  <td>23 Jul 2025</td>
-  <td>Sumba Barat Daya, NTT</td>
-  <td>SPPG Tambolaka Rada</td>
-  <td>Tidak disebutkan</td>
-  <td>65 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>19</td>
-  <td>29 Jul 2025</td>
-  <td>Cangkringan, DIY</td>
-  <td>SPPG Cangkringan</td>
-  <td>Tidak disebutkan</td>
-  <td>38 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>20</td>
-  <td>31 Jul 2025</td>
-  <td>Kuningan, Jabar</td>
-  <td>SPPG Kuningan Cilimus</td>
-  <td>Tidak disebutkan</td>
-  <td>35 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>21</td>
-  <td>31 Jul 2025</td>
-  <td>Kulon Progo, DIY</td>
-  <td>SPPG Kulon Progo Wates</td>
-  <td>Tidak disebutkan</td>
-  <td>305 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>22</td>
-  <td>6 Agu 2025</td>
-  <td>Sukabumi, Jabar</td>
-  <td>SPPG Sukabumi Cilodong</td>
-  <td>Tidak disebutkan</td>
-  <td>15 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>23</td>
-  <td>12 Agu 2025</td>
-  <td>Sragen, Jateng</td>
-  <td>SPPG Sragen Gemolong</td>
-  <td>Tidak disebutkan</td>
-  <td>196 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>24</td>
-  <td>13 Agu 2025</td>
-  <td>Sleman, DIY</td>
-  <td>SPPG Sleman Mlati</td>
-  <td>Tidak disebutkan</td>
-  <td>157 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>25</td>
-  <td>14 Agu 2025</td>
-  <td>Karawang, Jabar</td>
-  <td>SPPG Karawang Malajaya</td>
-  <td>Tidak disebutkan</td>
-  <td>82 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>26</td>
-  <td>22 Agu 2025</td>
-  <td>Indramayu, Jabar</td>
-  <td>SPPG Indramayu Gabuswetan</td>
-  <td>Tidak disebutkan</td>
-  <td>2 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>27</td>
-  <td>26 Agu 2025</td>
-  <td>Sleman, DIY</td>
-  <td>SPPG Sleman Berbah Jogotirto</td>
-  <td>Tidak disebutkan</td>
-  <td>137 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>28</td>
-  <td>27 Agu 2025</td>
-  <td>Lebong, Bengkulu</td>
-  <td>SPPG Bengkulu Lebong Sakti Lemeu Pit</td>
-  <td>Tidak disebutkan</td>
-  <td>467 siswa</td>
-  <td>Mi, bakso, sayur, susu, telur</td>
-</tr>
-<tr>
-  <td>29</td>
-  <td>28 Agu 2025</td>
-  <td>Palu, Sulteng</td>
-  <td>SPPG Kota Palu Palu Selatan Tatura Utara</td>
-  <td>Tidak disebutkan</td>
-  <td>20 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>30</td>
-  <td>29 Agu 2025</td>
-  <td>Kalibata, Jakarta</td>
-  <td>SPPG Kalibata</td>
-  <td>Tidak disebutkan</td>
-  <td>3 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>31</td>
-  <td>29 Agu 2025</td>
-  <td>Lampung</td>
-  <td>SPPG Sukabumi Lampung</td>
-  <td>Tidak disebutkan</td>
-  <td>503 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>32</td>
-  <td>2 Sep 2025</td>
-  <td>Serang, Banten</td>
-  <td>SPPG Serang</td>
-  <td>Tidak disebutkan</td>
-  <td>6 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>33</td>
-  <td>3 Sep 2025</td>
-  <td>Lombok Barat, NTB</td>
-  <td>SPPG Lombok Barat SDN 1 Selat</td>
-  <td>Tidak disebutkan</td>
-  <td>17 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>34</td>
-  <td>3 Sep 2025</td>
-  <td>Lombok Tengah, NTB</td>
-  <td>SPPG Lombok Tengah Pringgarata Murbaya</td>
-  <td>Tidak disebutkan</td>
-  <td>9 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>35</td>
-  <td>8 Sep 2025</td>
-  <td>Koja, Jakarta</td>
-  <td>SPPG Khusus Koja</td>
-  <td>Tidak disebutkan</td>
-  <td>14 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>36</td>
-  <td>9 Sep 2025</td>
-  <td>Pamekasan, Jatim</td>
-  <td>SPPG Pamekasan Tlakan</td>
-  <td>Tidak disebutkan</td>
-  <td>8 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>37</td>
-  <td>11 Sep 2025</td>
-  <td>Wonogiri, Jateng</td>
-  <td>SPPG Wonogiri Wonokarto</td>
-  <td>Tidak disebutkan</td>
-  <td>131 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>38</td>
-  <td>11 Sep 2025</td>
-  <td>Cianjur, Jabar</td>
-  <td>SDN Salakawung</td>
-  <td>SPPG Sarampad (diduga)</td>
-  <td>36 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>39</td>
-  <td>17 Sep 2025</td>
-  <td>Garut, Jabar</td>
-  <td>SPPG Garut Kadungora (Al Bayyinah 2)</td>
-  <td>Yayasan Al Bayyinah</td>
-  <td>14 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>40</td>
-  <td>17 Sep 2025</td>
-  <td>Sumbawa, NTB</td>
-  <td>SPPG Sumbawa Empang Bungaeja 2</td>
-  <td>Tidak disebutkan</td>
-  <td>106 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>41</td>
-  <td>17 Sep 2025</td>
-  <td>Banggai Kepulauan, Sulteng</td>
-  <td>SPPG Banggai Kepulauan Tinangkung</td>
-  <td>Tidak disebutkan</td>
-  <td>339 siswa</td>
-  <td>Ikan cakalang dari supplier baru</td>
-</tr>
-<tr>
-  <td>42</td>
-  <td>18 Sep 2025</td>
-  <td>Tasikmalaya, Jabar</td>
-  <td>SD Cikalong 1 & PAUD</td>
-  <td>Tidak disebutkan</td>
-  <td>52 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>43</td>
-  <td>22 Sep 2025</td>
-  <td>Cipongkor, Bandung Barat</td>
-  <td>SPPG Dapur Makmur Jaya</td>
-  <td>Yayasan Rajib Putra Barokah</td>
-  <td>411+ siswa</td>
-  <td>Desa Cijambu</td>
-</tr>
-<tr>
-  <td>44</td>
-  <td>22 Sep 2025</td>
-  <td>Cipongkor, Bandung Barat</td>
-  <td>SPPG Dapur Maju Jaya</td>
-  <td>Yayasan Rajib Putra Barokah</td>
-  <td>364+ siswa</td>
-  <td>Desa Neglasari</td>
-</tr>
-<tr>
-  <td>45</td>
-  <td>24 Sep 2025</td>
-  <td>Ketapang, Kalbar</td>
-  <td>SPPG Ketapang Marau Riam Batu Gading</td>
-  <td>Yayasan Surya Gizi Lestari</td>
-  <td>20 siswa</td>
-  <td>Ikan hiu di menu</td>
-</tr>
-<tr>
-  <td>46</td>
-  <td>24 Sep 2025</td>
-  <td>Lombok Barat, NTB</td>
-  <td>MTS (tidak disebutkan)</td>
-  <td>Tidak disebutkan</td>
-  <td>26 santri</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>47</td>
-  <td>25 Sep 2025</td>
-  <td>Cianjur, Jabar</td>
-  <td>SDN Taruna Bakti</td>
-  <td>Tidak disebutkan</td>
-  <td>30 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>48</td>
-  <td>25 Sep 2025</td>
-  <td>Sumedang, Jabar</td>
-  <td>SPPG Ujungjaya</td>
-  <td>Tidak disebutkan</td>
-  <td>164 siswa</td>
-  <td>SMK Win Ujungjaya, SMK Rimba Bahari, SMA 1 Tomo</td>
-</tr>
-<tr>
-  <td>49</td>
-  <td>26 Agu 2025</td>
-  <td>Tulung Pasukan, Lampung</td>
-  <td>SPPG Tulung Pasukan Mataram Baru</td>
-  <td>Tidak disebutkan</td>
-  <td>27 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>50</td>
-  <td>2 Okt 2025</td>
-  <td>Cipatujah, Tasikmalaya</td>
-  <td>SMK Negeri Cipatujah</td>
-  <td>Tidak disebutkan</td>
-  <td>115 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>51</td>
-  <td>9 Okt 2025</td>
-  <td>Cianjur, Jabar</td>
-  <td>Yayasan Raudhatul Muttaqin</td>
-  <td>Tidak disebutkan</td>
-  <td>16 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>52</td>
-  <td>12 Okt 2025</td>
-  <td>Bima, NTB</td>
-  <td>SDN 11 & 42 Kota Bima</td>
-  <td>Tidak disebutkan</td>
-  <td>23 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>53</td>
-  <td>15 Okt 2025</td>
-  <td>Toba, Sumut</td>
-  <td>SD Tanding Laguboti & SMPN 1 Laguboti</td>
-  <td>Tidak disebutkan</td>
-  <td>121 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>54</td>
-  <td>29 Okt 2025</td>
-  <td>Lembang, Bandung Barat</td>
-  <td>SPPG Lembang</td>
-  <td>Tidak disebutkan</td>
-  <td>54 siswa</td>
-  <td>Termasuk ibu hamil</td>
-</tr>
-<tr>
-  <td>55</td>
-  <td>31 Okt 2025</td>
-  <td>Nias Utara, Sumut</td>
-  <td>SD 071027 Onozitoli Sawo</td>
-  <td>Tidak disebutkan</td>
-  <td>26 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>56</td>
-  <td>8 Jan 2026</td>
-  <td>Semarang, Jateng</td>
-  <td>SMKN 11 Semarang</td>
-  <td>Tidak disebutkan</td>
-  <td>75 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>57</td>
-  <td>9 Jan 2026</td>
-  <td>Grobogan, Jateng</td>
-  <td>TK Ngroto, SDN Trisari, SDN Glapan, SDN Penadaran, SMP & SMK Miftahul Huda</td>
-  <td>Tidak disebutkan</td>
-  <td>803 siswa</td>
-  <td>Kasus terbesar Januari 2026</td>
-</tr>
-<tr>
-  <td>58</td>
-  <td>10 Jan 2026</td>
-  <td>Kutorejo, Mojokerto</td>
-  <td>SPPG Yayasan Bina Bangsa Semarang 03</td>
-  <td>Yayasan Bina Bangsa Semarang 03</td>
-  <td>411 orang</td>
-  <td>Dusun Rejeni, Desa Wonodadi</td>
-</tr>
-<tr>
-  <td>59</td>
-  <td>12 Jan 2026</td>
-  <td>Majene, Sulbar</td>
-  <td>SPPG Majene Tubo Sendana Onang</td>
-  <td>Yayasan Kreatif Jaya Perdana</td>
-  <td>50 orang</td>
-  <td>40 dirawat, mayoritas balita</td>
-</tr>
-<tr>
-  <td>60</td>
-  <td>12 Jan 2026</td>
-  <td>Wonogiri, Jateng</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>206 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>61</td>
-  <td>13 Jan 2026</td>
-  <td>Pekalongan, Jateng</td>
-  <td>SDN 01 Kedungwuni</td>
-  <td>Tidak disebutkan</td>
-  <td>15 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>62</td>
-  <td>13 Jan 2026</td>
-  <td>Siak, Riau</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>21 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>63</td>
-  <td>17 Jan 2026</td>
-  <td>Lombok Tengah, NTB</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>38 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>64</td>
-  <td>20 Jan 2026</td>
-  <td>Tulungagung, Jatim</td>
-  <td>Beji & sekitarnya</td>
-  <td>Tidak disebutkan</td>
-  <td>123 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>65</td>
-  <td>20 Jan 2026</td>
-  <td>Kulon Progo, DIY</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>104 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>66</td>
-  <td>21 Jan 2026</td>
-  <td>Magelang, Jateng</td>
-  <td>SMPN 10 Kota Magelang</td>
-  <td>Tidak disebutkan</td>
-  <td>75 siswa & 5 guru</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>67</td>
-  <td>22 Jan 2026</td>
-  <td>Tulungagung, Jatim</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>15 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>68</td>
-  <td>23 Jan 2026</td>
-  <td>Aceh Timur, Aceh</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>19 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>69</td>
-  <td>23 Jan 2026</td>
-  <td>Gunungkidul, DIY</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>57 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>70</td>
-  <td>26 Jan 2026</td>
-  <td>Tomohon, Sulut</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>181 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>71</td>
-  <td>27 Jan 2026</td>
-  <td>Cianjur, Jabar</td>
-  <td>SDN Wargasari & sekitarnya</td>
-  <td>Tidak disebutkan</td>
-  <td>300 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>72</td>
-  <td>27 Jan 2026</td>
-  <td>Tuban, Jatim</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>14 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>73</td>
-  <td>28 Jan 2026</td>
-  <td>Sukabumi, Jabar</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>19 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>74</td>
-  <td>28 Jan 2026</td>
-  <td>Buol, Sulteng</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>141 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>75</td>
-  <td>28 Jan 2026</td>
-  <td>Kudus, Jateng</td>
-  <td>SPPG Purwosari Kudus</td>
-  <td>Nasihul Umam (Kepala SPPG)</td>
-  <td>600 siswa</td>
-  <td>SMAN 2 Kudus, ayam suwir berbau</td>
-</tr>
-<tr>
-  <td>76</td>
-  <td>29 Jan 2026</td>
-  <td>Manggarai Barat, NTT</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>132 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>77</td>
-  <td>29 Jan 2026</td>
-  <td>Pinrang, Sulsel</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>8 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>78</td>
-  <td>30 Jan 2026</td>
-  <td>Grobogan, Jateng</td>
-  <td>SDN 2 Pulongrambe, SDN 3 Mayahan</td>
-  <td>Tidak disebutkan</td>
-  <td>8 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>79</td>
-  <td>30 Jan 2026</td>
-  <td>Muaro Jambi, Jambi</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>150 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>80</td>
-  <td>30 Jan 2026</td>
-  <td>Palembang, Sumsel</td>
-  <td>Tidak disebutkan</td>
-  <td>Tidak disebutkan</td>
-  <td>4 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>81</td>
-  <td>2 Feb 2026</td>
-  <td>Tulungagung, Jatim</td>
-  <td>Puskesmas Beji</td>
-  <td>Tidak disebutkan</td>
-  <td>24 siswa</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>82</td>
-  <td>25 Feb 2026</td>
-  <td>Cimahi, Jabar</td>
-  <td>Beberapa sekolah PAUD-TK-SMP</td>
-  <td>Tidak disebutkan</td>
-  <td>42 siswa & 1 guru</td>
-  <td>Onigiri daging ayam bau</td>
-</tr>
-<tr>
-  <td>83</td>
-  <td>29 Jan 2026</td>
-  <td>Kudus, Jateng</td>
-  <td>SPPG Purwosari Kudus</td>
-  <td>Yayasan (tidak disebutkan)</td>
-  <td>118 siswa</td>
-  <td>46 dirawat inap, SMAN 2 Kudus</td>
-</tr>
-<tr>
-  <td>84</td>
-  <td>2 Apr 2026</td>
-  <td>Jakarta Timur</td>
-  <td>SPPG Pondok Kelapa 2</td>
-  <td>Tidak disebutkan</td>
-  <td>72 siswa SD-SMA</td>
-  <td>Spageti bolognese, dapur tak punya IPAL</td>
-</tr>
-<tr>
-  <td>85</td>
-  <td>15 Apr 2026</td>
-  <td>Anambas, Kepri</td>
-  <td>SPPG Air Asuk / SPPG Siantan Tengah</td>
-  <td>Jaya Saputra (Kepala SPPG)</td>
-  <td>153 siswa + 41 orang tua</td>
-  <td>Temuan boraks & E. coli</td>
-</tr>
-<tr>
-  <td>86</td>
-  <td>28 Apr 2026</td>
-  <td>Klaten, Jateng</td>
-  <td>SPPG Ayur Vera</td>
-  <td>Tidak disebutkan</td>
-  <td>584 siswa</td>
-  <td>Desa Sorogaten, Kec. Tulung</td>
-</tr>
-<tr>
-  <td>87</td>
-  <td>22 Apr 2026</td>
-  <td>Rembang, Jateng</td>
-  <td>SPPG Karangharjo</td>
-  <td>Tidak disebutkan</td>
-  <td>22 siswa SD Balongmulyo</td>
-  <td>Kec. Kragan, dinonaktifkan BGN</td>
-</tr>
-<tr>
-  <td>88</td>
-  <td>5 Mei 2026</td>
-  <td>Anambas, Kepri</td>
-  <td>SPPG Air Asuk (tindak lanjut)</td>
-  <td>Tidak disebutkan</td>
-  <td>158 orang</td>
-  <td>Konfirmasi boraks 100-5000 mg</td>
-</tr>
-<tr>
-  <td>89</td>
-  <td>Mei 2026</td>
-  <td>Sidikalang, Dairi</td>
-  <td>SMK HKBP Sidikalang & SMK Arina</td>
-  <td>Tidak disebutkan</td>
-  <td>271 siswa</td>
-  <td>-</td>
-</tr>
-</tbody>
-</table>
-
+| No | Tanggal | Lokasi | Nama SPPG | Pemilik/Yayasan | Korban | Keterangan |
+|---|---|---|---|---|---|---|
+| 1 | 13 Jan 2025 | Nunukan Selatan, Kaltara | SPPG Nunukan Selatan | [Yayasan Bina Pendidikan Yatim](/reference/extracted/information/Yayasan%20Bina%20Pendidikan%20Yatim%20-%20SPPG%20Nunukan%20Selatan.md) | 90 siswa | Kasus awal 2025. Menu ayam kecap basi. Kepala BGN sempat membantah ada keracunan. |
+| 2 | 14 Jan 2025 | Indramayu, Jabar | SPPG Indramayu Sindang Kenanga | [Yayasan Saputri Langgeng Utama](/reference/extracted/information/Yayasan%20Saputri%20Langgeng%20Utama%20-%20SPPG%20Indramayu.md) | 6 siswa | Berbasis di Desa Bangkaloa Ilir, Kecamatan Widasari |
+| 3 | 16 Jan 2025 | Sukoharjo, Jateng | SPPG Khusus Kab. Sukoharjo | [Yayasan Persyarikatan Muhammadiyah Sukoharjo](/reference/extracted/information/Yayasan%20Persyarikatan%20Muhammadiyah%20Sukoharjo%20-%20SPPG%20Sukoharjo.md) | 40 siswa | SDN Dukuh 03. SPPG Gedongan, Baki. Melayani 3.533 penerima manfaat. |
+| 4 | 18 Feb 2025 | Sumba Timur, NTT | SPPG Sumba Timur | [Yayasan Tana Manda Sumba](/reference/extracted/information/Yayasan%20Tana%20Manda%20Sumba%20-%20SPPG%20Sumba%20Timur.md) | 29 siswa | SD Katolik Andaluri. Ketua: Adam Mone. SPPG Langga Lero. |
+| 5 | 19 Feb 2025 | Pandeglang, Banten | SPPG Pandeglang Menes | [Yayasan Haji Kasmidi](/reference/extracted/information/Yayasan%20Haji%20Kasmidi%20-%20SPPG%20Pandeglang%20Menes.md) | 480 siswa | Berbasis di Kecamatan Menes, Kabupaten Pandeglang |
+| 6 | 11 Mei 2025 | Bogor, Jabar | SPPG Tanah Sareal Sukadamai | Yayasan Sekolah Bosowa Bina Insani | 210 siswa | TK-SMP, 22 dirawat inap |
+| 7 | 14 Apr 2025 | Batang, Jateng | SPPG Yayasan Al Ibriz | Yayasan Al Ibriz | 28 siswa | - |
+| 8 | 21 Apr 2025 | Cianjur, Jabar | SPPG Limbangansari | [Yayasan Khasanah Ibu Bahagia](/reference/extracted/information/Yayasan%20Khasanah%20Ibu%20Bahagia%20-%20SPPG%20Limbangansari%20Cianjur.md) | 254 siswa | MAN 1 & SMP PGRI 1. Ketua: Ridwan Abdullah. Memasok 7 sekolah (2.780 porsi/hari). 10 pengelola diperiksa polisi. |
+| 9 | 21 Apr 2025 | Karanganyar, Jateng | SPPG Khusus Karanganyar | [Yayasan Insan Berlian Sejahtera](/reference/extracted/information/Yayasan%20Insan%20Berlian%20Sejahtera%20-%20SPPG%20Karanganyar.md) | 9 siswa | SPPG di Tegalarum, Cangakan. Sempat diprotes warga karena bising dan direlokasi. |
+| 10 | 23 Apr 2025 | Sleman, DIY | SPPG Sleman 1 | [Yayasan Bijana Paksi Sitengsu](/reference/extracted/information/Yayasan%20Bijana%20Paksi%20Sitengsu%20-%20SPPG%20Sleman.md) | 31 siswa | Pengembang aplikasi Simetris berbasis AI untuk monitoring MBG. Sekretaris: Tedi Anggoro. |
+| 11 | 28 Apr 2025 | Sleman, DIY | [SPPG Sleman Berbah Sendangtirto](/reference/extracted/information/Yayasan%20Pemilik%20SPPG%20Sleman%20Berbah%20Sendangtirto.md) | Yayasan tidak disebutkan (PIC: Aris) | 30 siswa | SPPG Jogotirto, Blambangan, Berbah. Sempat hentikan operasi karena dana BGN belum cair. |
+| 12 | 29 Apr 2025 | Bandung, Jabar | SPPG Coblong | [Yayasan Cahaya Solid Berkarya](/reference/extracted/information/Yayasan%20Cahaya%20Solid%20Berkarya%20-%20SPPG%20Coblong%20Bandung.md) | 320 siswa | SMPN 35 Bandung, 2 guru. Dapur Coblong 2, Jl. Dipatiukur. Ditemukan bakteri Bacillus cereus dan jamur Candida tropicalis. Total 3.163 porsi untuk 4 sekolah. |
+| 13 | 30 Apr 2025 | Bandung, Jabar | SPPG Coblong | [Yayasan Cahaya Solid Berkarya](/reference/extracted/information/Yayasan%20Cahaya%20Solid%20Berkarya%20-%20SPPG%20Coblong%20Bandung.md) | 320 siswa | Perpanjangan kasus 29 April. Dapur Coblong 2. |
+| 14 | 1 Mei 2025 | Tasikmalaya, Jabar | SPPG Manggungjaya | Tidak disebutkan | 38 siswa | - |
+| 15 | 1 Mei 2025 | Tasikmalaya, Jabar | Beberapa sekolah Rajapolah | Tidak disebutkan | 400 siswa | - |
+| 16 | 6 Mei 2025 | Tanah Sareal, Bogor | SPPG Tanah Sareal Sukadamai | Yayasan Sekolah Bosowa Bina Insani | 223 siswa | - |
+| 17 | 22 Jul 2025 | Kupang, NTT | SPPG Kota Kupang Kelapa Lima Oesapa Barat | Tidak disebutkan | 140 siswa | - |
+| 18 | 23 Jul 2025 | Sumba Barat Daya, NTT | SPPG Tambolaka Rada | Tidak disebutkan | 65 siswa | - |
+| 19 | 29 Jul 2025 | Cangkringan, DIY | SPPG Cangkringan | Tidak disebutkan | 38 siswa | - |
+| 20 | 31 Jul 2025 | Kuningan, Jabar | SPPG Kuningan Cilimus | Tidak disebutkan | 35 siswa | - |
+| 21 | 31 Jul 2025 | Kulon Progo, DIY | SPPG Kulon Progo Wates | Tidak disebutkan | 305 siswa | - |
+| 22 | 6 Agu 2025 | Sukabumi, Jabar | SPPG Sukabumi Cilodong | Tidak disebutkan | 15 siswa | - |
+| 23 | 12 Agu 2025 | Sragen, Jateng | SPPG Sragen Gemolong | Tidak disebutkan | 196 siswa | - |
+| 24 | 13 Agu 2025 | Sleman, DIY | SPPG Sleman Mlati | Tidak disebutkan | 157 siswa | - |
+| 25 | 14 Agu 2025 | Karawang, Jabar | SPPG Karawang Malajaya | Tidak disebutkan | 82 siswa | - |
+| 26 | 22 Agu 2025 | Indramayu, Jabar | SPPG Indramayu Gabuswetan | Tidak disebutkan | 2 siswa | - |
+| 27 | 26 Agu 2025 | Sleman, DIY | SPPG Sleman Berbah Jogotirto | Tidak disebutkan | 137 siswa | - |
+| 28 | 27 Agu 2025 | Lebong, Bengkulu | SPPG Bengkulu Lebong Sakti Lemeu Pit | Tidak disebutkan | 467 siswa | Mi, bakso, sayur, susu, telur |
+| 29 | 28 Agu 2025 | Palu, Sulteng | SPPG Kota Palu Palu Selatan Tatura Utara | Tidak disebutkan | 20 siswa | - |
+| 30 | 29 Agu 2025 | Kalibata, Jakarta | SPPG Kalibata | Tidak disebutkan | 3 siswa | - |
+| 31 | 29 Agu 2025 | Lampung | SPPG Sukabumi Lampung | Tidak disebutkan | 503 siswa | - |
+| 32 | 2 Sep 2025 | Serang, Banten | SPPG Serang | Tidak disebutkan | 6 siswa | - |
+| 33 | 3 Sep 2025 | Lombok Barat, NTB | SPPG Lombok Barat SDN 1 Selat | Tidak disebutkan | 17 siswa | - |
+| 34 | 3 Sep 2025 | Lombok Tengah, NTB | SPPG Lombok Tengah Pringgarata Murbaya | Tidak disebutkan | 9 siswa | - |
+| 35 | 8 Sep 2025 | Koja, Jakarta | SPPG Khusus Koja | Tidak disebutkan | 14 siswa | - |
+| 36 | 9 Sep 2025 | Pamekasan, Jatim | SPPG Pamekasan Tlakan | Tidak disebutkan | 8 siswa | - |
+| 37 | 11 Sep 2025 | Wonogiri, Jateng | SPPG Wonogiri Wonokarto | Tidak disebutkan | 131 siswa | - |
+| 38 | 11 Sep 2025 | Cianjur, Jabar | SDN Salakawung | SPPG Sarampad (diduga) | 36 siswa | - |
+| 39 | 17 Sep 2025 | Garut, Jabar | SPPG Garut Kadungora (Al Bayyinah 2) | Yayasan Al Bayyinah | 14 siswa | - |
+| 40 | 17 Sep 2025 | Sumbawa, NTB | SPPG Sumbawa Empang Bungaeja 2 | Tidak disebutkan | 106 siswa | - |
+| 41 | 17 Sep 2025 | Banggai Kepulauan, Sulteng | SPPG Banggai Kepulauan Tinangkung | Tidak disebutkan | 339 siswa | Ikan cakalang dari supplier baru |
+| 42 | 18 Sep 2025 | Tasikmalaya, Jabar | SD Cikalong 1 & PAUD | Tidak disebutkan | 52 siswa | - |
+| 43 | 22 Sep 2025 | Cipongkor, Bandung Barat | SPPG Dapur Makmur Jaya | Yayasan Rajib Putra Barokah | 411+ siswa | Desa Cijambu |
+| 44 | 22 Sep 2025 | Cipongkor, Bandung Barat | SPPG Dapur Maju Jaya | Yayasan Rajib Putra Barokah | 364+ siswa | Desa Neglasari |
+| 45 | 24 Sep 2025 | Ketapang, Kalbar | SPPG Ketapang Marau Riam Batu Gading | Yayasan Surya Gizi Lestari | 20 siswa | Ikan hiu di menu |
+| 46 | 24 Sep 2025 | Lombok Barat, NTB | MTS (tidak disebutkan) | Tidak disebutkan | 26 santri | - |
+| 47 | 25 Sep 2025 | Cianjur, Jabar | SDN Taruna Bakti | Tidak disebutkan | 30 siswa | - |
+| 48 | 25 Sep 2025 | Sumedang, Jabar | SPPG Ujungjaya | Tidak disebutkan | 164 siswa | SMK Win Ujungjaya, SMK Rimba Bahari, SMA 1 Tomo |
+| 49 | 26 Agu 2025 | Tulung Pasukan, Lampung | SPPG Tulung Pasukan Mataram Baru | Tidak disebutkan | 27 siswa | - |
+| 50 | 2 Okt 2025 | Cipatujah, Tasikmalaya | SMK Negeri Cipatujah | Tidak disebutkan | 115 siswa | - |
+| 51 | 9 Okt 2025 | Cianjur, Jabar | Yayasan Raudhatul Muttaqin | Tidak disebutkan | 16 siswa | - |
+| 52 | 12 Okt 2025 | Bima, NTB | SDN 11 & 42 Kota Bima | Tidak disebutkan | 23 siswa | - |
+| 53 | 15 Okt 2025 | Toba, Sumut | SD Tanding Laguboti & SMPN 1 Laguboti | Tidak disebutkan | 121 siswa | - |
+| 54 | 29 Okt 2025 | Lembang, Bandung Barat | SPPG Lembang | Tidak disebutkan | 54 siswa | Termasuk ibu hamil |
+| 55 | 31 Okt 2025 | Nias Utara, Sumut | SD 071027 Onozitoli Sawo | Tidak disebutkan | 26 siswa | - |
+| 56 | 8 Jan 2026 | Semarang, Jateng | SMKN 11 Semarang | Tidak disebutkan | 75 siswa | - |
+| 57 | 9 Jan 2026 | Grobogan, Jateng | TK Ngroto, SDN Trisari, SDN Glapan, SDN Penadaran, SMP & SMK Miftahul Huda | Tidak disebutkan | 803 siswa | Kasus terbesar Januari 2026 |
+| 58 | 10 Jan 2026 | Kutorejo, Mojokerto | SPPG Yayasan Bina Bangsa Semarang 03 | Yayasan Bina Bangsa Semarang 03 | 411 orang | Dusun Rejeni, Desa Wonodadi |
+| 59 | 12 Jan 2026 | Majene, Sulbar | SPPG Majene Tubo Sendana Onang | Yayasan Kreatif Jaya Perdana | 50 orang | 40 dirawat, mayoritas balita |
+| 60 | 12 Jan 2026 | Wonogiri, Jateng | Tidak disebutkan | Tidak disebutkan | 206 siswa | - |
+| 61 | 13 Jan 2026 | Pekalongan, Jateng | SDN 01 Kedungwuni | Tidak disebutkan | 15 siswa | - |
+| 62 | 13 Jan 2026 | Siak, Riau | Tidak disebutkan | Tidak disebutkan | 21 siswa | - |
+| 63 | 17 Jan 2026 | Lombok Tengah, NTB | Tidak disebutkan | Tidak disebutkan | 38 siswa | - |
+| 64 | 20 Jan 2026 | Tulungagung, Jatim | Beji & sekitarnya | Tidak disebutkan | 123 siswa | - |
+| 65 | 20 Jan 2026 | Kulon Progo, DIY | Tidak disebutkan | Tidak disebutkan | 104 siswa | - |
+| 66 | 21 Jan 2026 | Magelang, Jateng | SMPN 10 Kota Magelang | Tidak disebutkan | 75 siswa & 5 guru | - |
+| 67 | 22 Jan 2026 | Tulungagung, Jatim | Tidak disebutkan | Tidak disebutkan | 15 siswa | - |
+| 68 | 23 Jan 2026 | Aceh Timur, Aceh | Tidak disebutkan | Tidak disebutkan | 19 siswa | - |
+| 69 | 23 Jan 2026 | Gunungkidul, DIY | Tidak disebutkan | Tidak disebutkan | 57 siswa | - |
+| 70 | 26 Jan 2026 | Tomohon, Sulut | Tidak disebutkan | Tidak disebutkan | 181 siswa | - |
+| 71 | 27 Jan 2026 | Cianjur, Jabar | SDN Wargasari & sekitarnya | Tidak disebutkan | 300 siswa | - |
+| 72 | 27 Jan 2026 | Tuban, Jatim | Tidak disebutkan | Tidak disebutkan | 14 siswa | - |
+| 73 | 28 Jan 2026 | Sukabumi, Jabar | Tidak disebutkan | Tidak disebutkan | 19 siswa | - |
+| 74 | 28 Jan 2026 | Buol, Sulteng | Tidak disebutkan | Tidak disebutkan | 141 siswa | - |
+| 75 | 28 Jan 2026 | Kudus, Jateng | SPPG Purwosari Kudus | Nasihul Umam (Kepala SPPG) | 600 siswa | SMAN 2 Kudus, ayam suwir berbau |
+| 76 | 29 Jan 2026 | Manggarai Barat, NTT | Tidak disebutkan | Tidak disebutkan | 132 siswa | - |
+| 77 | 29 Jan 2026 | Pinrang, Sulsel | Tidak disebutkan | Tidak disebutkan | 8 siswa | - |
+| 78 | 30 Jan 2026 | Grobogan, Jateng | SDN 2 Pulongrambe, SDN 3 Mayahan | Tidak disebutkan | 8 siswa | - |
+| 79 | 30 Jan 2026 | Muaro Jambi, Jambi | Tidak disebutkan | Tidak disebutkan | 150 siswa | - |
+| 80 | 30 Jan 2026 | Palembang, Sumsel | Tidak disebutkan | Tidak disebutkan | 4 siswa | - |
+| 81 | 2 Feb 2026 | Tulungagung, Jatim | Puskesmas Beji | Tidak disebutkan | 24 siswa | - |
+| 82 | 25 Feb 2026 | Cimahi, Jabar | Beberapa sekolah PAUD-TK-SMP | Tidak disebutkan | 42 siswa & 1 guru | Onigiri daging ayam bau |
+| 83 | 29 Jan 2026 | Kudus, Jateng | SPPG Purwosari Kudus | Yayasan (tidak disebutkan) | 118 siswa | 46 dirawat inap, SMAN 2 Kudus |
+| 84 | 2 Apr 2026 | Jakarta Timur | SPPG Pondok Kelapa 2 | Tidak disebutkan | 72 siswa SD-SMA | Spageti bolognese, dapur tak punya IPAL |
+| 85 | 15 Apr 2026 | Anambas, Kepri | SPPG Air Asuk / SPPG Siantan Tengah | Jaya Saputra (Kepala SPPG) | 153 siswa + 41 orang tua | Temuan boraks & E. coli |
+| 86 | 28 Apr 2026 | Klaten, Jateng | SPPG Ayur Vera | Tidak disebutkan | 584 siswa | Desa Sorogaten, Kec. Tulung |
+| 87 | 22 Apr 2026 | Rembang, Jateng | SPPG Karangharjo | Tidak disebutkan | 22 siswa SD Balongmulyo | Kec. Kragan, dinonaktifkan BGN |
+| 88 | 5 Mei 2026 | Anambas, Kepri | SPPG Air Asuk (tindak lanjut) | Tidak disebutkan | 158 orang | Konfirmasi boraks 100-5000 mg |
+| 89 | Mei 2026 | Sidikalang, Dairi | SMK HKBP Sidikalang & SMK Arina | Tidak disebutkan | 271 siswa | - |
 ---
 
 ## Tabel Ringkasan: Data Agregat Korban
