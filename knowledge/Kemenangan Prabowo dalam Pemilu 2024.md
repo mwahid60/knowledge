@@ -28,7 +28,7 @@ reference:
 
 ## Overview
 
-Pemilihan Umum Presiden dan Wakil Presiden (Pilpres) 2024 menghasilkan kemenangan mutlak bagi pasangan **Prabowo Subianto** dan **Gibran Rakabuming Raka** dengan perolehan suara **96.214.691 (58,58%)** dari total suara sah nasional. Kemenangan ini menandai berakhirnya perjuangan panjang Prabowo selama 15 tahun (2009-2024) dan menciptakan sejarah baru dengan Gibran sebagai wakil presiden termuda Indonesia berusia 36 tahun.
+Pemilihan Umum Presiden dan Wakil Presiden (Pilpres) 2024 menghasilkan kemenangan mutlak bagi pasangan **Prabowo Subianto** dan **Gibran Rakabuming Raka** dengan perolehan suara **96.214.691 (58,58%)** dari total suara sah nasional. Kemenangan ini menandai puncak perjuangan panjang Prabowo selama 20 tahun (2004-2024) setelah empat kali mengalami kegagalan — termasuk kalah di konvensi capres Partai Golkar 2004 dan tiga kali kalah dalam pemilu presiden (2009, 2014, 2019) — sebelum akhirnya menang pada 2024. Kemenangan ini juga menciptakan sejarah baru dengan Gibran sebagai wakil presiden termuda Indonesia berusia 36 tahun.
 
 Pemilu 2024 berlangsung dalam **satu putaran** karena Prabowo-Gibran memperoleh lebih dari 50% suara sah nasional. Pasangan ini menang di **36 dari 38 provinsi** di Indonesia, termasuk daerah-daerah yang merupakan basis suara lawan politik. Fenomena utama yang terjadi adalah migrasi massal pemilih Jokowi ke Prabowo-Gibran, yang berhasil menggeser basis dukungan tradisional.
 
@@ -101,6 +101,7 @@ Pemilu 2024 berlangsung dalam **satu putaran** karena Prabowo-Gibran memperoleh 
 
 | Pemilu | Pasangan Prabowo | Perolehan Suara | Hasil |
 |--------|------------------|-----------------|-------|
+| 2004 | Kalah konvensi capres Golkar | - | Tidak masuk pemilu |
 | 2009 | Megawati - Prabowo | 26,79% | Kalah |
 | 2014 | Prabowo - Hatta Rajasa | 46,85% | Kalah |
 | 2019 | Prabowo - Sandiaga Uno | 44,50% | Kalah |
@@ -179,7 +180,7 @@ Pemilu 2024 berlangsung dalam **satu putaran** karena Prabowo-Gibran memperoleh 
 
 **Perspektif Pendukung**:
 - Kemenangan rakyat yang menunjukkan keinginan untuk melanjutkan pembangunan
-- Prabowo yang dianggap sudah "dewasa" secara politik setelah tiga kali kalah
+- Prabowo yang dianggap sudah "dewasa" secara politik setelah perjuangan panjang 20 tahun (kalah di konvensi Golkar 2004, kalah pilpres 2009, 2014, 2019; menang 2024)
 - Gibran sebagai representasi generasi muda
 
 **Perspektif Kritis**:

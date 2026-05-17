@@ -25,14 +25,86 @@ Ketika diminta melakukan penelitian:
 4. **Salin Informasi** - Salin informasi yang kamu temukan di internet ke dalam folder yang sesuai seperti berikut :
 	1. `/news` : Jika sumbernya berasal dari portal berita
 	2. `/information` : Jika informasi tersebut tidak lekang akan waktu, misal informasi sejarah, profil perusahaan, identitas seseorang dan lainnya.
-	3. `/academic` : Bersumber dari artikel penelitian yang valid dan dapat dipertanggungjawabkan 
+	3. `/academic` : Bersumber dari artikel penelitian yang valid dan dapat dipertanggungjawabkan
 5. **Buat File Research Baru** - Ikuti konvensi penamaan dan format
 6. **Update Index** - Tambahkan entri baru ke `reference/index.md`
+
+### 1.4 Metode Menyalin Informasi Referensi
+Ketika menyalin informasi dari internet ke file referensi, ikuti langkah-langkah berikut:
+
+#### 1.4.1 Prinsip Dasar: Satu Topik = Satu File
+- **Jangan menggabungkan** berbagai topik atau aspek berbeda ke dalam satu file referensi
+- Setiap file referensi harus fokus pada **satu topik spesifik** saja
+- Jika penelitian menemukan beberapa aspek yang berbeda, buat **file terpisah** untuk masing-masing aspek
+
+**Contoh**: Meneliti "kemenangan Prabowo dalam pemilu 2024" menemukan beberapa aspek:
+- ❌ **Salah**: Satu file `prabowo-menang-pemilu-2024.md` yang mencakup semua aspek (keberpihakan Jokowi, strategi kampanye, isu lawan, dana kampanye)
+- ✅ **Benar**: Pisah menjadi beberapa file:
+  - `jokowi-dukung-prabowo-nasional-2024-02.md` (aspek keberpihakan Jokowi)
+  - `strategi-kampanye-prabowo-nasional-2024-03.md` (aspek strategi kampanye)
+  - `isu-lawan-prabowo-nasional-2024-03.md` (aspek isu terhadap lawan)
+
+#### 1.4.2 Kapan Harus Memisah File
+Pisah menjadi file terpisah jika menemukan:
+- **Subjek berbeda** (misal: satu berita tentang PHK di Sritex dan PHK di Garmen lain → 2 file)
+- **Aspek berbeda** dari satu peristiwa (misal: sisi hukum vs sisi ekonomi vs sisi politik)
+- **Lokasi berbeda** (misal: kasus serupa terjadi di Jakarta dan Surabaya → 2 file)
+- **Waktu berbeda** (misal: update/perkembangan kasus yang signifikan → file baru)
+- **Tipe informasi berbeda** (misal: berita tentang perusahaan + profil perusahaan → file news + file information)
+
+#### 1.4.3 Verifikasi Sumber
+- Pastikan sumber informasi valid dan dapat dipertanggungjawabkan
+- Untuk berita: minimal 3 sumber media independen
+- Untuk akademik: pastikan jurnal terindeks atau berasal dari institusi bereputasi
+- Untuk informasi umum: cross-check dengan minimal 2 sumber independen
+
+#### 1.4.4 Ekstraksi Konten
+- **Jangan copy-paste mentah** dari website
+- Tulis ulang informasi dengan bahasa yang jelas dan terstruktur
+- Pertahankan fakta penting: nama, tanggal, angka, lokasi, dan kutipan langsung yang relevan
+- Jika ada kutipan langsung, gunakan tanda petik dan cantumkan sumbernya
+
+#### 1.4.5 Format Penyalinan
+Setiap file referensi baru harus mengikuti format berikut:
+1. **Front matter YAML** (lihat format di section 5.1.2, 5.2.2, atau 5.3.2)
+2. **Konten terstruktur** sesuai tipe file (academic, information, news)
+3. **Referensi lengkap** di akhir file jika diperlukan
+
+#### 1.4.6 Aturan Penamaan File
+- **News**: `<subjek>-<deskripsi-singkat>-<lokasi>-<YYYY-MM>.md` (lowercase, hyphens)
+- **Information**: `<Nama Perusahaan atau Topik>.md` (Title Case)
+- **Academic**: `<Judul Penelitian>.md` (Title Case, bahasa Inggris)
+
+#### 1.4.7 Contoh Proses Penyalinan Lengkap
+**Contoh**: Meneliti "PHK massal di industri tekstil 2025"
+
+**Langkah 1 - Identifikasi Aspek yang Ditemukan**:
+- PHK di Sritex (12.000 karyawan, Jawa Tengah)
+- PHK di Garmen X (3.000 karyawan, Jakarta)
+- Dampak ekonomi dari PHK tekstil
+- Respons pemerintah terhadap PHK tekstil
+
+**Langkah 2 - Buat File Terpisah**:
+1. `reference/extracted/news/sritex-phk-12-ribu-karyawan-jawa-tengah-2025-01.md`
+2. `reference/extracted/news/garmen-x-phk-3-ribu-karyawan-jakarta-2025-01.md`
+3. `reference/extracted/information/Dampak Ekonomi PHK Tekstil 2025.md`
+4. `reference/extracted/news/respons-pemerintah-phk-tekstil-nasional-2025-02.md`
+
+**Langkah 3 - Isi Masing-Masing File**:
+- Setiap file dengan front matter lengkap, konten terstruktur, dan referensi terverifikasi
+
+#### 1.4.8 Catatan Penting
+- **Jangan membuat satu file besar** yang mencakup banyak topik — pecah sesuai aspek
+- **Jangan membuat placeholder content** — setiap file harus berisi informasi lengkap
+- **Jangan menebak URL** — gunakan URL terverifikasi dari hasil pencarian
+- **Jangan memasukkan data tidak jelas** yang bisa mengakibatkan bias analisis
+- **Tandai informasi belum terverifikasi** dengan "diduga" atau "belum dikonfirmasi"
+- **Simpan file di folder yang tepat** sesuai tipe informasi (news/information/academic)
 
 Notes:
 > Pencarian informasi harus dilakukan mengikuti pola Root Cause Analysis, misal topik penelitian adalah "kemenangan prabowo dalam pemilu 2024" yang mana itu merupakan akibat dari "keberpihakan jokowi dalam mendukung prabowo" maka pencarian informasi yang kamu lakukan adalah kenapa jokowi berpihak ke prabowo? setelah mendapatkan informasi dan memverifikasinya, buatkan salinan informasi tersebut ke dalam folder extracted sesuai dengan tipenya.
 
-### 1.4 Aturan Wiki Link
+### 1.5 Aturan Wiki Link
 - **Gunakan format markdown standar**: `[Alias](/path/to/file/File%20Name.md)`
 - **Jangan gunakan format Obsidian**: `[[Nama File]]`
 - Contoh: `[PHK Sepanjang 2025](/knowledge/PHK%20Sepanjang%202025.md)`
@@ -429,4 +501,4 @@ Repository ini dioptimalkan untuk Obsidian:
 
 ---
 
-*Terakhir diperbarui: 2026-05-01*
+*Terakhir diperbarui: 2026-05-17*
