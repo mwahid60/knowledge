@@ -124,7 +124,10 @@ folder : `/extracted/news`
 | [mbg-jaringan-politik-korupsi-nasional-2026-05](/reference/extracted/news/mbg-jaringan-politik-korupsi-nasional-2026-05.md) | Investigasi jaringan politik, militer, dan korupsi di balik program MBG |
 | [mbg-kasus-keracunan-massal-nasional-2025-2026](/reference/extracted/news/mbg-kasus-keracunan-massal-nasional-2025-2026.md) | Daftar lengkap 89 kasus keracunan massal akibat program MBG di seluruh Indonesia |
 | [rupiah-rekor-terlemah-rp17529-mei-2026-nasional-2026-05](/reference/extracted/news/rupiah-rekor-terlemah-rp17529-mei-2026-nasional-2026-05.md) | Rupiah cetak rekor terlemah baru Rp17.529 per dolar AS pada 12 Mei 2026 |
+| [rupiah-rekor-terlemah-rp17600-mei-2026-nasional-2026-05](/reference/extracted/news/rupiah-rekor-terlemah-rp17600-mei-2026-nasional-2026-05.md) | Rupiah tembus Rp17.600-17.668 per dolar AS pada 15-18 Mei 2026, rekor terkini |
+| [prabowo-bi-respons-rupiah-melemah-nasional-2026-05](/reference/extracted/news/prabowo-bi-respons-rupiah-melemah-nasional-2026-05.md) | Respons Prabowo "rakyat desa tidak pakai dolar" dan BI 7 langkah stabilisasi rupiah |
+| [faktor-pelemahan-rupiah-mei-2026-nasional-2026-05](/reference/extracted/news/faktor-pelemahan-rupiah-mei-2026-nasional-2026-05.md) | Analisis faktor penyebab pelemahan rupiah Mei 2026: geopolitik, moneter, domestik |
 
 ---
 
-*Terakhir diperbarui: 2026-05-16*
+*Terakhir diperbarui: 2026-05-20*
